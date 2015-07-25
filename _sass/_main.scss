@@ -1,11 +1,4 @@
 /*******************************************************************************
-Slate Theme for GitHub Pages
-by Jason Costello, @jsncostello
-*******************************************************************************/
-
-@import url(github-light.css);
-
-/*******************************************************************************
 MeyerWeb Reset
 *******************************************************************************/
 
@@ -296,23 +289,26 @@ Full-Width Styles
 }
 
 #header_wrap .inner {
-  padding: 50px 10px 30px 10px;
+  padding: 10px;
 }
 
 #project_title {
   margin: 0;
   color: #fff;
-  font-size: 42px;
+  font-size: 40px;
   font-weight: 700;
   text-shadow: #111 0px 0px 10px;
 }
 
 #project_tagline {
   color: #fff;
-  font-size: 24px;
+  text-align: right;
+  font-size: 20px;
   font-weight: 300;
   background: none;
   text-shadow: #111 0px 0px 10px;
+  padding-bottom: 0px;
+  margin: 0px;
 }
 
 #downloads {
@@ -361,7 +357,7 @@ Full-Width Styles
 }
 
 #main_content {
-  padding-top: 40px;
+  padding-top: 20px;
 }
 
 #footer_wrap {
@@ -389,7 +385,7 @@ Small Device Styles
   }
 
   #project_title {
-  font-size: 32px;
+  font-size: 30px;
   }
 
   h1 {
@@ -423,3 +419,10 @@ Small Device Styles
   }
 
 }
+
+#project_title a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.post-date { float:right; }
