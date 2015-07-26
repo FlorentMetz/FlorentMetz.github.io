@@ -2,11 +2,7 @@
 layout: default
 ---
 {% for post in site.posts %}
-  <h3>
-    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    <span class="post-date">[{{ post.date | date: "%-d/%m/%Y" }}]</span>
-  </h3>
-  {% if post.meta %}
-    <p>{{post.meta}}</p>
-  {% endif %}
+  <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+  <p class="post-meta">Published on {{ post.date | date: "%d/%m/%y" }}</p>
+  {{ post.excerpt }}
 {% endfor %}
