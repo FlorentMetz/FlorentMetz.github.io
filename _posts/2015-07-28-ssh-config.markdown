@@ -10,6 +10,8 @@ Let's say that I want to log on a remote server called dummy.com with the userna
 The SSH command would be:
 {% highlight bash %}
 ssh -l flotz -i ~/.ssh/private.key dummy.com
+# Or even
+ssh -i ~/.ssh/private.key flotz@dummy.com
 {% endhighlight %}
 
 Well, I will make my life easier by creating a config file for that hostname:
