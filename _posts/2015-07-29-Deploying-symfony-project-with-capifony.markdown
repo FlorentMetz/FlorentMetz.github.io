@@ -163,7 +163,7 @@ And on production:
 cap production deploy
 {% endhighlight %}
 
-If you change the logger.level to Logger::IMPORTANT, the output of your capifony deployment will look a bit sexier than the other levels
+If you change the `logger.level` to `Logger::IMPORTANT`, the output of your capifony deployment will look a bit sexier than the other levels
 
 ![Capifony deployment in IMPORTANT level]({{ site.url }}/images/posts/capifony-deployment.png)
 
