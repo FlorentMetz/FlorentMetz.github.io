@@ -28,13 +28,19 @@ capifony .
 {% endhighlight %}
 
 The last command will create a `Capfile` at the root of your folder, and a `deploy.rb` in `app/config/`.
+
 You shouldn't have to change anything in your Capfile. Most of the changes will be done in `app/config/deploy.rb`.
+
 Capifony's website describes pretty well how to simply setup a deployment so I am just going to be lazy and dump my configuration, and explain what it does :)
 
 I use capifony in a multistage environment (staging and production) which I keep in:
+
 - `app/config/environments/production.rb`
 - `app/config/environments/staging.rb`
-The two files contains the differences between the two servers (two stages). For instance: the hostname is different, the git branch I want to deploy is different (`development` on staging and `master` on production)
+
+The two files contains the differences between the two servers (two stages).
+
+For instance: the hostname is different, the git branch I want to deploy is different (`development` on staging and `master` on production)
 
 {% highlight ruby %}
 # app/config/environments/production.rb
@@ -143,7 +149,7 @@ before "deploy:cleanup",       "custom:restart:apache"
 after  "deploy",               "deploy:cleanup"                         # deploy:cleanup needs to be explicity run
 {% endhighlight %}
 
-With that deploy settings, I can easily deploy on my staging remote server by running:
+With the above deploy settings, I can easily deploy on my staging remote server by running:
 
 {% highlight bash %}
 cap deploy
@@ -156,6 +162,10 @@ And on production:
 {% highlight bash %}
 cap production deploy
 {% endhighlight %}
+
+If you change the logger.level to Logger::IMPORTANT, the output of your capifony deployment will look a bit sexier than the other levels
+
+![Capifony deployment in IMPORTANT level]({{ site.url }}/images/posts/capifony-deployment.png)
 
 [AWS]: http://aws.amazon.com/
 [Capifony]: http://capifony.org/
