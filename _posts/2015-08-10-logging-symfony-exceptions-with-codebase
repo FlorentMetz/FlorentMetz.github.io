@@ -9,7 +9,7 @@ We previously saw how to log your deployments with [codebase], I am now going to
 
 If you look at your codebase project, you'll see an "Exceptions" tab with some instructions about logging them. Find your codebase API key and create a listener in your symfony project to log the exceptions.
 
-{% highlight yml %}
+{% highlight yaml %}
 # in app/config/parameters.yml.dist
 
 codebase_api_key:   aaaaaa-bbbb-ccccc-ddddd-eeeeeee
@@ -27,7 +27,6 @@ services:
 And now create a new listener in your `src/App/MyBundle/Listener/ExceptionListener.php`
 
 {% highlight php %}
-<?php
 
 namespace App\MyBundle\Listener;
 
@@ -72,7 +71,7 @@ class ExceptionListener
 
 You will notice that in this listener, I am using Airbrake library. You can easily include it in your composer:
 
-{% highlight json %}
+{% highlight bash %}
 # in composer.json
 ...
 "require": {
