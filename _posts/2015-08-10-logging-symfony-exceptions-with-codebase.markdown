@@ -27,6 +27,7 @@ services:
 And now create a new listener in your `src/App/MyBundle/Listener/ExceptionListener.php`
 
 {% highlight php %}
+<?php
 
 namespace App\MyBundle\Listener;
 
@@ -69,17 +70,14 @@ class ExceptionListener
 }
 {% endhighlight %}
 
-You will notice that in this listener, I am using Airbrake library. You can easily include it in your composer:
+You will notice that in this listener, I am using Airbrake library. You can easily include it in your `composer.json`:
 
-{% highlight javascript %}
-# in composer.json
-...
+{% highlight json %}
 "require": {
     ...
     "dbtlr/php-airbrake": "~1.1"
     ...
 }
-...
 {% endhighlight %}
 
 And from your terminal, run a `composer update` - which will update your vendors folder with Airbrake.
