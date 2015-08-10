@@ -71,7 +71,7 @@ class ExceptionListener
 
 You will notice that in this listener, I am using Airbrake library. You can easily include it in your composer:
 
-{% highlight bash %}
+{% highlight javascript %}
 # in composer.json
 ...
 "require": {
