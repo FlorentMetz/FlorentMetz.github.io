@@ -9,7 +9,7 @@ We previously saw how to log your deployments with [codebase], I am now going to
 
 If you look at your codebase project, you'll see an "Exceptions" tab with some instructions about logging them. Find your codebase API key and create a listener in your symfony project to log the exceptions.
 
-{% highlight yaml %}
+{% highlight yml %}
 # in app/config/parameters.yml.dist
 
 codebase_api_key:   aaaaaa-bbbb-ccccc-ddddd-eeeeeee
