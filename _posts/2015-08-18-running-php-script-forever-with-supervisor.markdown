@@ -80,7 +80,7 @@ username = YourUsernameHere
 password = YourPasswordHere
 {% endhighlight %}
 
-Restart supervisor and now if you have a http server (restart it as well) you can go on (http://localhost:9001/) fill in username/password and access the supervisord web interface.
+Restart supervisor and now if you have a http server (restart it as well) you can go on [http://localhost:9001/] fill in username/password and access the supervisord web interface.
 
 [![Supervisor web interface](/images/posts/supervisor-webinterface.png)](/images/posts/supervisor-webinterface.png)
 
