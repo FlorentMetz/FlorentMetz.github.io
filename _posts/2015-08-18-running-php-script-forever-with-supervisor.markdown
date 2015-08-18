@@ -17,7 +17,7 @@ I stumbled upon a nice process control system called [Supervisor] which will mak
 sudo apt-get install supervisor
 {% endhighlight %}
 
-The below command will install the supervisor service in your `/etc/` that you can start|stop|restart|force-reload|status|force-stop.
+The below command will install the supervisor service in your `/etc/` that you can start, stop, restart, force-reload, status, force-stop.
 
 If you look at the `/etc/supervisor/supervisord.conf` config file, you'll see that supervisor includes config files in `/etc/supervisor/conf.d/*.conf`. Let's create one for our forever running php script.
 
@@ -80,7 +80,7 @@ username = YourUsernameHere
 password = YourPasswordHere
 {% endhighlight %}
 
-Restart supervisor and now if you have a http server (restart it as well) you can go on http://localhost:9001/ fill in username/password and access the supervisord web interface.
+Restart supervisor and now if you have a http server (restart it as well) you can go on (http://localhost:9001/) fill in username/password and access the supervisord web interface.
 
 [![Supervisor web interface](/images/posts/supervisor-webinterface.png)](/images/posts/supervisor-webinterface.png)
 
