@@ -8,7 +8,7 @@ categories: ubuntu
 Go get the [last version] of Thunderbird for your architecture in your language.
 
 {% highlight bash %}
-wget ftp://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/latest/linux-x86_64/en-GB/thunderbird-38.1.0.tar.bz2
+wget ftp.mozilla.org/pub/thunderbird/releases/latest/linux-x86_64/en-GB/thunderbird-38.3.0.tar.bz2
 tar -xjvf thunderbird-*
 sudo rm -rf /opt/thunderbird*
 sudo mv thunderbird /opt/thunderbird
