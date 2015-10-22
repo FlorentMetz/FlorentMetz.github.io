@@ -37,7 +37,7 @@ MimeType=application/xhtml+xml;text/xml;application/xhtml+xml;application/xml;ap
 StartupNotify=true
 EOF
 
-ln -sfv /opt/thunderbird-38.1.0/chrome/icons/default/default256.png /usr/share/pixmaps/thunderbird.png
+ln -sfv /opt/thunderbird/chrome/icons/default/default256.png /usr/share/pixmaps/thunderbird.png
 {% endhighlight %}
 
 ### Linking your Microsoft Exchange Calendar with Thunderbird
