@@ -4,6 +4,7 @@ locale: fr
 slug: danse-des-moines-bouddhiste-au-monastere-d-hemis
 title: Danse des moines bouddhiste au monast&egrave;re d'H&eacute;mis
 description: Dans des moines bouddhiste dans le monastere d'hemis
+excerpt: Ils savent comment faire passer le temps!
 date: 2012-06-15
 ---
 

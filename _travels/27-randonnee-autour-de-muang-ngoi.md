@@ -8,14 +8,14 @@ description: Apr&egrave;s avoir bien profit&eacute; de la bi&egrave;re Lao et de
 date: 2012-08-26
 ---
 
-<a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_1.jpg" title="Bienvenue dans le village recul&eacute; de Muang Ngoi!" class="entry-modalebox"><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_1.jpg" width="300" height="169" /></a>Bon d&eacute;j&agrave;, &agrave; Muang Ngoi, les choses commencent bien: pas d'&eacute;l&eacute;tricit&eacute; la journ&eacute;e mais des g&eacute;n&eacute;rateurs qui tournent entre 18 et 21h; pas d'eau chaude (pourtant elle serait la bienvenue le matin et le soir) et beaucoup moins de touristes. BEAUCOUP moins.
+{:.image.fit}
+![Bienvenue dans le village recul&eacute; de Muang Ngoi!](/medias/photos/laos/trek-muang-ngoi/image_1.jpg 'Bienvenue dans le village recul&eacute; de Muang Ngoi!')
 
 Sur le chemin pour Nong Kiaw, je fait la connaissance d'un Corce qui partage l'envie d'une bonne randonn&eacute;e; on va donc au point info du village ensemble pour se procurer une map ou une eventuelle excursion de quelque jours...
 
 Apr&egrave;s quelques demandes a gauche/a droite: pas moyen de mettre la main sur une carte mis a part des directions grossi&egrave;re vers les villages des alentours, et les excursions avec guide coutent plus que la peau du cul pour ce que c'est... (on a &eacute;t&eacute; offert environ 48&euro; pour une excursion de deux jours/personnes, et une autre offre a 25&euro; pour la m&ecirc;me excursion mais en groupe d'au moins 4 personnes... Non merci.)
 
 Il nous faut alors choisir une excursion, parce que nous on veut de la randonn&eacute;e en for&ecirc;t, on veut voir du village reclus!
-
 
 - &quot;Bon, ils sont ch&egrave;res ces cons de guide pour 2 jours a marcher dans une for&ecirc;t jusqu'aux prochain villages...&quot;
 - &quot;Bin ouais et &agrave; ce prix l&agrave; je pr&eacute;f&egrave;re encore me faire la randonn&eacute;e seul et donner de l'argent a un local et faire de l'homestay dans son village..&quot;
@@ -24,11 +24,14 @@ Il nous faut alors choisir une excursion, parce que nous on veut de la randonn&e
 
 On demande donc encore a gauche/a droite et on trouve finalement un -a peu pres- local qui parle un peu fran&ccedil;ais et nous fait savoir quel chemin prendre, jusqu'ou et ou ne pas aller.
 
-<a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_2.jpg" title="Notre carte de randonn&eacute;e..." class="entry-modalebox"><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_2.jpg" width="300" height="169" /></a>
+{:.image.fit}
+![Notre carte de randonn&eacute;e...](/medias/photos/laos/trek-muang-ngoi/image_2.jpg 'Notre carte de randonn&eacute;e...')
 
-<a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_3.jpg" title="Ue autre version de la carte" class="entry-modalebox"><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_3.jpg" width="300" height="169" /></a>
+{:.image.fit}
+![Ue autre version de la carte](/medias/photos/laos/trek-muang-ngoi/image_3.jpg 'Ue autre version de la carte')
 
-<a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_4.jpg" title="Le seul monast&egrave;re de Muang Ngoi avec des jeunes moines assez sympa!" class="entry-modalebox"><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_4.jpg" width="300" height="169" class="right" /></a>
+{:.image.fit}
+![Le seul monast&egrave;re de Muang Ngoi avec des jeunes moines assez sympa!](/medias/photos/laos/trek-muang-ngoi/image_4.jpg 'Le seul monast&egrave;re de Muang Ngoi avec des jeunes moines assez sympa!')
 
 Bon bin on partira demain des 9h!
 On commence donc notre randonn&eacute;e &agrave; deux -sans guide- avec une bouteille d'eau et un appareil photo chacun, et surtout de la bonne motivation!
@@ -70,47 +73,100 @@ SABAIDEE? On fait le tour pour trouver quelqu'un; le village n'est pas compos&ea
 Tiens, ya quelqu'un la bas; on fait la connaissance de Boulping, chouette mec qui parle tres bien anglais, qui peut nous h&eacute;berger pour pas trop cher et nous cuisiner un petit repas! Parfait Boulping, on t'aime d&eacute;j&agrave!
 On a le droit a une bonne soupe, du riz et un lit avec moustiquiaire: parfffait apr&egrave;s une journ&eacute;e de randonn&eacute;e et &agrave; ramper dans la boue pour avancer.
 
+{:.image.fit}
+![Une locale qui se balade entre deux villages.](/medias/photos/laos/trek-muang-ngoi/image_5.jpg 'Une locale qui se balade entre deux villages.')
 
-<div class="galery-photos-500">
-<ul>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_5.jpg" class="entry-modalebox" title="Une locale qui se balade entre deux villages."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_5.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_6.jpg" class="entry-modalebox" title="Un local qui rampe entre deux villages..."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_6.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_7.jpg" class="entry-modalebox" title="Les premiers ponts semble assez....f&eacute;briles!"><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_7.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_8.jpg" class="entry-modalebox" title="Mais ils tiennent le coup."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_8.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_9.jpg" class="entry-modalebox" title="Int&eacute;rieur de la cave."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_9.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_10.jpg" class="entry-modalebox" title="La cave se trouve juste sur le chemin de la rando."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_10.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_11.jpg" class="entry-modalebox" title="On longe les rizi&egrave;res sur quelques kilom&egrave;tres..."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_11.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_12.jpg" class="entry-modalebox" title="La hauteur commence a se voir un peu"><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_12.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_13.jpg" class="entry-modalebox" title="La travers&eacute;e grouink des cochons..."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_13.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_14.jpg" class="entry-modalebox" title="Ils gueulaient &eacute;norm&eacute;ment!"><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_14.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_15.jpg" class="entry-modalebox" title="Apr&egrave;s la travers&eacute;e on continue en longeant la rivi&egrave;re."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_15.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_16.jpg" class="entry-modalebox" title="Une autre rivi&egrave;re a traverser."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_16.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_17.jpg" class="entry-modalebox" title="Arriv&eacute; dans le premier village avec les huttes sur&eacute;lev&eacute;es."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_17.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_18.jpg" class="entry-modalebox" title="Un local qui fabrique un filet de p&ecirc;che."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_18.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_19.jpg" class="entry-modalebox" title="Premier village, Ban Houaysene"><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_19.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_20.jpg" class="entry-modalebox" title="La sortie du village pour continuer."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_20.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_21.jpg" class="entry-modalebox" title="Belle vue sur les rizi&egrave;res"><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_21.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_22.jpg" class="entry-modalebox" title="Belle vue sur les rizi&egrave;res"><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_22.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_23.jpg" class="entry-modalebox" title="Arriv&eacute; dans le village de Ban Kiukhan par l'&eacute;cole locale."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_23.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_24.jpg" class="entry-modalebox" title="Ban Kiukhan."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_24.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_25.jpg" class="entry-modalebox" title="Ban Kiukhan. Hutte sur&eacute;lev&eacute;."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_25.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_26.jpg" class="entry-modalebox" title="Ban Kiukhan. Hutte sur&eacute;lev&eacute;."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_26.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_27.jpg" class="entry-modalebox" title="Ban Kiukhan. Hutte sur&eacute;lev&eacute;."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_27.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_28.jpg" class="entry-modalebox" title="Ban Kiukhan. D&eacute;sert...."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_28.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_29.jpg" class="entry-modalebox" title="Ban Kiukhan. Boulping donne a manger aux cochons."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_29.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_30.jpg" class="entry-modalebox" title="Bien d&eacute;guelasse...."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_30.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_31.jpg" class="entry-modalebox" title="Boulping qui fabrique des chapeaux."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_31.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_32.jpg" class="entry-modalebox" title="Repas du soir: soupe avec riz gluant."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_32.jpg" width="500" height="281" /></a></li>
-</ul>
-</div>
-<p>
+{:.image.fit}
+![Un local qui rampe entre deux villages...](/medias/photos/laos/trek-muang-ngoi/image_6.jpg 'Un local qui rampe entre deux villages...')
+
+{:.image.fit}
+![Les premiers ponts semble assez....f&eacute;briles!](/medias/photos/laos/trek-muang-ngoi/image_7.jpg 'Les premiers ponts semble assez....f&eacute;briles!')
+
+{:.image.fit}
+![Mais ils tiennent le coup.](/medias/photos/laos/trek-muang-ngoi/image_8.jpg 'Mais ils tiennent le coup.')
+
+{:.image.fit}
+![Int&eacute;rieur de la cave.](/medias/photos/laos/trek-muang-ngoi/image_9.jpg 'Int&eacute;rieur de la cave.')
+
+{:.image.fit}
+![La cave se trouve juste sur le chemin de la rando.](/medias/photos/laos/trek-muang-ngoi/image_10.jpg 'La cave se trouve juste sur le chemin de la rando.')
+
+{:.image.fit}
+![On longe les rizi&egrave;res sur quelques kilom&egrave;tres...](/medias/photos/laos/trek-muang-ngoi/image_11.jpg 'On longe les rizi&egrave;res sur quelques kilom&egrave;tres...')
+
+{:.image.fit}
+![La hauteur commence a se voir un peu](/medias/photos/laos/trek-muang-ngoi/image_12.jpg 'La hauteur commence a se voir un peu')
+
+{:.image.fit}
+![La travers&eacute;e grouink des cochons...](/medias/photos/laos/trek-muang-ngoi/image_13.jpg 'La travers&eacute;e grouink des cochons...')
+
+{:.image.fit}
+![Ils gueulaient &eacute;norm&eacute;ment!](/medias/photos/laos/trek-muang-ngoi/image_14.jpg 'Ils gueulaient &eacute;norm&eacute;ment!')
+
+{:.image.fit}
+![Apr&egrave;s la travers&eacute;e on continue en longeant la rivi&egrave;re.](/medias/photos/laos/trek-muang-ngoi/image_15.jpg 'Apr&egrave;s la travers&eacute;e on continue en longeant la rivi&egrave;re.')
+
+{:.image.fit}
+![Une autre rivi&egrave;re a traverser.](/medias/photos/laos/trek-muang-ngoi/image_16.jpg 'Une autre rivi&egrave;re a traverser.')
+
+{:.image.fit}
+![Arriv&eacute; dans le premier village avec les huttes sur&eacute;lev&eacute;es.](/medias/photos/laos/trek-muang-ngoi/image_17.jpg 'Arriv&eacute; dans le premier village avec les huttes sur&eacute;lev&eacute;es.')
+
+{:.image.fit}
+![Un local qui fabrique un filet de p&ecirc;che.](/medias/photos/laos/trek-muang-ngoi/image_18.jpg 'Un local qui fabrique un filet de p&ecirc;che.')
+
+{:.image.fit}
+![Premier village, Ban Houaysene](/medias/photos/laos/trek-muang-ngoi/image_19.jpg 'Premier village, Ban Houaysene')
+
+{:.image.fit}
+![La sortie du village pour continuer.](/medias/photos/laos/trek-muang-ngoi/image_20.jpg 'La sortie du village pour continuer.')
+
+{:.image.fit}
+![Belle vue sur les rizi&egrave;res](/medias/photos/laos/trek-muang-ngoi/image_21.jpg 'Belle vue sur les rizi&egrave;res')
+
+{:.image.fit}
+![Belle vue sur les rizi&egrave;res](/medias/photos/laos/trek-muang-ngoi/image_22.jpg 'Belle vue sur les rizi&egrave;res')
+
+{:.image.fit}
+![Arriv&eacute; dans le village de Ban Kiukhan par l'&eacute;cole locale.](/medias/photos/laos/trek-muang-ngoi/image_23.jpg 'Arriv&eacute; dans le village de Ban Kiukhan par l'&eacute;cole locale.')
+
+{:.image.fit}
+![Ban Kiukhan.](/medias/photos/laos/trek-muang-ngoi/image_24.jpg 'Ban Kiukhan.')
+
+{:.image.fit}
+![Ban Kiukhan. Hutte sur&eacute;lev&eacute;.](/medias/photos/laos/trek-muang-ngoi/image_25.jpg 'Ban Kiukhan. Hutte sur&eacute;lev&eacute;.')
+
+{:.image.fit}
+![Ban Kiukhan. Hutte sur&eacute;lev&eacute;.](/medias/photos/laos/trek-muang-ngoi/image_26.jpg 'Ban Kiukhan. Hutte sur&eacute;lev&eacute;.')
+
+{:.image.fit}
+![Ban Kiukhan. Hutte sur&eacute;lev&eacute;.](/medias/photos/laos/trek-muang-ngoi/image_27.jpg 'Ban Kiukhan. Hutte sur&eacute;lev&eacute;.')
+
+{:.image.fit}
+![Ban Kiukhan. D&eacute;sert....](/medias/photos/laos/trek-muang-ngoi/image_28.jpg 'Ban Kiukhan. D&eacute;sert....')
+
+{:.image.fit}
+![Ban Kiukhan. Boulping donne a manger aux cochons.](/medias/photos/laos/trek-muang-ngoi/image_29.jpg 'Ban Kiukhan. Boulping donne a manger aux cochons.')
+
+{:.image.fit}
+![Bien d&eacute;guelasse....](/medias/photos/laos/trek-muang-ngoi/image_30.jpg 'Bien d&eacute;guelasse....')
+
+{:.image.fit}
+![Boulping qui fabrique des chapeaux.](/medias/photos/laos/trek-muang-ngoi/image_31.jpg 'Boulping qui fabrique des chapeaux.')
+
+{:.image.fit}
+![Repas du soir: soupe avec riz gluant.](/medias/photos/laos/trek-muang-ngoi/image_32.jpg 'Repas du soir: soupe avec riz gluant.')
+
 Jour 2 de l'excursion et elle commence mal: il pleut depuis le matin jusqu'a presque midi... Le chemin va etre beau &agrave; marcher!<br />
 On prend donc notre petit d&eacute;jeuner tranquillement et on se pr&eacute;pare a partir pendant que la pluie cesse tranquillement, on se remotive, apr&egrave;s tout il ne reste qu'environ 4 heures de marche pour acc&eacute;der &agrave; Ban Sopchem.<br />
 &quot;On demande des indications a notre h&eacute;bergeur pour le prochain village:<br />
 A droite, tout droit pendant 4 km, rivi&egrave;re a traverser, longer la rivi&egrave;re, village. Chemin glissant, pas bon avec pluie.&quot;<br />
 Les indications DEVRONT faire l'affaire, on a pas trop le choix... On remercie profond&eacute;ment (la main au portefeuille aussi) Boulping et on prend a droite a la sortie du village..<br />
 On se rend compte d&egrave;s la premiere demi heure qu'on va en chier: ma premi&egrave;re glissade a failli me faire d&eacute;valer d'un bon m&egrave;tre dans des ronces et le premier "putain-ya-truc-qui-bouge-par-la" qu'on croise se trouve &ecirc;tre un b&eacute;b&eacute; cobra noir et jaune!<br />
-<a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_33.jpg" title="B&eacute;b&eacute; cobra sur le chemin, bien sympa..." class="entry-modalebox"><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_33.jpg" class="right" width="300" height="169" /></a>
+
+{:.image.fit}
+![B&eacute;b&eacute; cobra sur le chemin, bien sympa...](/medias/photos/laos/trek-muang-ngoi/image_33.jpg 'B&eacute;b&eacute; cobra sur le chemin, bien sympa...')
+
 La demi heure qui suit on la passe &agrave; avancer doucement et tapant des pieds bien bruyamment comme deux cons perdu en for&ecirc;t. Jusqu'&agrave; ce que le chemin monte s&eacute;v&egrave;re et qu'on puisse plus taper des pieds mais plutot faire de la patinoire tellement le chemin &eacute;tait d&eacute;guelasse..</p>
 
 - &quot;Putain! Non seulement on s'enfonce jusqu'&agrave; la cheville mais en plus ca PUS la merde ici!&quot;
@@ -121,7 +177,6 @@ La demi heure qui suit on la passe &agrave; avancer doucement et tapant des pied
 Et l&agrave;, c'est le drame. Il fait chaud donc on transpire beaucoup (trop), les moustiques et grosses mouches bizarre te volent autour, le "chemin glissant" est en fait une putain de patinoire o&ucirc; tu te casses la gueule ou tu t'enfonces comme une merde, si ya des b&eacute;b&eacute; cobras, ca veut dire qu'il y a aussi des mamans et papas bien &eacute;normes.
 Ca suffisait pas au programme, fallait aussi ajouter: invasion des sangsues au royaume des pieds. Ces saloperies montent assez rapidement et une fois coll&eacute; a la peau faut avoir des ongles pour les virer (faire attention qu'ils restent pas coll&eacute; au doigts de la mains -comme c'est arriv&eacute; bien trop souvent....). Bordel, j'ai pas d'ongles!
 On essaye de se d&eacute;barasser de ces sangues de malheur mais l&agrave; o&ugrave; on se trouve, en retirer une c'est passer assez de temps pour que 3 autres te grimpent dessus...
-
 
 - &quot;Bordel, ca monte vite ces conneries, pis j'ai le pied qui pisse le sang, regarde celle-l&agrave;! Elle me bouffe a travers ma chaussette!&quot;
 - &quot;Faut bouger ailleurs si on reste y'en aura trop, on les virera apr&egrave;s!&quot;
@@ -140,23 +195,47 @@ Une fois arriv&eacute; &agrave; l'entr&eacute;e du village, ma premi&egrave;re d
 Apr&egrave; une douche bien fraiche, une rigolade partag&eacute;e avec les villageois et un coca de r&eacute;compense pour une bonne marche a pied, on se trouve un bateau pour nous ramener a Muang Ngoi pour 40 000 kip par personne (donc 80) et c'est qu'une fois sur le bateau; quand on voit tout le chemin parcouru qu'on se rend compte qu'on a caval comme des malades...
 Au final, j'ai compris pourquoi le guide demandais aussi cher: meme si tu me paye 30 euros je sais pas si je le referais...
 
+{:.image.fit}
+![Le chemin se r&eacute;tr&eacute;cie, devient compliqu&eacute; et glisse a mort!](/medias/photos/laos/trek-muang-ngoi/image_34.jpg 'Le chemin se r&eacute;tr&eacute;cie, devient compliqu&eacute; et glisse a mort!')
 
-<div class="galery-photos-500">
-<ul>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_34.jpg" class="entry-modalebox" title="Le chemin se r&eacute;tr&eacute;cie, devient compliqu&eacute; et glisse a mort!"><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_34.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_35.jpg" class="entry-modalebox" title="Les pieds dans la flotte, faut continuer pendant une bonne heure."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_35.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_36.jpg" class="entry-modalebox" title="Et le courant est fort!"><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_36.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_37.jpg" class="entry-modalebox" title="C'est pas comme si on voyait du paysage..."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_37.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_38.jpg" class="entry-modalebox" title="Une fois pieds a terre, travers&eacute; des rizi&egrave;res tailles humaine."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_38.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_39.jpg" class="entry-modalebox" title="HAAAaaaa!! La vue du Nam Ou indique la fin du cauchemar!"><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_39.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_40.jpg" class="entry-modalebox" title="Derni&egrave;re descente.."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_40.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_41.jpg" class="entry-modalebox" title="Arriv&eacute; au village Ban Sopchem"><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_41.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_42.jpg" class="entry-modalebox" title="Direction le robinet local pour se rafraichir!"><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_42.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_43.jpg" class="entry-modalebox" title="On a fait l'attraction du village pendant un petit moment."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_43.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_44.jpg" class="entry-modalebox" title="Notre bateau nous attend enfin."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_44.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_45.jpg" class="entry-modalebox" title="Direction Muang Ngoi"><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_45.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_46.jpg" class="entry-modalebox" title="Et l&agrave; on se rend compte qu'on voit plus de chose sur le bateau que pendant la randonn&eacute;e."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_46.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_47.jpg" class="entry-modalebox" title="Muang Ngoi est en vue."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_47.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/trek-muang-ngoi/image_48.jpg" class="entry-modalebox" title="Le p&eacute;riple s'arr&ecirc;te ici."><img src="/medias/photos/laos/trek-muang-ngoi/thumbs/image_48.jpg" width="500" height="281" /></a></li>
-</ul>
-</div>
+{:.image.fit}
+![Les pieds dans la flotte, faut continuer pendant une bonne heure.](/medias/photos/laos/trek-muang-ngoi/image_35.jpg 'Les pieds dans la flotte, faut continuer pendant une bonne heure.')
+
+{:.image.fit}
+![Et le courant est fort!](/medias/photos/laos/trek-muang-ngoi/image_36.jpg 'Et le courant est fort!')
+
+{:.image.fit}
+![C'est pas comme si on voyait du paysage...](/medias/photos/laos/trek-muang-ngoi/image_37.jpg 'C'est pas comme si on voyait du paysage...')
+
+{:.image.fit}
+![Une fois pieds a terre, travers&eacute; des rizi&egrave;res tailles humaine.](/medias/photos/laos/trek-muang-ngoi/image_38.jpg 'Une fois pieds a terre, travers&eacute; des rizi&egrave;res tailles humaine.')
+
+{:.image.fit}
+![HAAAaaaa!! La vue du Nam Ou indique la fin du cauchemar!](/medias/photos/laos/trek-muang-ngoi/image_39.jpg 'HAAAaaaa!! La vue du Nam Ou indique la fin du cauchemar!')
+
+{:.image.fit}
+![Derni&egrave;re descente..](/medias/photos/laos/trek-muang-ngoi/image_40.jpg 'Derni&egrave;re descente..')
+
+{:.image.fit}
+![Arriv&eacute; au village Ban Sopchem](/medias/photos/laos/trek-muang-ngoi/image_41.jpg 'Arriv&eacute; au village Ban Sopchem')
+
+{:.image.fit}
+![Direction le robinet local pour se rafraichir!](/medias/photos/laos/trek-muang-ngoi/image_42.jpg 'Direction le robinet local pour se rafraichir!')
+
+{:.image.fit}
+![On a fait l'attraction du village pendant un petit moment.](/medias/photos/laos/trek-muang-ngoi/image_43.jpg 'On a fait l'attraction du village pendant un petit moment.')
+
+{:.image.fit}
+![Notre bateau nous attend enfin.](/medias/photos/laos/trek-muang-ngoi/image_44.jpg 'Notre bateau nous attend enfin.')
+
+{:.image.fit}
+![Direction Muang Ngoi](/medias/photos/laos/trek-muang-ngoi/image_45.jpg 'Direction Muang Ngoi')
+
+{:.image.fit}
+![Et l&agrave; on se rend compte qu'on voit plus de chose sur le bateau que pendant la randonn&eacute;e.](/medias/photos/laos/trek-muang-ngoi/image_46.jpg 'Et l&agrave; on se rend compte qu'on voit plus de chose sur le bateau que pendant la randonn&eacute;e.')
+
+{:.image.fit}
+![Muang Ngoi est en vue.](/medias/photos/laos/trek-muang-ngoi/image_47.jpg 'Muang Ngoi est en vue.')
+
+{:.image.fit}
+![Le p&eacute;riple s'arr&ecirc;te ici.](/medias/photos/laos/trek-muang-ngoi/image_48.jpg 'Le p&eacute;riple s'arr&ecirc;te ici.')

@@ -8,56 +8,155 @@ description: Album photos de Jaisalmer, Jodhpur, Pushkar, Udaipur, Jaipur au Raj
 date: 2012-07-07
 ---
 
-<ul>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jaisalmer/image_1.jpg" class="entry-modalebox" title="Jaisalmer Fort."><img src="/medias/photos/inde/jaisalmer/thumbs/image_1.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jaisalmer/image_2.jpg" class="entry-modalebox" title="Havelis dans le fort de Jaisalmer."><img src="/medias/photos/inde/jaisalmer/thumbs/image_2.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jaisalmer/image_3.jpg" class="entry-modalebox" title="On &eacute;tend son linge l&agrave; ou on peut!"><img src="/medias/photos/inde/jaisalmer/thumbs/image_3.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jaisalmer/image_4.jpg" class="entry-modalebox" title="Le fort de Jaisalmer."><img src="/medias/photos/inde/jaisalmer/thumbs/image_4.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jodhpur/image_1.jpg" class="entry-modalebox" title="L'horloge de Jodhpur avec le fort Meherangarh derri&egrave;re."><img src="/medias/photos/inde/jodhpur/thumbs/image_1.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jodhpur/image_2.jpg" class="entry-modalebox" title="Le fort Meherangarh de Jodhpur."><img src="/medias/photos/inde/jodhpur/thumbs/image_2.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jodhpur/image_3.jpg" class="entry-modalebox" title="Le fort Meherangarh de Jodhpur."><img src="/medias/photos/inde/jodhpur/thumbs/image_3.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jodhpur/image_4.jpg" class="entry-modalebox" title="Petite vue sur la ville bleue de Jodhpur depuis le fort de Meherangarh."><img src="/medias/photos/inde/jodhpur/thumbs/image_4.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jodhpur/image_5.jpg" class="entry-modalebox" title="Le Jaswant Thada, m&eacute;morial au Maharaja Jaswant Singh II."><img src="/medias/photos/inde/jodhpur/thumbs/image_5.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jodhpur/image_6.jpg" class="entry-modalebox" title="Le Jaswant Thada, m&eacute;morial au Maharaja Jaswant Singh II."><img src="/medias/photos/inde/jodhpur/thumbs/image_6.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jodhpur/image_7.jpg" class="entry-modalebox" title="Le Jaswant Thada, m&eacute;morial au Maharaja Jaswant Singh II."><img src="/medias/photos/inde/jodhpur/thumbs/image_7.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jodhpur/image_8.jpg" class="entry-modalebox" title="Le Jaswant Thada, m&eacute;morial au Maharaja Jaswant Singh II."><img src="/medias/photos/inde/jodhpur/thumbs/image_8.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jodhpur/image_9.jpg" class="entry-modalebox" title="Faut bien nourrir les oiseaux parfois!"><img src="/medias/photos/inde/jodhpur/thumbs/image_9.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jodhpur/image_10.jpg" class="entry-modalebox" title="Couch&eacute; de soleil pr&ecirc;s du fort de Jodhpur."><img src="/medias/photos/inde/jodhpur/thumbs/image_10.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/udaipur/image_1.jpg" class="entry-modalebox" title="Udaipur et ses lacs"><img src="/medias/photos/inde/udaipur/thumbs/image_1.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/udaipur/image_2.jpg" class="entry-modalebox" title="Le premier &eacute;l&eacute;phant que je croise &agrave; l'improviste dans la rue."><img src="/medias/photos/inde/udaipur/thumbs/image_2.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/udaipur/image_3.jpg" class="entry-modalebox" title="La ville d'Udaipur et ses lacs"><img src="/medias/photos/inde/udaipur/thumbs/image_3.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/udaipur/image_4.jpg" class="entry-modalebox" title="Sculutures d'un temple".><img src="/medias/photos/inde/udaipur/thumbs/image_4.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/udaipur/image_5.jpg" class="entry-modalebox" title="Vue d'Udaipur depuis une fen&ecirc;tre."><img src="/medias/photos/inde/udaipur/thumbs/image_5.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/pushkar/image_1.jpg" class="entry-modalebox" title="Pushkar et ses ghats (escaliers menant a l'eau)"><img src="/medias/photos/inde/pushkar/thumbs/image_1.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/pushkar/image_2.jpg" class="entry-modalebox" title="Pushkar et ses ghats (escaliers menant a l'eau)"><img src="/medias/photos/inde/pushkar/thumbs/image_2.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/pushkar/image_3.jpg" class="entry-modalebox" title="Couch&eacute; de soleil sur Pushkar."><img src="/medias/photos/inde/pushkar/thumbs/image_3.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/pushkar/image_4.jpg" class="entry-modalebox" title="Petit croissant de lune."><img src="/medias/photos/inde/pushkar/thumbs/image_4.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/pushkar/image_5.jpg" class="entry-modalebox" title="Vue imprenable sur Pushkar!"><img src="/medias/photos/inde/pushkar/thumbs/image_5.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/pushkar/image_6.jpg" class="entry-modalebox" title="Vue imprenable sur Pushkar!"><img src="/medias/photos/inde/pushkar/thumbs/image_6.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/pushkar/image_7.jpg" class="entry-modalebox" title="Une tortue se balade dans le restaurant..."><img src="/medias/photos/inde/pushkar/thumbs/image_7.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/pushkar/image_8.jpg" class="entry-modalebox" title="Take Time...."><img src="/medias/photos/inde/pushkar/thumbs/image_8.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/pushkar/image_9.jpg" class="entry-modalebox" title="Le singe monte la garde!"><img src="/medias/photos/inde/pushkar/thumbs/image_9.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/pushkar/image_10.jpg" class="entry-modalebox" title="D'ailleurs il y avait pas mal de singes sur cette colline."><img src="/medias/photos/inde/pushkar/thumbs/image_10.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/pushkar/image_11.jpg" class="entry-modalebox" title="Il y en a qui tapent la pause..."><img src="/medias/photos/inde/pushkar/thumbs/image_11.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/pushkar/image_12.jpg" class="entry-modalebox" title="D'autres qui s'en foutent compl&egrave;tement de la vue sur Pushkar."><img src="/medias/photos/inde/pushkar/thumbs/image_12.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/pushkar/image_13.jpg" class="entry-modalebox" title="Pourtant la vue est pas mal!"><img src="/medias/photos/inde/pushkar/thumbs/image_13.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/pushkar/image_14.jpg" class="entry-modalebox" title="On peut voir assez loin..."><img src="/medias/photos/inde/pushkar/thumbs/image_14.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/pushkar/image_15.jpg" class="entry-modalebox" title="Le Savitri Temple qui se trouve au sommet de la colline."><img src="/medias/photos/inde/pushkar/thumbs/image_15.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/pushkar/image_16.jpg" class="entry-modalebox" title="Et encore une autre vue sur Pushkar."><img src="/medias/photos/inde/pushkar/thumbs/image_16.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/pushkar/image_17.jpg" class="entry-modalebox" title="Et on redescend au milieu des singes qui attendent de la nourriture."><img src="/medias/photos/inde/pushkar/thumbs/image_17.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/pushkar/image_18.jpg" class="entry-modalebox" title="Des bananes par exemple..."><img src="/medias/photos/inde/pushkar/thumbs/image_18.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/pushkar/image_19.jpg" class="entry-modalebox" title="Le st&eacute;r&eacute;otype du singe qui mange sa banane est prouv&eacute;."><img src="/medias/photos/inde/pushkar/thumbs/image_19.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/pushkar/image_20.jpg" class="entry-modalebox" title="D&eacute;part pour Jaipur en train."><img src="/medias/photos/inde/pushkar/thumbs/image_20.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jaipur/image_1.jpg" class="entry-modalebox" title="Le premier feu de traffic que je remarque en Inde, et je ne pense pas qu'il soit fonctionnel - Jaipur"><img src="/medias/photos/inde/jaipur/thumbs/image_1.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jaipur/image_2.jpg" class="entry-modalebox" title="Tiens? Un &eacute;l&eacute;phant dans la rue!"><img src="/medias/photos/inde/jaipur/thumbs/image_2.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jaipur/image_3.jpg" class="entry-modalebox" title="Petite vue sur le fort d'Amber de Jaipur."><img src="/medias/photos/inde/jaipur/thumbs/image_3.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jaipur/image_4.jpg" class="entry-modalebox" title="Va falloir grimper cetter muraille?"><img src="/medias/photos/inde/jaipur/thumbs/image_4.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jaipur/image_5.jpg" class="entry-modalebox" title="Pis elle va loin la muraille...."><img src="/medias/photos/inde/jaipur/thumbs/image_5.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jaipur/image_6.jpg" class="entry-modalebox" title="Bon bin on grimpe et on profite de la vue sur le fort d'Amber."><img src="/medias/photos/inde/jaipur/thumbs/image_6.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jaipur/image_7.jpg" class="entry-modalebox" title="On fait le con au sommet de la muraille: &quot;Je crois que je vois l'ennemie arriver!&quot;"><img src="/medias/photos/inde/jaipur/thumbs/image_7.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jaipur/image_8.jpg" class="entry-modalebox" title="La muraille depuis une fen&ecirc;tre."><img src="/medias/photos/inde/jaipur/thumbs/image_8.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jaipur/image_9.jpg" class="entry-modalebox" title="Vue sur la vieille ville de Jaipur."><img src="/medias/photos/inde/jaipur/thumbs/image_9.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jaipur/image_10.jpg" class="entry-modalebox" title="La muraille."><img src="/medias/photos/inde/jaipur/thumbs/image_10.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jaipur/image_11.jpg" class="entry-modalebox" title="L'all&eacute;e des &eacute;l&eacute;phants."><img src="/medias/photos/inde/jaipur/thumbs/image_11.jpg" width="300" height="168" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/inde/jaipur/image_12.jpg" class="entry-modalebox" title="Et ca passe, et ca passe."><img src="/medias/photos/inde/jaipur/thumbs/image_11.jpg" width="300" height="168" /></a></li>
-</ul>
+{:.image.fit}
+![Jaisalmer Fort.](/medias/photos/inde/jaisalmer/image_1.jpg 'Jaisalmer Fort.')
+
+{:.image.fit}
+![Havelis dans le fort de Jaisalmer.](/medias/photos/inde/jaisalmer/image_2.jpg 'Havelis dans le fort de Jaisalmer.')
+
+{:.image.fit}
+![On &eacute;tend son linge l&agrave; ou on peut!](/medias/photos/inde/jaisalmer/image_3.jpg 'On &eacute;tend son linge l&agrave; ou on peut!')
+
+{:.image.fit}
+![Le fort de Jaisalmer.](/medias/photos/inde/jaisalmer/image_4.jpg 'Le fort de Jaisalmer.')
+
+{:.image.fit}
+![L'horloge de Jodhpur avec le fort Meherangarh derri&egrave;re.](/medias/photos/inde/jodhpur/image_1.jpg 'L'horloge de Jodhpur avec le fort Meherangarh derri&egrave;re.')
+
+{:.image.fit}
+![Le fort Meherangarh de Jodhpur.](/medias/photos/inde/jodhpur/image_2.jpg 'Le fort Meherangarh de Jodhpur.')
+
+{:.image.fit}
+![Le fort Meherangarh de Jodhpur.](/medias/photos/inde/jodhpur/image_3.jpg 'Le fort Meherangarh de Jodhpur.')
+
+{:.image.fit}
+![Petite vue sur la ville bleue de Jodhpur depuis le fort de Meherangarh.](/medias/photos/inde/jodhpur/image_4.jpg 'Petite vue sur la ville bleue de Jodhpur depuis le fort de Meherangarh.')
+
+{:.image.fit}
+![Le Jaswant Thada, m&eacute;morial au Maharaja Jaswant Singh II.](/medias/photos/inde/jodhpur/image_5.jpg 'Le Jaswant Thada, m&eacute;morial au Maharaja Jaswant Singh II.')
+
+{:.image.fit}
+![Le Jaswant Thada, m&eacute;morial au Maharaja Jaswant Singh II.](/medias/photos/inde/jodhpur/image_6.jpg 'Le Jaswant Thada, m&eacute;morial au Maharaja Jaswant Singh II.')
+
+{:.image.fit}
+![Le Jaswant Thada, m&eacute;morial au Maharaja Jaswant Singh II.](/medias/photos/inde/jodhpur/image_7.jpg 'Le Jaswant Thada, m&eacute;morial au Maharaja Jaswant Singh II.')
+
+{:.image.fit}
+![Le Jaswant Thada, m&eacute;morial au Maharaja Jaswant Singh II.](/medias/photos/inde/jodhpur/image_8.jpg 'Le Jaswant Thada, m&eacute;morial au Maharaja Jaswant Singh II.')
+
+{:.image.fit}
+![Faut bien nourrir les oiseaux parfois!](/medias/photos/inde/jodhpur/image_9.jpg 'Faut bien nourrir les oiseaux parfois!')
+
+{:.image.fit}
+![Couch&eacute; de soleil pr&ecirc;s du fort de Jodhpur.](/medias/photos/inde/jodhpur/image_10.jpg 'Couch&eacute; de soleil pr&ecirc;s du fort de Jodhpur.')
+
+{:.image.fit}
+![Udaipur et ses lacs](/medias/photos/inde/udaipur/image_1.jpg 'Udaipur et ses lacs')
+
+{:.image.fit}
+![Le premier &eacute;l&eacute;phant que je croise &agrave; l'improviste dans la rue.](/medias/photos/inde/udaipur/image_2.jpg 'Le premier &eacute;l&eacute;phant que je croise &agrave; l'improviste dans la rue.')
+
+{:.image.fit}
+![La ville d'Udaipur et ses lacs](/medias/photos/inde/udaipur/image_3.jpg 'La ville d'Udaipur et ses lacs')
+
+{:.image.fit}
+![Sculutures d'un temple"](/medias/photos/inde/udaipur/image_4.jpg 'Sculutures d'un temple"')
+
+{:.image.fit}
+![Vue d'Udaipur depuis une fen&ecirc;tre.](/medias/photos/inde/udaipur/image_5.jpg 'Vue d'Udaipur depuis une fen&ecirc;tre.')
+
+{:.image.fit}
+![Pushkar et ses ghats (escaliers menant a l'eau)](/medias/photos/inde/pushkar/image_1.jpg 'Pushkar et ses ghats (escaliers menant a l'eau)')
+
+{:.image.fit}
+![Pushkar et ses ghats (escaliers menant a l'eau)](/medias/photos/inde/pushkar/image_2.jpg 'Pushkar et ses ghats (escaliers menant a l'eau)')
+
+{:.image.fit}
+![Couch&eacute; de soleil sur Pushkar.](/medias/photos/inde/pushkar/image_3.jpg 'Couch&eacute; de soleil sur Pushkar.')
+
+{:.image.fit}
+![Petit croissant de lune.](/medias/photos/inde/pushkar/image_4.jpg 'Petit croissant de lune.')
+
+{:.image.fit}
+![Vue imprenable sur Pushkar!](/medias/photos/inde/pushkar/image_5.jpg 'Vue imprenable sur Pushkar!')
+
+{:.image.fit}
+![Vue imprenable sur Pushkar!](/medias/photos/inde/pushkar/image_6.jpg 'Vue imprenable sur Pushkar!')
+
+{:.image.fit}
+![Une tortue se balade dans le restaurant...](/medias/photos/inde/pushkar/image_7.jpg 'Une tortue se balade dans le restaurant...')
+
+{:.image.fit}
+![Take Time....](/medias/photos/inde/pushkar/image_8.jpg 'Take Time....')
+
+{:.image.fit}
+![Le singe monte la garde!](/medias/photos/inde/pushkar/image_9.jpg 'Le singe monte la garde!')
+
+{:.image.fit}
+![D'ailleurs il y avait pas mal de singes sur cette colline.](/medias/photos/inde/pushkar/image_10.jpg 'D'ailleurs il y avait pas mal de singes sur cette colline.')
+
+{:.image.fit}
+![Il y en a qui tapent la pause...](/medias/photos/inde/pushkar/image_11.jpg 'Il y en a qui tapent la pause...')
+
+{:.image.fit}
+![D'autres qui s'en foutent compl&egrave;tement de la vue sur Pushkar.](/medias/photos/inde/pushkar/image_12.jpg 'D'autres qui s'en foutent compl&egrave;tement de la vue sur Pushkar.')
+
+{:.image.fit}
+![Pourtant la vue est pas mal!](/medias/photos/inde/pushkar/image_13.jpg 'Pourtant la vue est pas mal!')
+
+{:.image.fit}
+![On peut voir assez loin...](/medias/photos/inde/pushkar/image_14.jpg 'On peut voir assez loin...')
+
+{:.image.fit}
+![Le Savitri Temple qui se trouve au sommet de la colline.](/medias/photos/inde/pushkar/image_15.jpg 'Le Savitri Temple qui se trouve au sommet de la colline.')
+
+{:.image.fit}
+![Et encore une autre vue sur Pushkar.](/medias/photos/inde/pushkar/image_16.jpg 'Et encore une autre vue sur Pushkar.')
+
+{:.image.fit}
+![Et on redescend au milieu des singes qui attendent de la nourriture.](/medias/photos/inde/pushkar/image_17.jpg 'Et on redescend au milieu des singes qui attendent de la nourriture.')
+
+{:.image.fit}
+![Des bananes par exemple...](/medias/photos/inde/pushkar/image_18.jpg 'Des bananes par exemple...')
+
+{:.image.fit}
+![Le st&eacute;r&eacute;otype du singe qui mange sa banane est prouv&eacute;.](/medias/photos/inde/pushkar/image_19.jpg 'Le st&eacute;r&eacute;otype du singe qui mange sa banane est prouv&eacute;.')
+
+{:.image.fit}
+![D&eacute;part pour Jaipur en train.](/medias/photos/inde/pushkar/image_20.jpg 'D&eacute;part pour Jaipur en train.')
+
+{:.image.fit}
+![Le premier feu de traffic que je remarque en Inde, et je ne pense pas qu'il soit fonctionnel - Jaipur](/medias/photos/inde/jaipur/image_1.jpg 'Le premier feu de traffic que je remarque en Inde, et je ne pense pas qu'il soit fonctionnel - Jaipur')
+
+{:.image.fit}
+![Tiens? Un &eacute;l&eacute;phant dans la rue!](/medias/photos/inde/jaipur/image_2.jpg 'Tiens? Un &eacute;l&eacute;phant dans la rue!')
+
+{:.image.fit}
+![Petite vue sur le fort d'Amber de Jaipur.](/medias/photos/inde/jaipur/image_3.jpg 'Petite vue sur le fort d'Amber de Jaipur.')
+
+{:.image.fit}
+![Va falloir grimper cetter muraille?](/medias/photos/inde/jaipur/image_4.jpg 'Va falloir grimper cetter muraille?')
+
+{:.image.fit}
+![Pis elle va loin la muraille....](/medias/photos/inde/jaipur/image_5.jpg 'Pis elle va loin la muraille....')
+
+{:.image.fit}
+![Bon bin on grimpe et on profite de la vue sur le fort d'Amber.](/medias/photos/inde/jaipur/image_6.jpg 'Bon bin on grimpe et on profite de la vue sur le fort d'Amber.')
+
+{:.image.fit}
+![On fait le con au sommet de la muraille: &quot;Je crois que je vois l'ennemie arriver!&quot;](/medias/photos/inde/jaipur/image_7.jpg 'On fait le con au sommet de la muraille: &quot;Je crois que je vois l'ennemie arriver!&quot;')
+
+{:.image.fit}
+![La muraille depuis une fen&ecirc;tre.](/medias/photos/inde/jaipur/image_8.jpg 'La muraille depuis une fen&ecirc;tre.')
+
+{:.image.fit}
+![Vue sur la vieille ville de Jaipur.](/medias/photos/inde/jaipur/image_9.jpg 'Vue sur la vieille ville de Jaipur.')
+
+{:.image.fit}
+![La muraille.](/medias/photos/inde/jaipur/image_10.jpg 'La muraille.')
+
+{:.image.fit}
+![L'all&eacute;e des &eacute;l&eacute;phants.](/medias/photos/inde/jaipur/image_11.jpg 'L'all&eacute;e des &eacute;l&eacute;phants.')
+
+{:.image.fit}
+![Et ca passe, et ca passe.](/medias/photos/inde/jaipur/image_12.jpg 'Et ca passe, et ca passe.')

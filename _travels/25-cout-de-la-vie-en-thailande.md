@@ -29,20 +29,41 @@ Au moment o&ugrave; j'&eacute;cris: 1 &euro; = 39 bahts.</p>
 
 Pour les petits achats quotidiens (bouteilles d'eau/caf&eacute;/en-cas, les 7 Eleven sont tr&egrave;s utiles car implant&eacute;s partout!
 
-<div class="galery-photos-500">
-<ul>
-    <li><a href="/index.php/photo?path=/medias/photos/thailande/vie/image_1.jpg" class="entry-modalebox" title="Les brochettes dans la rue sont &agrave; 10 bahts."><img src="/medias/photos/thailande/vie/thumbs/image_1.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/thailande/vie/image_2.jpg" class="entry-modalebox" title="Pad Thai, 50 bahts, plats de nouilles avec l&eacute;gumes et poulet/porc/crevettes"><img src="/medias/photos/thailande/vie/thumbs/image_2.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/thailande/vie/image_3.jpg" class="entry-modalebox" title="Le tarif des taxis meter."><img src="/medias/photos/thailande/vie/thumbs/image_3.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/thailande/vie/image_4.jpg" class="entry-modalebox" title="Tarif d'un ticket de train suivant ta position."><img src="/medias/photos/thailande/vie/thumbs/image_4.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/thailande/vie/image_5.jpg" class="entry-modalebox" title="Un autre m&eacute;tro."><img src="/medias/photos/thailande/vie/thumbs/image_5.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/thailande/vie/image_6.jpg" class="entry-modalebox" title="Les snacks du 7 Eleven"><img src="/medias/photos/thailande/vie/thumbs/image_6.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/thailande/vie/image_7.jpg" class="entry-modalebox" title="On y trouve de tout dans les 7 Eleven..."><img src="/medias/photos/thailande/vie/thumbs/image_7.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/thailande/vie/image_8.jpg" class="entry-modalebox" title="Seven Eleven."><img src="/medias/photos/thailande/vie/thumbs/image_8.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/thailande/vie/image_9.jpg" class="entry-modalebox" title="Tu peux montrer que t'es fans en portant le tee-shirt!"><img src="/medias/photos/thailande/vie/thumbs/image_9.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/thailande/vie/image_10.jpg" class="entry-modalebox" title="Il y a de la concurrences..."><img src="/medias/photos/thailande/vie/thumbs/image_10.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/thailande/vie/image_11.jpg" class="entry-modalebox" title="...de tout genre"><img src="/medias/photos/thailande/vie/thumbs/image_11.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/thailande/vie/image_12.jpg" class="entry-modalebox" title="M&ecirc;me sur les &icirc;les..."><img src="/medias/photos/thailande/vie/thumbs/image_12.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/thailande/vie/image_13.jpg" class="entry-modalebox" title="Un dernier pour la plage d'Haadrin."><img src="/medias/photos/thailande/vie/thumbs/image_13.jpg" width="500" height="281" /></a></li>
-</ul>
-</div>
+{:.image.fit}
+![Les brochettes dans la rue sont &agrave; 10 bahts.](/medias/photos/thailande/vie/image_1.jpg 'Les brochettes dans la rue sont &agrave; 10 bahts.')
+
+{:.image.fit}
+![Pad Thai, 50 bahts, plats de nouilles avec l&eacute;gumes et poulet/porc/crevettes](/medias/photos/thailande/vie/image_2.jpg 'Pad Thai, 50 bahts, plats de nouilles avec l&eacute;gumes et poulet/porc/crevettes')
+
+{:.image.fit}
+![Le tarif des taxis meter.](/medias/photos/thailande/vie/image_3.jpg 'Le tarif des taxis meter.')
+
+{:.image.fit}
+![Tarif d'un ticket de train suivant ta position.](/medias/photos/thailande/vie/image_4.jpg 'Tarif d'un ticket de train suivant ta position.')
+
+{:.image.fit}
+![Un autre m&eacute;tro.](/medias/photos/thailande/vie/image_5.jpg 'Un autre m&eacute;tro.')
+
+{:.image.fit}
+![Les snacks du 7 Eleven](/medias/photos/thailande/vie/image_6.jpg 'Les snacks du 7 Eleven')
+
+{:.image.fit}
+![On y trouve de tout dans les 7 Eleven...](/medias/photos/thailande/vie/image_7.jpg 'On y trouve de tout dans les 7 Eleven...')
+
+{:.image.fit}
+![Seven Eleven.](/medias/photos/thailande/vie/image_8.jpg 'Seven Eleven.')
+
+{:.image.fit}
+![Tu peux montrer que t'es fans en portant le tee-shirt!](/medias/photos/thailande/vie/image_9.jpg 'Tu peux montrer que t'es fans en portant le tee-shirt!')
+
+{:.image.fit}
+![Il y a de la concurrences...](/medias/photos/thailande/vie/image_10.jpg 'Il y a de la concurrences...')
+
+{:.image.fit}
+![...de tout genre](/medias/photos/thailande/vie/image_11.jpg '...de tout genre')
+
+{:.image.fit}
+![M&ecirc;me sur les &icirc;les...](/medias/photos/thailande/vie/image_12.jpg 'M&ecirc;me sur les &icirc;les...')
+
+{:.image.fit}
+![Un dernier pour la plage d'Haadrin.](/medias/photos/thailande/vie/image_13.jpg 'Un dernier pour la plage d'Haadrin.')

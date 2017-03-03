@@ -7,6 +7,8 @@ description: Vue depuis le fort Meherangarh sur Jodhpur - la Cit&eacute; Bleue e
 date: 2012-02-21
 ---
 
+Petite vidéo de la ville de Jodhpur depuis son fort.
+
 <div class="embed-container">
     <iframe src="http://player.vimeo.com/video/49887820" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>

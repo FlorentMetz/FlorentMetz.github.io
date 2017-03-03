@@ -8,7 +8,6 @@ description: T'en as ras-le-cul d'&ecirc;tre en Thailande, la Chang ne te plais 
 date: 2012-08-23
 ---
 
-
 Apr&egrave;s un passage rapide par le bureau de l'immigration Thailandais tu rends ta carte de d&eacute;part, te fait tamponner ta sortie sur le passeport et te voil&agrave; en face du bureau de Visa On Arrival pour le Laos.<br />
 Pour entrer au Laos il te faut:
 
@@ -19,11 +18,17 @@ Pour entrer au Laos il te faut:
 Te voila en possession de ton beau visa tout neuf pour 30 jours. Tu peux maintenant prendre un tuk-tuk super cher pour te rendre &agrave; la capitale du Laos - Vientiane - ou encore prendre le bus avec air conditionne&eacute; pour 5000 kips/20 bahts.<br />
 Bienvenue au Laos!
 
-<div class="galery-photos-500">
-<ul>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/frontiere-thailande-laos/image_1.jpg" class="entry-modalebox" title="Bureau pour faire son visa Laos"><img src="/medias/photos/laos/frontiere-thailande-laos/thumbs/image_1.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/frontiere-thailande-laos/image_2.jpg" class="entry-modalebox" title="Bureau d'immigration d'entr&eacute;e au Laos"><img src="/medias/photos/laos/frontiere-thailande-laos/thumbs/image_2.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/frontiere-thailande-laos/image_3.jpg" class="entry-modalebox" title="Arriv&eacute; a Vientiane pour une visite des temples locaux"><img src="/medias/photos/laos/frontiere-thailande-laos/thumbs/image_3.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/frontiere-thailande-laos/image_4.jpg" class="entry-modalebox" title="Pha That Luang, c&eacute;l&egrave;bre stupa de Vientiane."><img src="/medias/photos/laos/frontiere-thailande-laos/thumbs/image_4.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/laos/frontiere-thailande-laos/image_5.jpg" class="entry-modalebox" title="Tu pourras te restaurer en fromage au Laos!"><img src="/medias/photos/laos/frontiere-thailande-laos/thumbs/image_5.jpg" width="500" height="281" /></a></li>
-</ul>
+{:.image.fit}
+![Bureau pour faire son visa Laos](/medias/photos/laos/frontiere-thailande-laos/image_1.jpg 'Bureau pour faire son visa Laos')
+
+{:.image.fit}
+![Bureau d'immigration d'entr&eacute;e au Laos](/medias/photos/laos/frontiere-thailande-laos/image_2.jpg 'Bureau d'immigration d'entr&eacute;e au Laos')
+
+{:.image.fit}
+![Arriv&eacute; a Vientiane pour une visite des temples locaux](/medias/photos/laos/frontiere-thailande-laos/image_3.jpg 'Arriv&eacute; a Vientiane pour une visite des temples locaux')
+
+{:.image.fit}
+![Pha That Luang, c&eacute;l&egrave;bre stupa de Vientiane.](/medias/photos/laos/frontiere-thailande-laos/image_4.jpg 'Pha That Luang, c&eacute;l&egrave;bre stupa de Vientiane.')
+
+{:.image.fit}
+![Tu pourras te restaurer en fromage au Laos!](/medias/photos/laos/frontiere-thailande-laos/image_5.jpg 'Tu pourras te restaurer en fromage au Laos!')

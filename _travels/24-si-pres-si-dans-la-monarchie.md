@@ -8,7 +8,6 @@ description: "Mettons tout de suite de c&ocirc;t&eacute; le jeu de mot pourri du
 date: 2012-07-31
 ---
 
-
 Cette adoration passerait "encore" si elle ne se montrait que sous le toit des locaux, mais apparement ce n'est pas assez!
 On retrouve donc notre pr&eacute;sident ador&eacute; partout:
 
@@ -20,18 +19,35 @@ On retrouve donc notre pr&eacute;sident ador&eacute; partout:
 Vous l'aurez compris, le pr&eacute;sident est le personnage pr&eacute;f&eacute;r&eacute; des gens de son pays.
 Le pr&eacute;sident est aussi un moine, un trompetiste, un photographe. Et il parlerais le francais couramment avec ses freres et soeurs depuis qu'il serais petit! Quel Homme!! Dieu, pardon....
 
-<div class="galery-photos-500">
-    <ul>
-        <li><a href="/index.php/photo?path=/medias/photos/thailande/roi/image_1.jpg" class="entry-modalebox" title="Le Roi de la Thailande."><img src="/medias/photos/thailande/roi/thumbs/image_1.jpg" width="500" height="281" /></a></li>
-        <li><a href="/index.php/photo?path=/medias/photos/thailande/roi/image_2.jpg" class="entry-modalebox" title="...En mode moine."><img src="/medias/photos/thailande/roi/thumbs/image_2.jpg" width="500" height="281" /></a></li>
-        <li><a href="/index.php/photo?path=/medias/photos/thailande/roi/image_3.jpg" class="entry-modalebox" title="...On le trouve dans la rue..."><img src="/medias/photos/thailande/roi/thumbs/image_3.jpg" width="500" height="281" /></a></li>
-        <li><a href="/index.php/photo?path=/medias/photos/thailande/roi/image_4.jpg" class="entry-modalebox" title="...Dans des jardins."><img src="/medias/photos/thailande/roi/thumbs/image_4.jpg" width="500" height="281" /></a></li>
-        <li><a href="/index.php/photo?path=/medias/photos/thailande/roi/image_5.jpg" class="entry-modalebox" title="...Sur les nationales."><img src="/medias/photos/thailande/roi/thumbs/image_5.jpg" width="500" height="281" /></a></li>
-        <li><a href="/index.php/photo?path=/medias/photos/thailande/roi/image_6.jpg" class="entry-modalebox" title="...Les gros batiments..."><img src="/medias/photos/thailande/roi/thumbs/image_6.jpg" width="500" height="281" /></a></li>
-        <li><a href="/index.php/photo?path=/medias/photos/thailande/roi/image_7.jpg" class="entry-modalebox" title="...Dans les stations de trains"><img src="/medias/photos/thailande/roi/thumbs/image_7.jpg" width="500" height="281" /></a></li>
-        <li><a href="/index.php/photo?path=/medias/photos/thailande/roi/image_8.jpg" class="entry-modalebox" title="...Sur les calendriers"><img src="/medias/photos/thailande/roi/thumbs/image_8.jpg" width="500" height="281" /></a></li>
-        <li><a href="/index.php/photo?path=/medias/photos/thailande/roi/image_9.jpg" class="entry-modalebox" title="...En chemise hawaienne!"><img src="/medias/photos/thailande/roi/thumbs/image_9.jpg" width="500" height="281" /></a></li>
-        <li><a href="/index.php/photo?path=/medias/photos/thailande/roi/image_10.jpg" class="entry-modalebox" title="...Avec sa femme"><img src="/medias/photos/thailande/roi/thumbs/image_10.jpg" width="500" height="281" /></a></li>
-        <li><a href="/index.php/photo?path=/medias/photos/thailande/roi/image_11.jpg" class="entry-modalebox" title="...Sur les billets de banque!"><img src="/medias/photos/thailande/roi/thumbs/image_11.jpg" width="500" height="281" /></a></li>
-    </ul>
-</div>
+{:.image.fit}
+![Le Roi de la Thailande.](/medias/photos/thailande/roi/image_1.jpg 'Le Roi de la Thailande.')
+
+{:.image.fit}
+![...En mode moine.](/medias/photos/thailande/roi/image_2.jpg '...En mode moine.')
+
+{:.image.fit}
+![...On le trouve dans la rue...](/medias/photos/thailande/roi/image_3.jpg '...On le trouve dans la rue...')
+
+{:.image.fit}
+![...Dans des jardins.](/medias/photos/thailande/roi/image_4.jpg '...Dans des jardins.')
+
+{:.image.fit}
+![...Sur les nationales.](/medias/photos/thailande/roi/image_5.jpg '...Sur les nationales.')
+
+{:.image.fit}
+![...Les gros batiments...](/medias/photos/thailande/roi/image_6.jpg '...Les gros batiments...')
+
+{:.image.fit}
+![...Dans les stations de trains](/medias/photos/thailande/roi/image_7.jpg '...Dans les stations de trains')
+
+{:.image.fit}
+![...Sur les calendriers](/medias/photos/thailande/roi/image_8.jpg '...Sur les calendriers')
+
+{:.image.fit}
+![...En chemise hawaienne!](/medias/photos/thailande/roi/image_9.jpg '...En chemise hawaienne!')
+
+{:.image.fit}
+![...Avec sa femme](/medias/photos/thailande/roi/image_10.jpg '...Avec sa femme')
+
+{:.image.fit}
+![...Sur les billets de banque!](/medias/photos/thailande/roi/image_11.jpg '...Sur les billets de banque!')

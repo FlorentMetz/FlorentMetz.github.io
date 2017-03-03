@@ -32,21 +32,34 @@ Je tend mon passeport, ma photo en mode top-model/cheveux dans le vent, mon form
 
 Le temps de coller et tamponner ce fameux visa, rattraper mon passeport et on remonte dans le bus pour continuer notre route au pays du Dollars...
 
-<div class="galery-photos-500">
-<ul>
-    <li><a href="/index.php/photo?path=/medias/photos/cambodge/frontiere-laos-cambodge/image_1.jpg" class="entry-modalebox" title="La fronti&egrave;re Laos - Cambodge (batiment surement en construction &agrave; ce moment l&agrave;)"><img src="/medias/photos/cambodge/frontiere-laos-cambodge/thumbs/image_1.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/cambodge/frontiere-laos-cambodge/image_2.jpg" class="entry-modalebox" title="Le poste &agrave; faire tamponner sa sortie (et payer 2$ de corruption)"><img src="/medias/photos/cambodge/frontiere-laos-cambodge/thumbs/image_2.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/cambodge/frontiere-laos-cambodge/image_3.jpg" class="entry-modalebox" title="Direction le Cambodge!"><img src="/medias/photos/cambodge/frontiere-laos-cambodge/thumbs/image_3.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/cambodge/frontiere-laos-cambodge/image_4.jpg" class="entry-modalebox" title="On suit les panneaux - comme a Disneyland."><img src="/medias/photos/cambodge/frontiere-laos-cambodge/thumbs/image_4.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/cambodge/frontiere-laos-cambodge/image_5.jpg" class="entry-modalebox" title="La tente sous laquelle ta sant&eacute; est v&eacute;rifi&eacute; (arnaque au passage qui peut &ecirc;tre &eacute;vit&eacute;e...)"><img src="/medias/photos/cambodge/frontiere-laos-cambodge/thumbs/image_5.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/cambodge/frontiere-laos-cambodge/image_6.jpg" class="entry-modalebox" title="Direction le poste du Visa &agrave; l'arriv&eacute;e"><img src="/medias/photos/cambodge/frontiere-laos-cambodge/thumbs/image_6.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/cambodge/frontiere-laos-cambodge/image_7.jpg" class="entry-modalebox" title="Le prix est sens&eacute; &ecirc;tre 20$ mais la corruption veut que le prix grimpe &agrave; 25$..."><img src="/medias/photos/cambodge/frontiere-laos-cambodge/thumbs/image_7.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/cambodge/frontiere-laos-cambodge/image_8.jpg" class="entry-modalebox" title="Au revoir le Lao..."><img src="/medias/photos/cambodge/frontiere-laos-cambodge/thumbs/image_8.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/cambodge/frontiere-laos-cambodge/image_9.jpg" class="entry-modalebox" title="...bonjour le Cambodge!"><img src="/medias/photos/cambodge/frontiere-laos-cambodge/thumbs/image_9.jpg" width="500" height="281" /></a></li>
-</ul>
-</div>
+{:.image.fit}
+![La fronti&egrave;re Laos - Cambodge (batiment surement en construction &agrave; ce moment l&agrave;)](/medias/photos/cambodge/frontiere-laos-cambodge/image_1.jpg 'La fronti&egrave;re Laos - Cambodge (batiment surement en construction &agrave; ce moment l&agrave;)')
 
-Le visa combodgien est aussi faisable <a href="http://www.mfaic.gov.kh/evisa/">par internet</a>.
+{:.image.fit}
+![Le poste &agrave; faire tamponner sa sortie (et payer 2$ de corruption)](/medias/photos/cambodge/frontiere-laos-cambodge/image_2.jpg 'Le poste &agrave; faire tamponner sa sortie (et payer 2$ de corruption)')
+
+{:.image.fit}
+![Direction le Cambodge!](/medias/photos/cambodge/frontiere-laos-cambodge/image_3.jpg 'Direction le Cambodge!')
+
+{:.image.fit}
+![On suit les panneaux - comme a Disneyland.](/medias/photos/cambodge/frontiere-laos-cambodge/image_4.jpg 'On suit les panneaux - comme a Disneyland.')
+
+{:.image.fit}
+![La tente sous laquelle ta sant&eacute; est v&eacute;rifi&eacute; (arnaque au passage qui peut &ecirc;tre &eacute;vit&eacute;e...)](/medias/photos/cambodge/frontiere-laos-cambodge/image_5.jpg 'La tente sous laquelle ta sant&eacute; est v&eacute;rifi&eacute; (arnaque au passage qui peut &ecirc;tre &eacute;vit&eacute;e...)')
+
+{:.image.fit}
+![Direction le poste du Visa &agrave; l'arriv&eacute;e](/medias/photos/cambodge/frontiere-laos-cambodge/image_6.jpg 'Direction le poste du Visa &agrave; l'arriv&eacute;e')
+
+{:.image.fit}
+![Le prix est sens&eacute; &ecirc;tre 20$ mais la corruption veut que le prix grimpe &agrave; 25$...](/medias/photos/cambodge/frontiere-laos-cambodge/image_7.jpg 'Le prix est sens&eacute; &ecirc;tre 20$ mais la corruption veut que le prix grimpe &agrave; 25$...')
+
+{:.image.fit}
+![Au revoir le Lao...](/medias/photos/cambodge/frontiere-laos-cambodge/image_8.jpg 'Au revoir le Lao...')
+
+{:.image.fit}
+![...bonjour le Cambodge!](/medias/photos/cambodge/frontiere-laos-cambodge/image_9.jpg '...bonjour le Cambodge!')
+
+Le visa combodgien est aussi faisable [par internet](http://www.mfaic.gov.kh/evisa/).
 Apr&egrave; quelques r&eacute;cits lues sur le net, les 2$ de sortie du Laos sont une arnaque: il ne faut PAS payer pour sortir du Laos. Le dollar a payer pour le check sant&eacute; peut (et devrait &ecirc;tre) &eacute;vit&eacute;. Les 25$ du visa sont mentis, le prix OFFICIEL c'est 20$.
 
 Cambodge, pays de la corruption?

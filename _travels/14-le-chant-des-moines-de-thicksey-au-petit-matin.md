@@ -3,6 +3,7 @@ layout: post
 locale: fr
 slug: le-chant-des-moines-de-thicksey-au-petit-matin
 title: Le chant des moines de Thicksey au petit matin
+excerpt: Ca reveille le matin!
 description: Les moines soufflent les trompettes au matin dans le monastere de Thicksey au Ladakh
 date: 2012-06-16
 ---
