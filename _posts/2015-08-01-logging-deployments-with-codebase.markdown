@@ -3,9 +3,8 @@ layout: post
 title:  "How to log your deployments with codebase"
 date:   2015-08-01 15:30:00
 categories: capifony codebase
+excerpt: I use [codebase](https://www.codebasehq.com/) at work for hosting our projects using git. I discovered recently that I could also log every deployment I make with capifony on either our staging or production environment (or both).
 ---
-
-I use [codebase] at work for hosting our projects using git. I discovered recently that I could also log every deployment I make with capifony on either our staging or production environment (or both).
 
 It is quite straightforward to setup, and codebase explain every step to follow in their "Show Setup Instructions":
 

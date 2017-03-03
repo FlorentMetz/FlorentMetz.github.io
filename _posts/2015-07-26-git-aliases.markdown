@@ -2,9 +2,9 @@
 layout: post
 title:  "Get some git aliases"
 date:   2015-07-26 11:37:00
+excerpt: Here is my `~/.gitconfig` for aliases - which could probably be improved.
 categories: git
 ---
-Here is my `~/.gitconfig` for aliases - which could probably be improved.
 
 {% highlight bash %}
 [alias]

@@ -3,9 +3,9 @@ layout: post
 title:  "Installing Thunderbird on Ubuntu 15.04"
 date:   2015-07-25 17:04:43
 meta: How to install the lastest version of Thunderbird on your Ubuntu
+excerpt: Go get the [last version](http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/latest/) of Thunderbird for your architecture in your language.
 categories: ubuntu
 ---
-Go get the [last version] of Thunderbird for your architecture in your language.
 
 {% highlight bash %}
 wget ftp.mozilla.org/pub/thunderbird/releases/latest/linux-x86_64/en-GB/thunderbird-38.3.0.tar.bz2
@@ -40,9 +40,8 @@ EOF
 ln -sfv /opt/thunderbird/chrome/icons/default/default256.png /usr/share/pixmaps/thunderbird.png
 {% endhighlight %}
 
-### Linking your Microsoft Exchange Calendar with Thunderbird
+## Linking your Microsoft Exchange Calendar with Thunderbird
 
 You should only need to download the correct [add-on] `exchangecalendar-*.xpi` and from your thunderbird, go into Preferences > Add-ons > From file and select your freshly downloaded .xpi
 
-[last version]: http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/latest/
 [add-on]: https://github.com/Ericsson/exchangecalendar/releases
