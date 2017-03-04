@@ -8,9 +8,9 @@ description: En mettant de c&ocirc;t&eacute; la capitale Bangkok - o&ugrave; &ea
 date: 2012-08-16
 ---
 
-Par exemple, j'ai d&eacute;j&agrave; n&eacute;gocier une entr&eacute; pour un parc nationale &agrave; 2 entr&eacute;e pour le prix d'une alors que c'&eacute;tait des prix "forc&eacute; par le gouvernement".<br />
-Je ne parlerais pas des tarifs des trajets en tuk-tuk car ce sont de grosses arnaques et donc &agrave; &eacute;viter au maximum. Si pas possible de contourner, le prix du trajet sera surement (environ) 50% de moins que ce que le type proposeras.<br />
-Au moment o&ugrave; j'&eacute;cris: 1 &euro; = 39 bahts.</p>
+Par exemple, j'ai d&eacute;j&agrave; n&eacute;gocier une entr&eacute; pour un parc nationale &agrave; 2 entr&eacute;e pour le prix d'une alors que c'&eacute;tait des prix "forc&eacute; par le gouvernement".
+Je ne parlerais pas des tarifs des trajets en tuk-tuk car ce sont de grosses arnaques et donc &agrave; &eacute;viter au maximum. Si pas possible de contourner, le prix du trajet sera surement (environ) 50% de moins que ce que le type proposeras.
+Au moment o&ugrave; j'&eacute;cris: 1 &euro; = 39 bahts.
 
 - Pour un logement double lit avec salle de bain la moyenne serait de 500 Bahts.
 - Un Pad Thai: 40/50 Bahts dans la rue, 60/120 au resto.

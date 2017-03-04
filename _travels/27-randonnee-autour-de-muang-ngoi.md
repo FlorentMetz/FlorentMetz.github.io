@@ -53,7 +53,6 @@ Heureusement la viande passera et ne sera pas rejet&eacute; par le corps lui-m&e
 
 Ok, on a la direction et on pars mais le chemin mene a un cul de sac car donne sur une rivi&egrave;re et c'est tout. On tente quand meme la rivi&egrave;re mais ne menant a pas grand chose, on rebrousse chemin au village pour confirmer la direction au premier villageois qu'on croise..
 
-
 - &quot;Ban Kiukhan, par la bas?&quot; demande t-on
 - &quot;30 000&quot; r&eacute;pond le mec allong&eacute; dans son hamac...
 - &quot;Hein!?&quot;

@@ -20,7 +20,7 @@ title: Yet another web log of another random dude
             <h2><a href="/voyages">Mes voyages (fr)</a></h2>
           </header>
           <section>
-            C'est là que tu retrouveras mes péripéties lors de mes différents voyages à travers le monde
+            C'est là que tu retrouveras mes péripéties lors de mes différents voyages à travers le monde.
           </section>
         </article>
     </div>

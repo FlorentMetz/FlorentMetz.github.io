@@ -26,7 +26,6 @@ Merci Wikip&eacute;dia.
 Je me suis donc rendu sur les lieux pour jeter un coup d'oeil &agrave; cette &eacute;cole:
 
 <iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=tuol+sleng&amp;oe=utf-8&amp;aq=t&amp;client=firefox-a&amp;ie=UTF8&amp;hl=fr&amp;hq=tuol+sleng&amp;hnear=&amp;t=m&amp;ll=11.5494,104.917603&amp;spn=0.006295,0.006295&amp;output=embed"></iframe>
-<small><a href="https://maps.google.com/maps?q=tuol+sleng&amp;oe=utf-8&amp;aq=t&amp;client=firefox-a&amp;ie=UTF8&amp;hl=fr&amp;hq=tuol+sleng&amp;hnear=&amp;t=m&amp;ll=11.5494,104.917603&amp;spn=0.006295,0.006295&amp;source=embed" style="color:#0000FF;text-align:left">Agrandir le plan</a></small>
 
 Je paie l'entr&eacute;e de 2$ (8000 riels) et arrive dans la cour de l'ancienne &eacute;cole.
 
@@ -98,7 +97,6 @@ Il y a en tout 4 b&acirc;timents (A, B, C, D) de trois &eacute;tages, la visite 
 
 {:.image.fit}
 ![Tuol Sleng - S21 - Des cr&acirc;nes d&eacute;fonc&eacute;s](/medias/photos/cambodge/killing-fields/image_27.jpg 'Tuol Sleng - S21 - Des cr&acirc;nes d&eacute;fonc&eacute;s')
-
 
 Pis comme si ce mus&eacute;e ne suffisait pas, il y a aussi les Champs d'extermination (Killing Fields) &agrave; visiter!
 
