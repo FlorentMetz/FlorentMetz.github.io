@@ -8,6 +8,7 @@ description: L'un de mes films pr&eacute;f&eacute;r&eacute; lorsque j'&eacute;ta
 date: 2012-10-26
 ---
 
+
 {:.image.fit}
 ![Le Maitre Chinois - Jackie Chan - Wong Fei Hung](/medias/photos/chine/foshan/thumbs/image_9.jpg 'Le Maitre Chinois - Jackie Chan - Wong Fei Hung')
 
@@ -34,6 +35,54 @@ Et pour s'y rendre depuis Guangzhou, il te suffit de prendre le bus (14 yuans) o
 L'entr&eacute;e au temple &eacute;tait de 60 yuans si je me rapelle bien (environ 8&euro;) et le complex comprend un temple d&eacute;di&eacute; &agrave; Confucius, Un hall en m&eacute;moire &agrave; Ip-Man (le maitre de Bruce Lee) et donc de Wong Fei Hung, ainsi que des sculptures/peintures de Foshan.
 
 Si tu as de la chance (pas comme moi) tu tomberas au bon moment pour une d&eacute;monstration de kung-fu ou encore pour une danse du lion (ouais: avec les gros masques et tout le bordel)
+
+{:.image.fit}
+![Sur le chemin de la station de bus au temple, tu trouveras peut &ecirc;tre un petit parc avec des statues de Wong ou Ip.](/medias/photos/chine/foshan/image_1.jpg 'Sur le chemin de la station de bus au temple, tu trouveras peut &ecirc;tre un petit parc avec des statues de Wong ou Ip.')
+
+{:.image.fit}
+![Statue de bronze (Ip Man?)](/medias/photos/chine/foshan/image_2.jpg 'Statue de bronze (Ip Man?)')
+
+{:.image.fit}
+![Statue de bronze (Wong Fei Hung?)](/medias/photos/chine/foshan/image_3.jpg 'Statue de bronze (Wong Fei Hung?)')
+
+{:.image.fit}
+![La porte d'entr&eacute;e du Temple de Zumiao](/medias/photos/chine/foshan/image_4.jpg 'La porte d'entr&eacute;e du Temple de Zumiao')
+
+{:.image.fit}
+![Une statue de Wong t'accueilles dans son Hall](/medias/photos/chine/foshan/image_5.jpg 'Une statue de Wong t'accueilles dans son Hall')
+
+{:.image.fit}
+![Wong Fei Hung](/medias/photos/chine/foshan/image_7.jpg 'Wong Fei Hung')
+
+{:.image.fit}
+![Un peu d'aide si tu veux apprendre le Kung-Fu](/medias/photos/chine/foshan/image_8.jpg 'Un peu d'aide si tu veux apprendre le Kung-Fu')
+
+{:.image.fit}
+![Jackie Chan incarnant Wong Fei Hung dans Le Maitre Chinois](/medias/photos/chine/foshan/image_9.jpg 'Jackie Chan incarnant Wong Fei Hung dans Le Maitre Chinois')
+
+{:.image.fit}
+![Jackie Chan incarnant Wong Fei Hung dans Le Maitre Chinois 2](/medias/photos/chine/foshan/image_10.jpg 'Jackie Chan incarnant Wong Fei Hung dans Le Maitre Chinois 2')
+
+{:.image.fit}
+![Il &eacute;tais une fois en Chine - Wong Fei Hung incarn&eacute; par Jet Li](/medias/photos/chine/foshan/image_11.jpg 'Il &eacute;tais une fois en Chine - Wong Fei Hung incarn&eacute; par Jet Li')
+
+{:.image.fit}
+![Petite liste des films d&eacute;di&eacute; &agrave; Wong...](/medias/photos/chine/foshan/image_12.jpg 'Petite liste des films d&eacute;di&eacute; &agrave; Wong...')
+
+{:.image.fit}
+![...La suite](/medias/photos/chine/foshan/image_13.jpg '...La suite')
+
+{:.image.fit}
+![Le temple de Zumiao](/medias/photos/chine/foshan/image_14.jpg 'Le temple de Zumiao')
+
+{:.image.fit}
+![Un arbre &agrave; souhaits](/medias/photos/chine/foshan/image_15.jpg 'Un arbre &agrave; souhaits')
+
+{:.image.fit}
+![Une autre porte du temple](/medias/photos/chine/foshan/image_16.jpg 'Une autre porte du temple')
+
+{:.image.fit}
+![Quelques exemples des prouesses du h&eacute;ro chinois](/medias/photos/chine/foshan/image_6.jpg 'Quelques exemples des prouesses du h&eacute;ro chinois')
 
 Sa liste de prouesses m'a bien fait sourire: au milieu des actes de bravoures:
 

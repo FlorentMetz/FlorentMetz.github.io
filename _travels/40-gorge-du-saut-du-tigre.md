@@ -16,6 +16,7 @@ Apr&egrave;s 30 minutes &agrave; essayer de passer pour un &eacute;tudiant/moins
 R&eacute;veil aux environs de 7:30 par des grincements intestinaux... putain, je cours aux chiottes et l&agrave;, c'est le dr&acirc;me. L'huile utilis&eacute;e dans ma soupe de nouilles d'hier me rapelle celle utilis&eacute;e au Kashmir en Inde qui m'a rendu malade pendant un mois. Bon bin la journ&eacute;e commence bien!
 
 Un bol de porridge banane, je prend mon sac, du PQ parce que je vais en avoir besoin et c'est partiiiiiiii.
+
 {:.image.fit}
 ![Le chemin est marqu&eacute; par des panneaux ou des fl&egrave;ches rouge](/medias/photos/chine/gorge-saut-tigre/image_2.jpg 'Le chemin est marqu&eacute; par des panneaux ou des fl&egrave;ches rouge')
 
