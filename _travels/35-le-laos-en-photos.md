@@ -3,66 +3,172 @@ layout: post
 locale: fr
 slug: le-laos-en-photos
 title: Le Laos en photos
-excerpt: Petit r&eacute;sum&eacute; de mon s&eacute;jour au Laos en quelques photos
+excerpt: "Petit r&eacute;sum&eacute; de mon s&eacute;jour au Laos en quelques photos"
 description: Petit r&eacute;sum&eacute; de mon s&eacute;jour au Laos en quelques photos
 date: 2012-10-25
 ---
 
-<ul>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_1.jpg" class="entry-modalebox" title="Vientiane - Wat Sisakhet"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_1.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_2.jpg" class="entry-modalebox" title="Vientiane - Les moines au petit d&eacute;jeuner"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_2.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_3.jpg" class="entry-modalebox" title="Vientiane - Patuxai"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_3.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_4.jpg" class="entry-modalebox" title="Vientiane - Wat Thatluang Neua"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_4.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_5.jpg" class="entry-modalebox" title="Vientiane - Pi&egrave;ce francaise"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_5.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_6.jpg" class="entry-modalebox" title="Vientiane - Pi&egrave;ce francaise"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_6.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_7.jpg" class="entry-modalebox" title="Vientiane - Wat That Luang"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_7.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_8.jpg" class="entry-modalebox" title="Vientiane - Wat That Luang"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_8.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_9.jpg" class="entry-modalebox" title="Vientiane - World Peace Gong"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_9.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_10.jpg" class="entry-modalebox" title="Vientiane - Avec les moines"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_10.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_11.jpg" class="entry-modalebox" title="Vientiane - Statue"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_11.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_12.jpg" class="entry-modalebox" title="Vientiane - Statue"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_12.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_13.jpg" class="entry-modalebox" title="Vang Vieng"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_13.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_14.jpg" class="entry-modalebox" title="Vang Vieng - P&eacute;tanque entre locaux"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_14.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_15.jpg" class="entry-modalebox" title="Vang Vieng - Descente de la rivi&egrave;re en bou&eacute;es"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_15.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_16.jpg" class="entry-modalebox" title="Luang Prabang - Alcohol d'insectes"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_16.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_17.jpg" class="entry-modalebox" title="Luang Prabang - Alcohol de serpents"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_17.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_18.jpg" class="entry-modalebox" title="Luang Prabang - Alcohol de serpents et scorpions"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_18.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_19.jpg" class="entry-modalebox" title="Luang Prabang - Haw Pha Bang"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_19.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_20.jpg" class="entry-modalebox" title="Luang Prabang - Haw Pha Bang"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_20.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_21.jpg" class="entry-modalebox" title="Luang Prabang - Wat Xieng Tong"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_21.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_22.jpg" class="entry-modalebox" title="Luang Prabang - La rivi&egrave;re Mekong"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_22.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_23.jpg" class="entry-modalebox" title="Luang Prabang - Temple"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_23.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_24.jpg" class="entry-modalebox" title="Luang Prabang - Kuang Si"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_24.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_25.jpg" class="entry-modalebox" title="Luang Prabang - Kuang Si"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_25.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_26.jpg" class="entry-modalebox" title="Luang Prabang - Kuang Si"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_26.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_27.jpg" class="entry-modalebox" title="Luang Prabang - Kuang Si"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_27.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_28.jpg" class="entry-modalebox" title="Luang Prabang - Les moines r&eacute;cup&egrave;re la nourriture le matin"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_28.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_29.jpg" class="entry-modalebox" title="Luang Prabang"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_29.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_30.jpg" class="entry-modalebox" title="Luang Prabang"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_30.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_31.jpg" class="entry-modalebox" title="Luang Prabang"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_31.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_32.jpg" class="entry-modalebox" title="Luang Prabang"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_32.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_33.jpg" class="entry-modalebox" title="Nong Khiaw"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_33.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_34.jpg" class="entry-modalebox" title="Nong Khiaw"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_34.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_35.jpg" class="entry-modalebox" title="Muang Ngoi"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_35.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_36.jpg" class="entry-modalebox" title="Autour de Muang Ngoi"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_36.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_37.jpg" class="entry-modalebox" title="Autour de Muang Ngoi"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_37.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_38.jpg" class="entry-modalebox" title="Autour de Muang Ngoi"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_38.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_39.jpg" class="entry-modalebox" title="Autour de Muang Ngoi"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_39.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_40.jpg" class="entry-modalebox" title="Autour de Muang Ngoi"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_40.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_41.jpg" class="entry-modalebox" title="Autour de Muang Ngoi"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_41.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_42.jpg" class="entry-modalebox" title="Luang Prabang - Chutes d'eau"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_42.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_43.jpg" class="entry-modalebox" title="Luang Prabang - Chutes d'eau"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_43.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_44.jpg" class="entry-modalebox" title="Luang Prabang - Chutes d'eau"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_44.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_45.jpg" class="entry-modalebox" title="Luang Prabang - Chutes d'eau"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_45.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_46.jpg" class="entry-modalebox" title="Phonsavan - La plaine de jarres"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_46.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_47.jpg" class="entry-modalebox" title="Phonsavan - La plaine de jarres"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_47.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_48.jpg" class="entry-modalebox" title="Phonsavan - La plaine de jarres"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_48.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_49.jpg" class="entry-modalebox" title="Phonsavan - La plaine de jarres"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_49.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_50.jpg" class="entry-modalebox" title="Phonsavan - La plaine de jarres"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_50.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_51.jpg" class="entry-modalebox" title="Phonsavan - La plaine de jarres"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_51.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_52.jpg" class="entry-modalebox" title="Phonsavan - La plaine de jarres"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_52.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_53.jpg" class="entry-modalebox" title="Phonsavan - La plaine de jarres"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_53.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_54.jpg" class="entry-modalebox" title="Si Phan Don - Les 4000 iles"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_54.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_55.jpg" class="entry-modalebox" title="Si Phan Don - Les 4000 iles"><img src="/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/thumbs/image_55.jpg" width="500" height="281" /></a></li>
-</ul>
-</div>
+{:.image.fit}
+![Vientiane - Wat Sisakhet](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_1.jpg 'Vientiane - Wat Sisakhet')
+
+{:.image.fit}
+![Vientiane - Les moines au petit d&eacute;jeuner](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_2.jpg 'Vientiane - Les moines au petit d&eacute;jeuner')
+
+{:.image.fit}
+![Vientiane - Patuxai](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_3.jpg 'Vientiane - Patuxai')
+
+{:.image.fit}
+![Vientiane - Wat Thatluang Neua](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_4.jpg 'Vientiane - Wat Thatluang Neua')
+
+{:.image.fit}
+![Vientiane - Pi&egrave;ce francaise](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_5.jpg 'Vientiane - Pi&egrave;ce francaise')
+
+{:.image.fit}
+![Vientiane - Pi&egrave;ce francaise](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_6.jpg 'Vientiane - Pi&egrave;ce francaise')
+
+{:.image.fit}
+![Vientiane - Wat That Luang](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_7.jpg 'Vientiane - Wat That Luang')
+
+{:.image.fit}
+![Vientiane - Wat That Luang](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_8.jpg 'Vientiane - Wat That Luang')
+
+{:.image.fit}
+![Vientiane - World Peace Gong](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_9.jpg 'Vientiane - World Peace Gong')
+
+{:.image.fit}
+![Vientiane - Avec les moines](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_10.jpg 'Vientiane - Avec les moines')
+
+{:.image.fit}
+![Vientiane - Statue](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_11.jpg 'Vientiane - Statue')
+
+{:.image.fit}
+![Vientiane - Statue](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_12.jpg 'Vientiane - Statue')
+
+{:.image.fit}
+![Vang Vieng](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_13.jpg 'Vang Vieng')
+
+{:.image.fit}
+![Vang Vieng - P&eacute;tanque entre locaux](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_14.jpg 'Vang Vieng - P&eacute;tanque entre locaux')
+
+{:.image.fit}
+![Vang Vieng - Descente de la rivi&egrave;re en bou&eacute;es](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_15.jpg 'Vang Vieng - Descente de la rivi&egrave;re en bou&eacute;es')
+
+{:.image.fit}
+![Luang Prabang - Alcohol d'insectes](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_16.jpg 'Luang Prabang - Alcohol d'insectes')
+
+{:.image.fit}
+![Luang Prabang - Alcohol de serpents](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_17.jpg 'Luang Prabang - Alcohol de serpents')
+
+{:.image.fit}
+![Luang Prabang - Alcohol de serpents et scorpions](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_18.jpg 'Luang Prabang - Alcohol de serpents et scorpions')
+
+{:.image.fit}
+![Luang Prabang - Haw Pha Bang](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_19.jpg 'Luang Prabang - Haw Pha Bang')
+
+{:.image.fit}
+![Luang Prabang - Haw Pha Bang](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_20.jpg 'Luang Prabang - Haw Pha Bang')
+
+{:.image.fit}
+![Luang Prabang - Wat Xieng Tong](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_21.jpg 'Luang Prabang - Wat Xieng Tong')
+
+{:.image.fit}
+![Luang Prabang - La rivi&egrave;re Mekong](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_22.jpg 'Luang Prabang - La rivi&egrave;re Mekong')
+
+{:.image.fit}
+![Luang Prabang - Temple](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_23.jpg 'Luang Prabang - Temple')
+
+{:.image.fit}
+![Luang Prabang - Kuang Si](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_24.jpg 'Luang Prabang - Kuang Si')
+
+{:.image.fit}
+![Luang Prabang - Kuang Si](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_25.jpg 'Luang Prabang - Kuang Si')
+
+{:.image.fit}
+![Luang Prabang - Kuang Si](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_26.jpg 'Luang Prabang - Kuang Si')
+
+{:.image.fit}
+![Luang Prabang - Kuang Si](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_27.jpg 'Luang Prabang - Kuang Si')
+
+{:.image.fit}
+![Luang Prabang - Les moines r&eacute;cup&egrave;re la nourriture le matin](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_28.jpg 'Luang Prabang - Les moines r&eacute;cup&egrave;re la nourriture le matin')
+
+{:.image.fit}
+![Luang Prabang](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_29.jpg 'Luang Prabang')
+
+{:.image.fit}
+![Luang Prabang](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_30.jpg 'Luang Prabang')
+
+{:.image.fit}
+![Luang Prabang](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_31.jpg 'Luang Prabang')
+
+{:.image.fit}
+![Luang Prabang](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_32.jpg 'Luang Prabang')
+
+{:.image.fit}
+![Nong Khiaw](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_33.jpg 'Nong Khiaw')
+
+{:.image.fit}
+![Nong Khiaw](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_34.jpg 'Nong Khiaw')
+
+{:.image.fit}
+![Muang Ngoi](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_35.jpg 'Muang Ngoi')
+
+{:.image.fit}
+![Autour de Muang Ngoi](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_36.jpg 'Autour de Muang Ngoi')
+
+{:.image.fit}
+![Autour de Muang Ngoi](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_37.jpg 'Autour de Muang Ngoi')
+
+{:.image.fit}
+![Autour de Muang Ngoi](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_38.jpg 'Autour de Muang Ngoi')
+
+{:.image.fit}
+![Autour de Muang Ngoi](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_39.jpg 'Autour de Muang Ngoi')
+
+{:.image.fit}
+![Autour de Muang Ngoi](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_40.jpg 'Autour de Muang Ngoi')
+
+{:.image.fit}
+![Autour de Muang Ngoi](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_41.jpg 'Autour de Muang Ngoi')
+
+{:.image.fit}
+![Luang Prabang - Chutes d'eau](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_42.jpg 'Luang Prabang - Chutes d'eau')
+
+{:.image.fit}
+![Luang Prabang - Chutes d'eau](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_43.jpg 'Luang Prabang - Chutes d'eau')
+
+{:.image.fit}
+![Luang Prabang - Chutes d'eau](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_44.jpg 'Luang Prabang - Chutes d'eau')
+
+{:.image.fit}
+![Luang Prabang - Chutes d'eau](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_45.jpg 'Luang Prabang - Chutes d'eau')
+
+{:.image.fit}
+![Phonsavan - La plaine de jarres](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_46.jpg 'Phonsavan - La plaine de jarres')
+
+{:.image.fit}
+![Phonsavan - La plaine de jarres](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_47.jpg 'Phonsavan - La plaine de jarres')
+
+{:.image.fit}
+![Phonsavan - La plaine de jarres](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_48.jpg 'Phonsavan - La plaine de jarres')
+
+{:.image.fit}
+![Phonsavan - La plaine de jarres](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_49.jpg 'Phonsavan - La plaine de jarres')
+
+{:.image.fit}
+![Phonsavan - La plaine de jarres](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_50.jpg 'Phonsavan - La plaine de jarres')
+
+{:.image.fit}
+![Phonsavan - La plaine de jarres](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_51.jpg 'Phonsavan - La plaine de jarres')
+
+{:.image.fit}
+![Phonsavan - La plaine de jarres](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_52.jpg 'Phonsavan - La plaine de jarres')
+
+{:.image.fit}
+![Phonsavan - La plaine de jarres](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_53.jpg 'Phonsavan - La plaine de jarres')
+
+{:.image.fit}
+![Si Phan Don - Les 4000 iles](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_54.jpg 'Si Phan Don - Les 4000 iles')
+
+{:.image.fit}
+![Si Phan Don - Les 4000 iles](/medias/photos/laos/vientiane-vangvieng-luangprabang-siphandon/image_55.jpg 'Si Phan Don - Les 4000 iles')

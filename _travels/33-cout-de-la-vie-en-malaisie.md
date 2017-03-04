@@ -28,10 +28,8 @@ De mani&egrave;re g&eacute;n&eacute;rale:
 - Un paquet de cigarettes: 8.50 - 10 ringgit (2.15 - 2.50&euro;)
 - Une visite de la tour de Kuala Lumpur: 47 ringgit (11.80&euro;)
 
+{:.image.fit}
+![Frigo de bi&egrave;res au seven eleven](/medias/photos/malaisie/cout-vie/image_1.jpg 'Frigo de bi&egrave;res au seven eleven')
 
-<div class="galery-photos-500">
-<ul>
-    <li><a href="/index.php/photo?path=/medias/photos/malaisie/cout-vie/image_1.jpg" class="entry-modalebox" title="Frigo de bi&egrave;res au seven eleven"><img src="/medias/photos/malaisie/cout-vie/thumbs/image_1.jpg" width="500" height="281" /></a></li>
-    <li><a href="/index.php/photo?path=/medias/photos/malaisie/cout-vie/image_2.jpg" class="entry-modalebox" title="Ticket d'entr&eacute;e &agrave; la Kuala Lumpur Tower"><img src="/medias/photos/malaisie/cout-vie/thumbs/image_2.jpg" width="500" height="281" /></a></li>
-</ul>
-</div>
+{:.image.fit}
+![Ticket d'entr&eacute;e &agrave; la Kuala Lumpur Tower](/medias/photos/malaisie/cout-vie/image_2.jpg 'Ticket d'entr&eacute;e &agrave; la Kuala Lumpur Tower')
