@@ -8,20 +8,21 @@ description: Aper&ccedil;u de mon sac &agrave; dos lors de mes randonn&eacute;es
 date: 2014-03-13
 ---
 
-
 - Un anorak &eacute;tanche et coupe-vent.
 - Une veste polaire.
 - Une chemise s&eacute;chage rapide.
 - Un maillot de corps.
 - Un marcel tr&egrave;s sale.
 
-<a href="/index.php/photo?path=/medias/photos/nepal/vetements-randonnee/image_1.jpg" title="De haut en bas: anorak &eacute;tanche et coupe-vent, une veste polaire, une chemise s&eacute;chage rapide, un maillot de corps, un marcel tr&egrave;s sale" class="entry-modalebox"><img src="/medias/photos/nepal/vetements-randonnee/thumbs/image_1.jpg" width="500" height="281" /></a>
+{:.image.fit}
+![De haut en bas: anorak &eacute;tanche et coupe-vent, une veste polaire, une chemise s&eacute;chage rapide, un maillot de corps, un marcel tr&egrave;s sale](/medias/photos/nepal/vetements-randonnee/image_1.jpg 'De haut en bas: anorak &eacute;tanche et coupe-vent, une veste polaire, une chemise s&eacute;chage rapide, un maillot de corps, un marcel tr&egrave;s sale')
 
 - Mon baggy jean f&eacute;tiche tout trou&eacute;.
 - Une paire de collants thermiques
 - Chaussettes avec chaussures de marche ou tongues
 
-<a href="/index.php/photo?path=/medias/photos/nepal/vetements-randonnee/image_2.jpg" title="De haut en bas: mon baggy f&eacute;tiche tout trou&eacute;, collants, chaussettes avec chaussures de marche ou tongues...." class="entry-modalebox"><img src="/medias/photos/nepal/vetements-randonnee/thumbs/image_2.jpg" width="500" height="281" /></a>
+{:.image.fit}
+![De haut en bas: mon baggy f&eacute;tiche tout trou&eacute;, collants, chaussettes avec chaussures de marche ou tongues...](/medias/photos/nepal/vetements-randonnee/image_2.jpg 'De haut en bas: mon baggy f&eacute;tiche tout trou&eacute;, collants, chaussettes avec chaussures de marche ou tongues...')
 
 En plus de ce qu'il y a sur les photos je me trimballais &eacute;videmment deux calebutes de rechange, ainsi qu'un tee shirt en plus de la chemise et trois ou quatre paires de chausettes. Ha et j'avais aussi un short-jean! Oui je m'en suis pas mal servi avant d'arriver aux 3000m d'altitude.
 
@@ -35,5 +36,7 @@ En plus des v&ecirc;tements, j'avais avec moi quelques accessoires:
 - Ma bouteille d'eau, une carte des environs, une boussole (inutile), cr&egrave;me solaire, chargeur d'appareil photo, des lingettes b&eacute;b&eacute; et mon notebook &eacute;tanche avec passeport.
 - Dans le sac plastique j'avais ma brosse &agrave; dent et mon savon.
 
-<a href="/index.php/photo?path=/medias/photos/nepal/vetements-randonnee/image_3.jpg" title="Mes accessoires de randonn&eacute;e dans les montagnes du N&eacute;pal." class="entry-modalebox"><img src="/medias/photos/nepal/vetements-randonnee/thumbs/image_3.jpg" width="500" height="281" /></a>
+{:.image.fit}
+![Mes accessoires de randonn&eacute;e dans les montagnes du N&eacute;pal.](/medias/photos/nepal/vetements-randonnee/image_3.jpg 'Mes accessoires de randonn&eacute;e dans les montagnes du N&eacute;pal.')
+
 Voil&agrave; ce que je me suis trimball&eacute; dans les montagnes du N&eacute;pal. C'&eacute;tait pour moi le strict minimum et - &agrave; refaire - j'ajouterais un bouquin ou une autre distraction que le jeu de carte pour quand tu passes du temps tout seul.

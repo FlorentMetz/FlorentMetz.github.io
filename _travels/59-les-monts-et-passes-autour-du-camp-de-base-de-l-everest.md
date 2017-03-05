@@ -8,7 +8,7 @@ description: Vidéos depuis des sommets de montagnes lors de ma randonnée de l'
 date: 2014-07-20
 ---
 
-## Vue depuis Gokyo Ri (5350m)
+### Vue depuis Gokyo Ri (5350m)
 
 Depuis le sommet de Gokyo Ri on peut voir l'immense glacier qu'il faut traverser pour atteindre Lobuche.
 L'&eacute;norme montagne au fond (le triangle noir) sur lequel je m'arr&ecirc;te une seconde est le mont Everest.
@@ -18,7 +18,7 @@ Les tout petits carr&eacute;s bleu proche d'une &eacute;tendue blanche sont les 
     <iframe src="http://www.youtube.com/embed/7ntH88SZAz4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Vue depuis Kala Patthar (5500m)
+### Vue depuis Kala Patthar (5500m)
 
 La vue de l'Everest depuis Kala Patthar est assez impressionante. Le mont Everest se dresse toujours avec sa petite train&eacute;e de nuage &agrave; son sommet.
 <div class="embed-container">

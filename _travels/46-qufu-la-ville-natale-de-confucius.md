@@ -8,34 +8,80 @@ description: Confucius le s&acirc;ge et professeur serait n&eacute; &agrave; Quf
 date: 2012-12-16
 ---
 
-<ul>
- <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_1.jpg" class="entry-modalebox" title="La brume est constamment pr&eacute;sente"><img src="/medias/photos/chine/qufu-confucius/thumbs/image_1.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_2.jpg" class="entry-modalebox" title="Un bon endroit pour se pr&eacute;lasser pr&egrave;s de la rivi&egrave;re!"><img src="/medias/photos/chine/qufu-confucius/thumbs/image_2.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_3.jpg" class="entry-modalebox" title="La muraille encerclant Qufu"><img src="/medias/photos/chine/qufu-confucius/thumbs/image_3.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_4.jpg" class="entry-modalebox" title="Encore un bon endroit pour se poser et &eacute;crire un haiku!"><img src="/medias/photos/chine/qufu-confucius/thumbs/image_4.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_5.jpg" class="entry-modalebox" title="La porte d'entr&eacute;e de Qufu"><img src="/medias/photos/chine/qufu-confucius/thumbs/image_5.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_6.jpg" class="entry-modalebox" title="Le pont menant au Temple de Confucius"><img src="/medias/photos/chine/qufu-confucius/thumbs/image_6.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_7.jpg" class="entry-modalebox" title="Le Temple de Confucius"><img src="/medias/photos/chine/qufu-confucius/thumbs/image_7.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_8.jpg" class="entry-modalebox" title="Le Temple de Confucius"><img src="/medias/photos/chine/qufu-confucius/thumbs/image_8.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_9.jpg" class="entry-modalebox" title="Les tablettes sacr&eacute;es et d'enseignements se trouvent sur des tortues (?)"><img src="/medias/photos/chine/qufu-confucius/thumbs/image_9.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_10.jpg" class="entry-modalebox" title="Le Temple de Confucius"><img src="/medias/photos/chine/qufu-confucius/thumbs/image_10.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_11.jpg" class="entry-modalebox" title="Le Temple de Confucius"><img src="/medias/photos/chine/qufu-confucius/thumbs/image_11.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_12.jpg" class="entry-modalebox" title="Le Temple de Confucius"><img src="/medias/photos/chine/qufu-confucius/thumbs/image_12.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_13.jpg" class="entry-modalebox" title="Le Temple de Confucius"><img src="/medias/photos/chine/qufu-confucius/thumbs/image_13.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_14.jpg" class="entry-modalebox" title="Dragon de bronze"><img src="/medias/photos/chine/qufu-confucius/thumbs/image_14.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_15.jpg" class="entry-modalebox" title="Choisis ton entr&eacute;e."><img src="/medias/photos/chine/qufu-confucius/thumbs/image_15.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_16.jpg" class="entry-modalebox" title="Si tu cherches bien, tu trouveras peut &ecirc;tre des fant&ocirc;mes!"><img src="/medias/photos/chine/qufu-confucius/thumbs/image_16.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_17.jpg" class="entry-modalebox" title="La tour avec la cloche"><img src="/medias/photos/chine/qufu-confucius/thumbs/image_17.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_18.jpg" class="entry-modalebox" title="L'entr&eacute;e du cimeti&egrave;re de Confucius... Touristique!"><img src="/medias/photos/chine/qufu-confucius/thumbs/image_18.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_19.jpg" class="entry-modalebox" title="Le cimeti&egrave;re de Confucius."><img src="/medias/photos/chine/qufu-confucius/thumbs/image_19.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_20.jpg" class="entry-modalebox" title="Le cimeti&egrave;re de Confucius."><img src="/medias/photos/chine/qufu-confucius/thumbs/image_20.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_21.jpg" class="entry-modalebox" title="Le cimeti&egrave;re de Confucius."><img src="/medias/photos/chine/qufu-confucius/thumbs/image_21.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_22.jpg" class="entry-modalebox" title="La Tombe de Confucius."><img src="/medias/photos/chine/qufu-confucius/thumbs/image_22.jpg" width="500" height="281" /></a></li>
- <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_23.jpg" class="entry-modalebox" title="Le cimeti&egrave;re de Confucius - groupe de touristes."><img src="/medias/photos/chine/qufu-confucius/thumbs/image_23.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_24.jpg" class="entry-modalebox" title="Le cimeti&egrave;re de Confucius."><img src="/medias/photos/chine/qufu-confucius/thumbs/image_24.jpg" width="500" height="281" /></a></li>
-  <li><a href="/index.php/photo?path=/medias/photos/chine/qufu-confucius/image_25.jpg" class="entry-modalebox" title="Tombe"><img src="/medias/photos/chine/qufu-confucius/thumbs/image_25.jpg" width="500" height="281" /></a></li>
-</ul>
-</div>
+{:.image.fit}
+![La brume est constamment pr&eacute;sente](/medias/photos/chine/qufu-confucius/image_1.jpg 'La brume est constamment pr&eacute;sente')
+
+{:.image.fit}
+![Un bon endroit pour se pr&eacute;lasser pr&egrave;s de la rivi&egrave;re!](/medias/photos/chine/qufu-confucius/image_2.jpg 'Un bon endroit pour se pr&eacute;lasser pr&egrave;s de la rivi&egrave;re!')
+
+{:.image.fit}
+![La muraille encerclant Qufu](/medias/photos/chine/qufu-confucius/image_3.jpg 'La muraille encerclant Qufu')
+
+{:.image.fit}
+![Encore un bon endroit pour se poser et &eacute;crire un haiku!](/medias/photos/chine/qufu-confucius/image_4.jpg 'Encore un bon endroit pour se poser et &eacute;crire un haiku!')
+
+{:.image.fit}
+![La porte d'entr&eacute;e de Qufu](/medias/photos/chine/qufu-confucius/image_5.jpg 'La porte d'entr&eacute;e de Qufu')
+
+{:.image.fit}
+![Le pont menant au Temple de Confucius](/medias/photos/chine/qufu-confucius/image_6.jpg 'Le pont menant au Temple de Confucius')
+
+{:.image.fit}
+![Le Temple de Confucius](/medias/photos/chine/qufu-confucius/image_7.jpg 'Le Temple de Confucius')
+
+{:.image.fit}
+![Le Temple de Confucius](/medias/photos/chine/qufu-confucius/image_8.jpg 'Le Temple de Confucius')
+
+{:.image.fit}
+![Les tablettes sacr&eacute;es et d'enseignements se trouvent sur des tortues (?)](/medias/photos/chine/qufu-confucius/image_9.jpg 'Les tablettes sacr&eacute;es et d'enseignements se trouvent sur des tortues (?)')
+
+{:.image.fit}
+![Le Temple de Confucius](/medias/photos/chine/qufu-confucius/image_10.jpg 'Le Temple de Confucius')
+
+{:.image.fit}
+![Le Temple de Confucius](/medias/photos/chine/qufu-confucius/image_11.jpg 'Le Temple de Confucius')
+
+{:.image.fit}
+![Le Temple de Confucius](/medias/photos/chine/qufu-confucius/image_12.jpg 'Le Temple de Confucius')
+
+{:.image.fit}
+![Le Temple de Confucius](/medias/photos/chine/qufu-confucius/image_13.jpg 'Le Temple de Confucius')
+
+{:.image.fit}
+![Dragon de bronze](/medias/photos/chine/qufu-confucius/image_14.jpg 'Dragon de bronze')
+
+{:.image.fit}
+![Choisis ton entr&eacute;e.](/medias/photos/chine/qufu-confucius/image_15.jpg 'Choisis ton entr&eacute;e.')
+
+{:.image.fit}
+![Si tu cherches bien, tu trouveras peut &ecirc;tre des fant&ocirc;mes!](/medias/photos/chine/qufu-confucius/image_16.jpg 'Si tu cherches bien, tu trouveras peut &ecirc;tre des fant&ocirc;mes!')
+
+{:.image.fit}
+![La tour avec la cloche](/medias/photos/chine/qufu-confucius/image_17.jpg 'La tour avec la cloche')
+
+{:.image.fit}
+![L'entr&eacute;e du cimeti&egrave;re de Confucius... Touristique!](/medias/photos/chine/qufu-confucius/image_18.jpg 'L'entr&eacute;e du cimeti&egrave;re de Confucius... Touristique!')
+
+{:.image.fit}
+![Le cimeti&egrave;re de Confucius.](/medias/photos/chine/qufu-confucius/image_19.jpg 'Le cimeti&egrave;re de Confucius.')
+
+{:.image.fit}
+![Le cimeti&egrave;re de Confucius.](/medias/photos/chine/qufu-confucius/image_20.jpg 'Le cimeti&egrave;re de Confucius.')
+
+{:.image.fit}
+![Le cimeti&egrave;re de Confucius.](/medias/photos/chine/qufu-confucius/image_21.jpg 'Le cimeti&egrave;re de Confucius.')
+
+{:.image.fit}
+![La Tombe de Confucius.](/medias/photos/chine/qufu-confucius/image_22.jpg 'La Tombe de Confucius.')
+
+{:.image.fit}
+![Le cimeti&egrave;re de Confucius - groupe de touristes.](/medias/photos/chine/qufu-confucius/image_23.jpg 'Le cimeti&egrave;re de Confucius - groupe de touristes.')
+
+{:.image.fit}
+![Le cimeti&egrave;re de Confucius.](/medias/photos/chine/qufu-confucius/image_24.jpg 'Le cimeti&egrave;re de Confucius.')
+
+{:.image.fit}
+![Tombe](/medias/photos/chine/qufu-confucius/image_25.jpg 'Tombe')
 
 L'entr&eacute;e au Temple de Confucius est de 80 yuans. 30 pour le cimeti&egrave;re. 150 pour le Temple + Mansion + Cimeti&egrave;re.
 Pour info, il n'est pas possible de prolonger son visa &agrave; Qufu: le PSB t'enverra chier &agrave; Jining ou Taian...

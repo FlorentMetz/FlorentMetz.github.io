@@ -29,4 +29,4 @@ Une entr&eacute;e pour grimper une montagne (Hua Shan, Huang Shan, Tai Shan, ...
 
 Pour les billets de train entre villes, il est bon de jeter un oeil &agrave;:
 
-<a href="http://www.chinahighlights.com/china-trains/">China Highlights</a> - <a href="http://www.chinatravelguide.com/ctgwiki/Special:CNTrainSearch?method=1">China Travel Guide</a>
+[China Highlights](http://www.chinahighlights.com/china-trains) - [China Travel Guide](http://www.chinatravelguide.com/ctgwiki/Special:CNTrainSearch?method=1)

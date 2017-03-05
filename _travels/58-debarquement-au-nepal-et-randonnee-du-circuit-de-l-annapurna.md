@@ -49,10 +49,9 @@ Mon trajet initial (d'apr&egrave;s le livre-guide que j'avais achet&eacute;) &ea
 
 Mais comme je suis un bon marcheur (haha) je suis all&eacute; un peu plus vite..
 
-###Jour 1: Kathmandu -> Bhulbule
+### Jour 1: Kathmandu -> Bhulbule
 
 Le premier jour &agrave; donc commenc&eacute; avec un trajet en bus d'environ 8h jusqu'&agrave; Besisahar. Une fois sur place, j'avais tellement envie de me d&eacute;gourdir les jambes (et j'&eacute;tait tellement press&eacute; d'&ecirc;tre dans les montagnes) que j'ai march&eacute; 2 bonnes heures pour arriver &agrave; Bhulbule.
-
 
 {:.image.fit}
 ![Portrait d'un N&eacute;palis](/medias/photos/nepal/annapurna/image_2.jpg 'Portrait d'un N&eacute;palis')
@@ -62,6 +61,7 @@ Le premier jour &agrave; donc commenc&eacute; avec un trajet en bus d'environ 8h
 
 ### Jour 2: Bhulbule -> Jagat
 
+
 {:.image.fit}
 ![Pont &agrave; traverser](/medias/photos/nepal/annapurna/image_4.jpg 'Pont &agrave; traverser')
 
@@ -69,6 +69,7 @@ Le premier jour &agrave; donc commenc&eacute; avec un trajet en bus d'environ 8h
 ![Vall&eacute;e de Jagat](/medias/photos/nepal/annapurna/image_5.jpg 'Vall&eacute;e de Jagat')
 
 ### Jour 3: Jagat -> Timang
+
 
 {:.image.fit}
 ![Trek de Jagat &agrave; Timang](/medias/photos/nepal/annapurna/image_6.jpg 'Trek de Jagat &agrave; Timang')
@@ -86,6 +87,7 @@ Le premier jour &agrave; donc commenc&eacute; avec un trajet en bus d'environ 8h
 ![Dal Bhat](/medias/photos/nepal/annapurna/image_10.jpg 'Dal Bhat')
 
 ### Jour 4: Timang -> Upper Pisang
+
 
 {:.image.fit}
 ![Trek de Timang &agrave; Pisang](/medias/photos/nepal/annapurna/image_11.jpg 'Trek de Timang &agrave; Pisang')
@@ -188,7 +190,7 @@ Et &ccedil;a l'&eacute;tait! Je suis donc mont&eacute; au High Camp, ai rest&eac
 
 5h30, je me l&egrave;ve apr&egrave;s une nuit de cauchemars &agrave; m'imaginer bloqu&eacute; dans la montagne, devoir prendre un h&eacute;licopt&egrave;re, &ecirc;tre pris dans une tornade, bref une mauvaise nuit. Mais mon genou &agrave; l'air de tenir le coup: je ne peux pas mettre tout mon poids dessus mais au moins je peu marcher et &ccedil;a, c'est une bonne nouvelle!
 Direction la cuisine pour un bon petit d&eacute;jeuner, je fais mon sac, passe aux toilettes et c'est parti pour la journ&eacute;e la plus hardcore de la randonn&eacute;e!
-J'entame la mont&eacute;e jusqu'a Thorung Phedi High Camp en prennant bien soin de ne pas trop glisser dans la neige ni de mettre trop de poids sur mon genou. Je t&eacute;moigne un joli lev&eacute; de soleil sur les montagnes de l'Himalaya et arrive enfin au High Camp apr&egrave;s une heure de marche. Fier de moi, je me commande un caf&eacute; noir avant d'entamer la marche jusqu'au col de Thorong La - qui se trouve quand même à 5400 m&egrave;tres. Une fois mon caf&eacute; termin&eacute;... Putain!? PUTAIN!!!<br/>
+J'entame la mont&eacute;e jusqu'a Thorung Phedi High Camp en prennant bien soin de ne pas trop glisser dans la neige ni de mettre trop de poids sur mon genou. Je t&eacute;moigne un joli lev&eacute; de soleil sur les montagnes de l'Himalaya et arrive enfin au High Camp apr&egrave;s une heure de marche. Fier de moi, je me commande un caf&eacute; noir avant d'entamer la marche jusqu'au col de Thorong La - qui se trouve quand même à 5400 m&egrave;tres. Une fois mon caf&eacute; termin&eacute;... Putain!? PUTAIN!!!
 J'ai oubli&eacute; mon portefeuille dans ma chambre, en bas, à Thorung Phedi... LE CON! Te marre pas, mais quand je suis pass&eacute; aux chiottes ce matin ... bin j'avais pos&eacute; mon portefeuille à côt&eacute; pour &eacute;viter qu'il tombe alors que je ... squattais. Oui bon CA VA!
 Bon, pas de temps à perdre: je laisse mon sac à dos au High Camp et entame la descente de retour pour Thorung Phedi. En descendant, je croise &eacute;videmment les gens qui partent de Thorung Phedi (avec qui j'avais mang&eacute; la veille) qui me regardent alors avec des yeux ronds se demandant se qui me prend à redescendre - j'explique rapidement que je les retrouveraient de l'autre côt&eacute;. Du col &eacute;videmment.La descente est clairement plus dure que la mont&eacute;e et cette fois je ne veux pas me vautrer comme une merde et me re-foutre le genou en l'air. Bref, j'arrive à Thorung Phedi, r&eacute;cup&egrave;re mon portefeuille dans ma chambre et .... c'est reparti pour le d&eacute;nivell&eacute; le plus costaud de la randonn&eacute;e des Annapurnas. Pour la troisi&egrave;me fois pour moi!Dont deux fois avec un genou en vrac.
 Je remet une heure à monter en en chiant tranquillement.Je suis remont&eacute;, j'ai pay&eacute; mon caf&eacute; et suis motiv&eacute; pour aller casser la gueule à ce col de montagne: j'irais le traverser en rampant s'il le faut mais je ne vais pas m'arrêter au High Camp, bien que je sois le dernier à partir et qu'il se fasse tard pour commencer la journ&eacute;e (qui à d&eacute;jà bien commenc&eacute; pour moi...). Je m'aventure donc en direction du col de Thorong La avec devant moi: un d&eacute;nivell&eacute; de (High Camp se trouve à 4850) 600 m&egrave;tres à monter, puis 1600 m&egrave;tres à descendre (jusqu'à Muktinath - 3800). Pas de temps à perdre: je traverse avec un sourire meurtrier les versants blanc des Annapurnas, parvient au col aux environs de 12 ou 13 heures et entame la descente - qui m'a franchement tu&eacute;.
