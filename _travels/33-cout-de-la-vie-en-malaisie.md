@@ -30,6 +30,8 @@ De mani&egrave;re g&eacute;n&eacute;rale:
 
 {:.image.fit}
 ![Frigo de bi&egrave;res au seven eleven](/medias/photos/malaisie/cout-vie/image_1.jpg 'Frigo de bi&egrave;res au seven eleven')
+_Frigo de bi&egrave;res au seven eleven_
 
 {:.image.fit}
 ![Ticket d'entr&eacute;e &agrave; la Kuala Lumpur Tower](/medias/photos/malaisie/cout-vie/image_2.jpg 'Ticket d'entr&eacute;e &agrave; la Kuala Lumpur Tower')
+_Ticket d'entr&eacute;e &agrave; la Kuala Lumpur Tower_

@@ -15,7 +15,8 @@ Je suis donc parti &agrave; l'origine avec un sac Osprey 46 litres. Mes premi&eg
 Donc un sac de moins de 50 litres fut ce vers quoi je me suis tourn&eacute;. Et je l'ai remplis de:
 
 {:.image.fit}
-![Tout le bordel que je transporte avec moi](/medias/photos/general/sac-a-dos.jpg 'Tout le bordel que je transporte avec moi' 'Tout le bordel que je transporte avec moi')
+![Tout le bordel que je me transporte](/medias/photos/general/sac-a-dos.jpg 'Tout le bordel que je me transporte')
+_Tout le bordel que je me transporte_
 
 * Drap de couchage. Cette couche de polyesther ma sauv&eacute; la vie plus d'une fois lors des trajets en trains ou dormir sur des lits pouilleux: ca prot&egrave;ge des bestioles et te garde un minimum propre.
 * Mon hamac ENO anti moustique; que je me sert quasi jamais ....

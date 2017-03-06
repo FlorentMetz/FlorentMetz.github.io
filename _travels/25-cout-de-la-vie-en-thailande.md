@@ -31,39 +31,52 @@ Pour les petits achats quotidiens (bouteilles d'eau/caf&eacute;/en-cas, les 7 El
 
 {:.image.fit}
 ![Les brochettes dans la rue sont &agrave; 10 bahts.](/medias/photos/thailande/vie/image_1.jpg 'Les brochettes dans la rue sont &agrave; 10 bahts.')
+_Les brochettes dans la rue sont &agrave; 10 bahts._
 
 {:.image.fit}
 ![Pad Thai, 50 bahts, plats de nouilles avec l&eacute;gumes et poulet/porc/crevettes](/medias/photos/thailande/vie/image_2.jpg 'Pad Thai, 50 bahts, plats de nouilles avec l&eacute;gumes et poulet/porc/crevettes')
+_Pad Thai, 50 bahts, plats de nouilles avec l&eacute;gumes et poulet/porc/crevettes_
 
 {:.image.fit}
 ![Le tarif des taxis meter.](/medias/photos/thailande/vie/image_3.jpg 'Le tarif des taxis meter.')
+_Le tarif des taxis meter._
 
 {:.image.fit}
 ![Tarif d'un ticket de train suivant ta position.](/medias/photos/thailande/vie/image_4.jpg 'Tarif d'un ticket de train suivant ta position.')
+_Tarif d'un ticket de train suivant ta position._
 
 {:.image.fit}
 ![Un autre m&eacute;tro.](/medias/photos/thailande/vie/image_5.jpg 'Un autre m&eacute;tro.')
+_Un autre m&eacute;tro._
 
 {:.image.fit}
 ![Les snacks du 7 Eleven](/medias/photos/thailande/vie/image_6.jpg 'Les snacks du 7 Eleven')
+_Les snacks du 7 Eleven_
 
 {:.image.fit}
 ![On y trouve de tout dans les 7 Eleven...](/medias/photos/thailande/vie/image_7.jpg 'On y trouve de tout dans les 7 Eleven...')
+_On y trouve de tout dans les 7 Eleven..._
 
 {:.image.fit}
 ![Seven Eleven.](/medias/photos/thailande/vie/image_8.jpg 'Seven Eleven.')
+_Seven Eleven._
 
 {:.image.fit}
 ![Tu peux montrer que t'es fans en portant le tee-shirt!](/medias/photos/thailande/vie/image_9.jpg 'Tu peux montrer que t'es fans en portant le tee-shirt!')
+_Tu peux montrer que t'es fans en portant le tee-shirt!_
 
 {:.image.fit}
 ![Il y a de la concurrences...](/medias/photos/thailande/vie/image_10.jpg 'Il y a de la concurrences...')
+_Il y a de la concurrences..._
 
 {:.image.fit}
 ![...de tout genre](/medias/photos/thailande/vie/image_11.jpg '...de tout genre')
+_...de tout genre_
 
 {:.image.fit}
 ![M&ecirc;me sur les &icirc;les...](/medias/photos/thailande/vie/image_12.jpg 'M&ecirc;me sur les &icirc;les...')
+_M&ecirc;me sur les &icirc;les..._
 
 {:.image.fit}
 ![Un dernier pour la plage d'Haadrin.](/medias/photos/thailande/vie/image_13.jpg 'Un dernier pour la plage d'Haadrin.')
+_Un dernier pour la plage d'Haadrin._

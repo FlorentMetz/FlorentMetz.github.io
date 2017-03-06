@@ -10,6 +10,7 @@ date: 2012-10-13
 
 {:.image.fit}
 ![Arnaques a Bangkok](/medias/photos/thailande/arnaque-blackjack/blackjack.jpg 'Arnaques a Bangkok')
+_Arnaques a Bangkok_
 
 - "Vous venez d'ou?" me demande t-il apr&egrave;s avoir jet&eacute; un oeil &agrave; ma montre.
 - "Euh.... de France!" ca m'arrive de mentir sur ma nationalit&eacute; histoire de changer les histoires que je raconte mais ce jour l&agrave; je ne me sentais pas d'humeur blagueuse.
@@ -87,5 +88,6 @@ Mon h&ocirc;te &eacute;tait soit un amateur/d&eacute;butant dans cet arnaque ou 
 
 {:.image.fit}
 ![Ton seul ami: la Paranoia.](/medias/photos/thailande/arnaque-blackjack/paranoia.jpg 'Ton seul ami: la Paranoia.')
+_Ton seul ami: la Paranoia._
 
 Reste vigilant!

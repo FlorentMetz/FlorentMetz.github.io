@@ -16,6 +16,7 @@ date: 2014-03-13
 
 {:.image.fit}
 ![De haut en bas: anorak &eacute;tanche et coupe-vent, une veste polaire, une chemise s&eacute;chage rapide, un maillot de corps, un marcel tr&egrave;s sale](/medias/photos/nepal/vetements-randonnee/image_1.jpg 'De haut en bas: anorak &eacute;tanche et coupe-vent, une veste polaire, une chemise s&eacute;chage rapide, un maillot de corps, un marcel tr&egrave;s sale')
+_De haut en bas: anorak &eacute;tanche et coupe-vent, une veste polaire, une chemise s&eacute;chage rapide, un maillot de corps, un marcel tr&egrave;s sale_
 
 - Mon baggy jean f&eacute;tiche tout trou&eacute;.
 - Une paire de collants thermiques
@@ -23,6 +24,7 @@ date: 2014-03-13
 
 {:.image.fit}
 ![De haut en bas: mon baggy f&eacute;tiche tout trou&eacute;, collants, chaussettes avec chaussures de marche ou tongues...](/medias/photos/nepal/vetements-randonnee/image_2.jpg 'De haut en bas: mon baggy f&eacute;tiche tout trou&eacute;, collants, chaussettes avec chaussures de marche ou tongues...')
+_De haut en bas: mon baggy f&eacute;tiche tout trou&eacute;, collants, chaussettes avec chaussures de marche ou tongues..._
 
 En plus de ce qu'il y a sur les photos je me trimballais &eacute;videmment deux calebutes de rechange, ainsi qu'un tee shirt en plus de la chemise et trois ou quatre paires de chausettes. Ha et j'avais aussi un short-jean! Oui je m'en suis pas mal servi avant d'arriver aux 3000m d'altitude.
 
@@ -38,5 +40,6 @@ En plus des v&ecirc;tements, j'avais avec moi quelques accessoires:
 
 {:.image.fit}
 ![Mes accessoires de randonn&eacute;e dans les montagnes du N&eacute;pal.](/medias/photos/nepal/vetements-randonnee/image_3.jpg 'Mes accessoires de randonn&eacute;e dans les montagnes du N&eacute;pal.')
+_Mes accessoires de randonn&eacute;e dans les montagnes du N&eacute;pal._
 
 Voil&agrave; ce que je me suis trimball&eacute; dans les montagnes du N&eacute;pal. C'&eacute;tait pour moi le strict minimum et - &agrave; refaire - j'ajouterais un bouquin ou une autre distraction que le jeu de carte pour quand tu passes du temps tout seul.

@@ -21,33 +21,44 @@ Le pr&eacute;sident est aussi un moine, un trompetiste, un photographe. Et il pa
 
 {:.image.fit}
 ![Le Roi de la Thailande.](/medias/photos/thailande/roi/image_1.jpg 'Le Roi de la Thailande.')
+_Le Roi de la Thailande._
 
 {:.image.fit}
 ![...En mode moine.](/medias/photos/thailande/roi/image_2.jpg '...En mode moine.')
+_...En mode moine._
 
 {:.image.fit}
 ![...On le trouve dans la rue...](/medias/photos/thailande/roi/image_3.jpg '...On le trouve dans la rue...')
+_...On le trouve dans la rue..._
 
 {:.image.fit}
 ![...Dans des jardins.](/medias/photos/thailande/roi/image_4.jpg '...Dans des jardins.')
+_...Dans des jardins._
 
 {:.image.fit}
 ![...Sur les nationales.](/medias/photos/thailande/roi/image_5.jpg '...Sur les nationales.')
+_...Sur les nationales._
 
 {:.image.fit}
 ![...Les gros batiments...](/medias/photos/thailande/roi/image_6.jpg '...Les gros batiments...')
+_...Les gros batiments..._
 
 {:.image.fit}
 ![...Dans les stations de trains](/medias/photos/thailande/roi/image_7.jpg '...Dans les stations de trains')
+_...Dans les stations de trains_
 
 {:.image.fit}
 ![...Sur les calendriers](/medias/photos/thailande/roi/image_8.jpg '...Sur les calendriers')
+_...Sur les calendriers_
 
 {:.image.fit}
 ![...En chemise hawaienne!](/medias/photos/thailande/roi/image_9.jpg '...En chemise hawaienne!')
+_...En chemise hawaienne!_
 
 {:.image.fit}
 ![...Avec sa femme](/medias/photos/thailande/roi/image_10.jpg '...Avec sa femme')
+_...Avec sa femme_
 
 {:.image.fit}
 ![...Sur les billets de banque!](/medias/photos/thailande/roi/image_11.jpg '...Sur les billets de banque!')
+_...Sur les billets de banque!_

@@ -2084,6 +2084,17 @@
 
 			.image.fit img {
 				width: 100%;
+				border-bottom-right-radius: 0;
+				border-bottom-left-radius: 0;
+			}
+
+			.image.fit em {
+				background: #f7f7f7;
+				width: 100%;
+				text-align: center;
+				display: block;
+				border-bottom-right-radius: 0.35em;
+				border-bottom-left-radius: 0.35em;
 			}
 
 		.image.avatar {

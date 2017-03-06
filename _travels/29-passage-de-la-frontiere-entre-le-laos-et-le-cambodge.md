@@ -34,30 +34,39 @@ Le temps de coller et tamponner ce fameux visa, rattraper mon passeport et on re
 
 {:.image.fit}
 ![La fronti&egrave;re Laos - Cambodge (batiment surement en construction &agrave; ce moment l&agrave;)](/medias/photos/cambodge/frontiere-laos-cambodge/image_1.jpg 'La fronti&egrave;re Laos - Cambodge (batiment surement en construction &agrave; ce moment l&agrave;)')
+_La fronti&egrave;re Laos - Cambodge (batiment surement en construction &agrave; ce moment l&agrave;)_
 
 {:.image.fit}
 ![Le poste &agrave; faire tamponner sa sortie (et payer 2$ de corruption)](/medias/photos/cambodge/frontiere-laos-cambodge/image_2.jpg 'Le poste &agrave; faire tamponner sa sortie (et payer 2$ de corruption)')
+_Le poste &agrave; faire tamponner sa sortie (et payer 2$ de corruption)_
 
 {:.image.fit}
 ![Direction le Cambodge!](/medias/photos/cambodge/frontiere-laos-cambodge/image_3.jpg 'Direction le Cambodge!')
+_Direction le Cambodge!_
 
 {:.image.fit}
 ![On suit les panneaux - comme a Disneyland.](/medias/photos/cambodge/frontiere-laos-cambodge/image_4.jpg 'On suit les panneaux - comme a Disneyland.')
+_On suit les panneaux - comme a Disneyland._
 
 {:.image.fit}
 ![La tente sous laquelle ta sant&eacute; est v&eacute;rifi&eacute; (arnaque au passage qui peut &ecirc;tre &eacute;vit&eacute;e...)](/medias/photos/cambodge/frontiere-laos-cambodge/image_5.jpg 'La tente sous laquelle ta sant&eacute; est v&eacute;rifi&eacute; (arnaque au passage qui peut &ecirc;tre &eacute;vit&eacute;e...)')
+_La tente sous laquelle ta sant&eacute; est v&eacute;rifi&eacute; (arnaque au passage qui peut &ecirc;tre &eacute;vit&eacute;e...)_
 
 {:.image.fit}
 ![Direction le poste du Visa &agrave; l'arriv&eacute;e](/medias/photos/cambodge/frontiere-laos-cambodge/image_6.jpg 'Direction le poste du Visa &agrave; l'arriv&eacute;e')
+_Direction le poste du Visa &agrave; l'arriv&eacute;e_
 
 {:.image.fit}
 ![Le prix est sens&eacute; &ecirc;tre 20$ mais la corruption veut que le prix grimpe &agrave; 25$...](/medias/photos/cambodge/frontiere-laos-cambodge/image_7.jpg 'Le prix est sens&eacute; &ecirc;tre 20$ mais la corruption veut que le prix grimpe &agrave; 25$...')
+_Le prix est sens&eacute; &ecirc;tre 20$ mais la corruption veut que le prix grimpe &agrave; 25$..._
 
 {:.image.fit}
 ![Au revoir le Lao...](/medias/photos/cambodge/frontiere-laos-cambodge/image_8.jpg 'Au revoir le Lao...')
+_Au revoir le Lao..._
 
 {:.image.fit}
 ![...bonjour le Cambodge!](/medias/photos/cambodge/frontiere-laos-cambodge/image_9.jpg '...bonjour le Cambodge!')
+_...bonjour le Cambodge!_
 
 Le visa combodgien est aussi faisable [par internet](http://www.mfaic.gov.kh/evisa/).
 Apr&egrave; quelques r&eacute;cits lues sur le net, les 2$ de sortie du Laos sont une arnaque: il ne faut PAS payer pour sortir du Laos. Le dollar a payer pour le check sant&eacute; peut (et devrait &ecirc;tre) &eacute;vit&eacute;. Les 25$ du visa sont mentis, le prix OFFICIEL c'est 20$.

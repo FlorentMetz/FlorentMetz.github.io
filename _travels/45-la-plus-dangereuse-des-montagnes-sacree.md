@@ -19,6 +19,7 @@ Direction la porte Est pour acc&eacute;der au chemin de la randonn&eacute;e, je 
 
 {:.image.fit}
 ![Bienvenue au pied de Hua Shan](/medias/photos/chine/hua-shan/image_1.jpg 'Bienvenue au pied de Hua Shan')
+_Bienvenue au pied de Hua Shan_
 
 J'aime autant te le dire maintenant: ce chemin de pierre, je ne le quitterais pas une seconde. Non pas parce qu'il est parsem&eacute; de lampadaires tous les 50 m&egrave;tres et que comme il fait nuit il est pr&eacute;f&eacute;rable de voir o&ugrave; tu mets les pieds; mais plut&ocirc;t parce qu'&agrave; AUCUN moment tu ne PEUX le quitter.
 C'est assez simple &agrave; comprendre: si &ccedil;a monte, il y a des escaliers qui montent. Si &ccedil;a descend, il y a des escaliers qui descendent. Si c'est plat, il y a une chemin en pierre. Pas de terre ou d'herbe.
@@ -28,16 +29,19 @@ Malgr&eacute; la forte lumi&egrave;re que me procure une presque pleine lune, je
 
 {:.image.fit}
 ![Les petites lumi&egrave;res ne sont pas des &eacute;toiles mais d'autre lampadaires plus loin...](/medias/photos/chine/hua-shan/image_2.jpg 'Les petites lumi&egrave;res ne sont pas des &eacute;toiles mais d'autre lampadaires plus loin...')
+_Les petites lumi&egrave;res ne sont pas des &eacute;toiles mais d'autre lampadaires plus loin..._
 
 D'ailleurs il n'y a vraiment personne &agrave; cette heure, pas un randonneur. Le calme absolue dans une nuit claire et froide.
 
 {:.image.fit}
 ![Les marches enneig&eacute;s](/medias/photos/chine/hua-shan/image_3.jpg 'Les marches enneig&eacute;s')
+_Les marches enneig&eacute;s_
 
 Je continue mon chemin jusqu'&agrave; un panneau signalant que le chemin allait se corcer un peu. Ha bin quand m&ecirc;me! Apparition alors des fameuses mini marches. &Ccedil;a pour &ecirc;tre minis, elles sont minis! La moiti&eacute; de mon pied!
 
 {:.image.fit}
 ![Et il y en a beaucoup des comme &ccedil;a](/medias/photos/chine/hua-shan/image_4.jpg 'Et il y en a beaucoup des comme &ccedil;a')
+_Et il y en a beaucoup des comme &ccedil;a_
 
 Heureusement, le long des marches se trouvent des chaines pour te tenir -chaines sur lesquelles les p&egrave;lerins accrochent des cadenas ou des tissus de pri&egrave;res taoiste- et crois moi quand je te dis que tu va t'y accrocher &agrave; ces chaines de s&eacute;curit&eacute;!
 Au d&eacute;but des marches je me suis dit "Allez, je vais essayer de monter sans m'aider des chaines, suffit de mettre un pied devant l'autre...". Ce qui &eacute;tait le cas pour les premi&egrave;res s&eacute;ries de marches. Mais &agrave; l'arriv&eacute;e des mini marches...gel&eacute; et donc glissante, j'ai moins fait le malin. J'ai m&ecirc;me mont&eacute; une fin de s&eacute;rie de marches &agrave; quatre pattes! Enfin, ca ressemblait plus &agrave; une &eacute;chelle qu'autre chose en m&ecirc;me temps.
@@ -45,41 +49,50 @@ Tiens? Un autre panneau...est-ce que ca va ce compliquer?
 
 {:.image.fit}
 ![Falaise de 1000 pieds](/medias/photos/chine/hua-shan/image_5.jpg 'Falaise de 1000 pieds')
+_Falaise de 1000 pieds_
 
 Putain ouais! 80 m&egrave;tres de falaise &agrave; monter via des escaliers de 10 centim&egrave;tres glissante comme une patinoire. Je me marre: je vais en chier. Et c'est d'ailleurs pour &ccedil;a que je suis venu.
 
 {:.image.fit}
 ![Falaise de 1000 pieds - 80 m&egrave;tres](/medias/photos/chine/hua-shan/image_6.jpg 'Falaise de 1000 pieds - 80 m&egrave;tres')
+_Falaise de 1000 pieds - 80 m&egrave;tres_
 
 {:.image.fit}
 ![Falaise de 1000 pieds - 80 m&egrave;tres](/medias/photos/chine/hua-shan/image_7.jpg 'Falaise de 1000 pieds - 80 m&egrave;tres')
+_Falaise de 1000 pieds - 80 m&egrave;tres_
 
 {:.image.fit}
 ![Falaise de 1000 pieds - 80 m&egrave;tres](/medias/photos/chine/hua-shan/image_8.jpg 'Falaise de 1000 pieds - 80 m&egrave;tres')
+_Falaise de 1000 pieds - 80 m&egrave;tres_
 
 {:.image.fit}
 ![Falaise de 1000 pieds - 80 m&egrave;tres](/medias/photos/chine/hua-shan/image_9.jpg 'Falaise de 1000 pieds - 80 m&egrave;tres')
+_Falaise de 1000 pieds - 80 m&egrave;tres_
 
 {:.image.fit}
 ![Falaise de 1000 pieds - 80 m&egrave;tres](/medias/photos/chine/hua-shan/image_10.jpg 'Falaise de 1000 pieds - 80 m&egrave;tres')
+_Falaise de 1000 pieds - 80 m&egrave;tres_
 
 J'attrape donc la rambarde en chaine de s&eacute;curit&eacute; et commence &agrave; monter. A ce niveau la, j'appellerais plut&ocirc;t ca monter &agrave; la corde qu'&agrave; l'escalier! Assez physique.
 Un petit coup d'oeil en arri&egrave;re me suffit &agrave; me rapeller qu'il ne faut SURTOUT pas la l&acirc;cher cette chaine de s&eacute;curit&eacute; sinon c'est la chute libre!
 
 {:.image.fit}
 ![Les 80 m&egrave;tres d'escaliers vue d'en haut, ca m&eacute;rite bien une gorg&eacute;e de Nescaf&eacute;!](/medias/photos/chine/hua-shan/image_11.jpg 'Les 80 m&egrave;tres d'escaliers vue d'en haut, ca m&eacute;rite bien une gorg&eacute;e de Nescaf&eacute;!')
+_Les 80 m&egrave;tres d'escaliers vue d'en haut, ca m&eacute;rite bien une gorg&eacute;e de Nescaf&eacute;!_
 
 Ouf, cette s&eacute;rie est finie! Petite gorg&eacute;e de Nescaf&eacute; devenue ti&egrave;de pour f&ecirc;ter cette ascension: je suis encore en un seul morceau.
 Je continue &agrave; peine quelques m&egrave;tres que s'offre &agrave; moi une autre s&eacute;rie du m&ecirc;me genre d'escaliers. Mais cette fois il y en a en fait 2 en parall&egrave;les: une s&eacute;rie est apparement ferm&eacute;e, surement car trop dangereuse.
 
 {:.image.fit}
 ![Ca a l'air accueillant!](/medias/photos/chine/hua-shan/image_12.jpg 'Ca a l'air accueillant!')
+_Ca a l'air accueillant!_
 
 J'me marre: Qu'est-ce qui pourrait &ecirc;tre plus dangereux que ce que je viens de me taper? Allez, je suis l&agrave; pour en chier apr&egrave;s tout: je passe au dessus de la rambarde d'interdiction de passer et entame cette s&eacute;rie d'escaliers interdite.
 Sur cette s&eacute;rie, je n'ai pas de photos. Non pas qu'elles auraient &eacute;t&eacute; noire ou floue, naaaan, c'est juste que j'ai juste PAS l&acirc;ch&eacute; la chaine de s&eacute;curit&eacute; de la mont&eacute;! &Ccedil;a monte &agrave; au moins 80 degr&eacute;e (donc presque vertical), il n'y a pas de lampadaires sur cette s&eacute;rie donc je ne voie que gr&acirc;ce &agrave; la lumi&egrave;re de la lune (que je remercie au passage!) et pour bien finir: chaque marche est enfoui sous 5-10 centim&egrave;tres de neige. L&agrave;, je me rend compte que les escaliers pr&eacute;c&eacute;dents -bien que glissant- &eacute;taient entretenue pour ne PAS l'&ecirc;tre, ceux o&ugrave; je me trouve ne le sont clairement pas. Je regarde en haut pour voir jusqu'ou ca va: loin dans les t&eacute;n&egrave;bres. Je regarde derri&egrave;re moi et baisse les yeux pour constater mes seules empreintes dans la neige des escaliers: faudrait &ecirc;tre encore plus con d'essayer de descendre que de continuer... Je continue donc cette ascension de malade en esp&eacute;rant que ca ne m&egrave;ne pas &agrave; un cul-de-sac.
 
 {:.image.fit}
 ![J'ai menti, j'ai quand m&ecirc;me une photo du d&eacute;sastre!](/medias/photos/chine/hua-shan/image_13.jpg 'J'ai menti, j'ai quand m&ecirc;me une photo du d&eacute;sastre!')
+_J'ai menti, j'ai quand m&ecirc;me une photo du d&eacute;sastre!_
 
 Apr&egrave;s une heure de grimpe, j'atteins la fin de la s&eacute;rie machiav&eacute;lique!
 Bon ok, c'&eacute;tait peut &ecirc;tre pas 1 heure mais plutot un quart d'heure mais c'est ce qui ma sembl&eacute; quand j'y &eacute;tais! Si ces marches sont aussi appel&eacute; "escalier divin", ca devrait &ecirc;tre renomm&eacute; "escalier des enfers" lors de la descente!
@@ -88,12 +101,15 @@ Note pour moi-m&ecirc;me: &eacute;viter les chemins interdits car ils sont VRAIM
 
 {:.image.fit}
 ![Les escaliers qui ziguent et zaguent long&eacute;s par la chaine de s&eacute;curit&eacute; sur laquelle pousse les tissus rouge de pri&egrave;res Taoistes.](/medias/photos/chine/hua-shan/image_14.jpg 'Les escaliers qui ziguent et zaguent long&eacute;s par la chaine de s&eacute;curit&eacute; sur laquelle pousse les tissus rouge de pri&egrave;res Taoistes.')
+_Les escaliers qui ziguent et zaguent long&eacute;s par la chaine de s&eacute;curit&eacute; sur laquelle pousse les tissus rouge de pri&egrave;res Taoistes._
 
 {:.image.fit}
 ![Et il y en a beaucoup des tissus de pri&egrave;res!](/medias/photos/chine/hua-shan/image_15.jpg 'Et il y en a beaucoup des tissus de pri&egrave;res!')
+_Et il y en a beaucoup des tissus de pri&egrave;res!_
 
 {:.image.fit}
 ![Ha? Encore un mur a franchir.](/medias/photos/chine/hua-shan/image_16.jpg 'Ha? Encore un mur a franchir.')
+_Ha? Encore un mur a franchir._
 
 00:30, je suis arriv&eacute; au sommet du pic Nord, Il y a en tout 4 pics, un par direction (Nord, Sud, Ouest, Est voyons!) et mon but est bien &eacute;videmment -non, pas de crever de froid ou en glissant de ces satan&eacute;s marches)- d'admirer le lev&eacute; du soleil, assis, au sommet du pic Est.
 J'ai donc 6 heures pour aller jusqu'au pic Est, et &ccedil;a ca prend environ 1 heure... Pourquoi ne pas faire une petite pose est peut &ecirc;tre dormir un petit peu?
@@ -103,15 +119,18 @@ Donc je me "repose" une heure &agrave; grelloter. "Vaut mieux que je me les cail
 
 {:.image.fit}
 ![Pic Ouest](/medias/photos/chine/hua-shan/image_17.jpg 'Pic Ouest')
+_Pic Ouest_
 
 02:30, je suis au sommet du pic Ouest. Il y a pas mal de vent et il fait froid (je ne vous l'avais pas dis &ccedil;a d&eacute;j&agrave;?) mais la vue est sublime. La lumi&egrave;re de la lune &eacute;claire les  montagnes aux alentours, beaucoup d'&eacute;toiles et les lampadaires &eacute;clairant le chemin forment un esp&egrave;ce de dragon le long de la montagne, s'effa&ccedil;ant au loin. J'ai faim.
 J'arrive presqu'&agrave; bout de mon snack mais pr&eacute;f&egrave;re en garder pour plus tard: faut se rationner car j'ai pas grand chose &agrave; manger et la bouffe i&ccedil;i (parce qu'il y a quelques vendeurs) co&ucirc;te cher! C'est reparti pour marcher, direction le pic Sud.
 
 {:.image.fit}
 ![Chemin menant au Pic Sud](/medias/photos/chine/hua-shan/image_18.jpg 'Chemin menant au Pic Sud')
+_Chemin menant au Pic Sud_
 
 {:.image.fit}
 ![LE PIC SUD !](/medias/photos/chine/hua-shan/image_19.jpg 'LE PIC SUD !')
+_LE PIC SUD !_
 
 03:30. J'y suis! Le plus haut sommet de Hua Shan! 2154.90 m&egrave;tres, quelle pr&eacute;cision, une plaque avec des &eacute;crits chinois le stipule clairement! Oui, c'est &eacute;cris en chinois mais ils ont &eacute;t&eacute; malin cette fois: les chiffres sont compr&eacute;hensibles. Concernant la randonn&eacute;e sacr&eacute;e, elle s'ach&egrave;ve ici, si je croyait au Tao, il y aurais des chances que je devienne Immortel didonc! Heureusement que j'y crois pas hahahaha!
 Tr&ecirc;ve de plaisanteries sur la sorcellerie. J'ai un lev&eacute; de soleil &agrave; admirer, le probl&egrave;me c'est que si j'y vais maintenant je n'aurais plus rien &agrave; faire qu'&agrave; attendre dans le froid... Va falloir y aller encore pluuus leeentement que pr&eacute;cedemment...
@@ -121,24 +140,29 @@ Je rebrousse chemin jusqu'a un hotel o&ugrave; la chambre coute ce que je d&eacu
 
 {:.image.fit}
 ![Magne-toi soleil! J'ai froid moi!](/medias/photos/chine/hua-shan/image_20.jpg 'Magne-toi soleil! J'ai froid moi!')
+_Magne-toi soleil! J'ai froid moi!_
 
 {:.image.fit}
 ![ENFIN !!](/medias/photos/chine/hua-shan/image_21.jpg 'ENFIN !!')
+_ENFIN !!_
 
 Enfin, le soleil se montre dans un ciel sans nuage. Mentalement ca me r&eacute;chauffe. Je profite un peu de la belle vue et entame la descente pour me r&eacute;chauffer encore plus.
 Avec la lumi&egrave;re du jour, je d&eacute;couvre aussi le chemin, les escaliers et je comprend pourquoi cette randonn&eacute;e est la plus dangereuse du monde. Non pas que je l'avais pas compris avant: mon exp&eacute;rience des ecaliers de l'enfer me l'avais d&eacute;j&agrave; assez prouv&eacute;. Mais endurer sans trop voir ce qu'il se passe est mentalement plus facile que lorsque tu vois les choses.
 
 {:.image.fit}
 ![Lev&eacute; de soleil](/medias/photos/chine/hua-shan/image_22.jpg 'Lev&eacute; de soleil')
+_Lev&eacute; de soleil_
 
 {:.image.fit}
 ![Lev&eacute; de soleil](/medias/photos/chine/hua-shan/image_23.jpg 'Lev&eacute; de soleil')
+_Lev&eacute; de soleil_
 
 En parlant d'exp&eacute;rience &agrave; adrenaline, je n'ai pas encore trouv&eacute; le fameux passage via ferrata! Un panneau avec un plan sur le chemin m'indique o&ugrave; le chemin se trouve: derri&egrave;re un temple qui &eacute;tait ferm&eacute; de nuit, ca explique le pourquoi.
 Je me dirige donc vers le temple, passe les portes: personne aux environs. J'aper&ccedil;ois un chemin qui commence a flanc de montagne et je m'y engage: 20 m&egrave;tres de long de chemin de 40 centim&egrave;tres de large &agrave; flanc de mur de montagne. En bas le vide et tout ce qui te retient de tomber est encore cette merveilleuse chaine de s&eacute;curit&eacute;. Mais ce chemin -qui pourrais tr&egrave;s bien servir de point de lancement pour du saut en parachute- n'est que le point d'acc&egrave;s au via ferrata. Qui est ferm&eacute;.
 
 {:.image.fit}
 ![Le chemin qui m&egrave;ne au via ferrata](/medias/photos/chine/hua-shan/image_24.jpg 'Le chemin qui m&egrave;ne au via ferrata')
+_Le chemin qui m&egrave;ne au via ferrata_
 
 PUTAIN!!! Je me tape des milliards d'escaliers &agrave; monter et descendre et maintenant que j'y suis, l&agrave;, si proche de ce ferrata consid&eacute;r&eacute; comme &eacute;tant l'un des passages des plus dangereux de la plan&egrave;te: il est ferm&eacute;.
 En m&ecirc;me temps, il n'y a personne aux alentours et je pourrais tr&egrave;s bien passer au dessus de cette rambarde de s&eacute;curit&eacute; aussi...
@@ -146,41 +170,53 @@ En m&ecirc;me temps, il n'y a personne aux alentours et je pourrais tr&egrave;s 
 
 {:.image.fit}
 ![Vue depuis le via ferrata](/medias/photos/chine/hua-shan/image_25.jpg 'Vue depuis le via ferrata')
+_Vue depuis le via ferrata_
 
 {:.image.fit}
 ![Temples](/medias/photos/chine/hua-shan/image_26.jpg 'Temples')
+_Temples_
 
 {:.image.fit}
 ![Les tissus de pri&egrave;res et cadenas](/medias/photos/chine/hua-shan/image_27.jpg 'Les tissus de pri&egrave;res et cadenas')
+_Les tissus de pri&egrave;res et cadenas_
 
 {:.image.fit}
 ![Le chemin menant au via ferrata](/medias/photos/chine/hua-shan/image_28.jpg 'Le chemin menant au via ferrata')
+_Le chemin menant au via ferrata_
 
 {:.image.fit}
 ![Pic Ouest](/medias/photos/chine/hua-shan/image_29.jpg 'Pic Ouest')
+_Pic Ouest_
 
 {:.image.fit}
 ![Tablette du Pic Sud](/medias/photos/chine/hua-shan/image_30.jpg 'Tablette du Pic Sud')
+_Tablette du Pic Sud_
 
 {:.image.fit}
 ![Temple](/medias/photos/chine/hua-shan/image_31.jpg 'Temple')
+_Temple_
 
 {:.image.fit}
 ![Pic Ouest](/medias/photos/chine/hua-shan/image_32.jpg 'Pic Ouest')
+_Pic Ouest_
 
 {:.image.fit}
 ![Temple](/medias/photos/chine/hua-shan/image_33.jpg 'Temple')
+_Temple_
 
 {:.image.fit}
 ![Rouge, rouge rouge.](/medias/photos/chine/hua-shan/image_34.jpg 'Rouge, rouge rouge.')
+_Rouge, rouge rouge._
 
 Ma descente se fera avec le m&ecirc;me sourire que j'avais pour l'ascension mais pour une diff&eacute;rente raison: la mont&eacute;e me faisait sourire &agrave; en chier, la descente me fait sourire &agrave; voir le visage d'horreur des gens qui montent. Non, je ne suis pas sadique!
 
 {:.image.fit}
 ![Mini-escaliers](/medias/photos/chine/hua-shan/image_36.jpg 'Mini-escaliers')
+_Mini-escaliers_
 
 {:.image.fit}
 ![Les gens qui descendent serrant bien la rambarde](/medias/photos/chine/hua-shan/image_38.jpg 'Les gens qui descendent serrant bien la rambarde')
+_Les gens qui descendent serrant bien la rambarde_
 
 Et je pensais que le plus dur &eacute;tait finis pour moi.. jusqu'&agrave; ce que je croise un panneau: "Soldier's Trail".
 Ha oui, je me rapelle avoir lu qu'il y a plusieurs fa&ccedil;ons de monter/descendre: la voie par la porte de l'Est que j'ai utilis&eacute; pour monter, la voie par la porte de l'Ouest que tout le monde prend en g&eacute;n&eacute;ral, et la voie du Soldat qui est -en gros- une descente rapide. Que des marches, pas de repos.
@@ -189,37 +225,47 @@ Un large sourire se dessine sur ma t&ecirc;te fatigu&eacute;. J'ai faim et je ve
 
 {:.image.fit}
 ![La Voie du Soldat](/medias/photos/chine/hua-shan/image_39.jpg 'La Voie du Soldat')
+_La Voie du Soldat_
 
 {:.image.fit}
 ![Ferm&eacute;e!!](/medias/photos/chine/hua-shan/image_40.jpg 'Ferm&eacute;e!!')
+_Ferm&eacute;e!!_
 
 {:.image.fit}
 ![Pas grave, ca passe quand m&ecirc;me...](/medias/photos/chine/hua-shan/image_41.jpg 'Pas grave, ca passe quand m&ecirc;me...')
+_Pas grave, ca passe quand m&ecirc;me..._
 
 Et comme pour le coup des escaliers "dangereux", la voie du soldat est en effet tr&egrave;s physique! C'est dur et ma plainte int&eacute;rieure commence &agrave; sortir par des jurons jusqu'&agrave; ce que je les croise. Eux. Pas des p&egrave;lerins ni des touristes, non. Les travailleurs. Et le premier que je croise montait une grosse bonbonne de gaz accroch&eacute; au bout d'un bamboo et un gros sac de nourriture &agrave; l'autre bout du bamboo faisant balance. Et il monte, tranquillement, les marches glissante de ce chemin du soldat, et surement qu'il devra redescendre pour remonter une autre cargaison.
 
 {:.image.fit}
 ![Employ&eacute; montant une cargaison](/medias/photos/chine/hua-shan/image_37.jpg 'Employ&eacute; montant une cargaison')
+_Employ&eacute; montant une cargaison_
 
 Et j'en croise un autre, et un autre, tout autant charg&eacute; avec des kilos de nourriture, fourniture ou autres poids lourd. C'est eux -les employ&eacute;s- qui sont les vrais soldats dans l'histoire. Pour le p&egrave;lerin, tu montes les escaliers pour acc&eacute;der &agrave; l'immortalit&eacute; envers le Tao mais c'est que l&eacute;gende. Pour moi la l&eacute;gende c'est le type qui monte et descend maintes fois cette fichu montagne et ces satan&eacute;es escaliers avec au moins 40 kilos sur le dos sans se plaindre.
 
 {:.image.fit}
 ![Employ&eacute; montant une cargaison](/medias/photos/chine/hua-shan/image_35.jpg 'Employ&eacute; montant une cargaison')
+_Employ&eacute; montant une cargaison_
 
 {:.image.fit}
 ![Employ&eacute; montant une cargaison](/medias/photos/chine/hua-shan/image_42.jpg 'Employ&eacute; montant une cargaison')
+_Employ&eacute; montant une cargaison_
 
 {:.image.fit}
 ![Mini-escalier](/medias/photos/chine/hua-shan/image_43.jpg 'Mini-escalier')
+_Mini-escalier_
 
 {:.image.fit}
 ![Assez dangereux hahahahaha!](/medias/photos/chine/hua-shan/image_44.jpg 'Assez dangereux hahahahaha!')
+_Assez dangereux hahahahaha!_
 
 {:.image.fit}
 ![Un autre mur.](/medias/photos/chine/hua-shan/image_45.jpg 'Un autre mur.')
+_Un autre mur._
 
 {:.image.fit}
 ![Et ca descend pour un bon moment](/medias/photos/chine/hua-shan/image_46.jpg 'Et ca descend pour un bon moment')
+_Et ca descend pour un bon moment_
 
 Je ferme donc ma gueule et mes plaintes et finis ma descente, r&ecirc;vant en silence d'un gros bol de nouilles et d'une place assise dans le bus.
 13:00, je suis de retour au village. Je repasse au m&ecirc;me restau qu'hier pour commander le m&ecirc;me gros bol de nouilles: c'est succulent et ca r&eacute;chauffe!

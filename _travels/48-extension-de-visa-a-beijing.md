@@ -10,6 +10,7 @@ date: 2012-12-28
 
 {:.image.fit}
 ![Beijing - La Cit&eacute; Interdite](/medias/photos/chine/beijing/image_1.jpg 'Beijing - La Cit&eacute; Interdite')
+_Beijing - La Cit&eacute; Interdite_
 
 Tout est calcul&eacute;: je trouve une auberge de jeunesse, une douche et je devrais pouvoir &ecirc;tre au PSB pour 10 heures.
 

@@ -15,17 +15,20 @@ D&egrave;s 7 heures du mat', je commence a toquer aux carreaux des voitures et c
 
 {:.image.fit}
 ![Le premier passage de montagnes apres Sonamarg](/medias/photos/inde/ladakh/image_1.jpg 'Le premier passage de montagnes apres Sonamarg')
+_Le premier passage de montagnes apres Sonamarg_
 
 Et le trajet fut long... c'est pas que ces Indiens n'&eacute;taient pas bavards, mais ils ne parlaient pas vraiment anglais -meme basique- donc j'ai pass&eacute; le temps du trajet a admirer le paysage. Montagnes massives, vall&eacute;e verte avec ruisseau qui coule, neige blanche intouchable et les postes de s&eacute;curit&eacute; militaire tout les 5 kilometres....
 
 {:.image.fit}
 ![Les passages enneig&eacute; sont en jeu!](/medias/photos/inde/ladakh/image_2.jpg 'Les passages enneig&eacute; sont en jeu!')
+_Les passages enneig&eacute; sont en jeu!_
 
 Ha!? On s'arrete faire une pause-pipi. Deux des Indiens se dirigent vers un coin tranquille de la riviere et me font signe de venir: Les bougres avaient apport&eacute; la bouteille de whisky avec eux. "Route, zig zag, zig zag, need medicine" me dit-il avec le sourire, et me propose un verre de whisky coup&eacute; a l'eau. A ce moment la, ca ne se refuse pas vraiment: le trajet se fait long. J'accepte en remerciant &eacute;norm&eacute;ment.
 On reprend la voiture apr&egrave;s 20 minutes de pause pipi/rafraichissement et comme par coincidence, le premier panneau de s&eacute;curit&eacute; routiere qu'on croise nous signale "Drinking Whisky, Driving Risky".
 
 {:.image.fit}
 ![Pause d&eacute;jeuner dans le village de Kargil](/medias/photos/inde/ladakh/image_3.jpg 'Pause d&eacute;jeuner dans le village de Kargil')
+_Pause d&eacute;jeuner dans le village de Kargil_
 
 Ha!? On s'arr&ecirc;te encore mais cette fois a Kargil la "grosse" ville qui s&eacute;pare Srinagar de Leh, pour d&eacute;jeuner. Je ne m'attendais pas a ce que mes co-conducteurs m'invitent a d&eacute;jeuner avec eux, mais j'imagine que c'est ma chance du d&eacute;butant a faire de l'auto-stop. Ils m'ont surement pris en piti&eacute; ou me trouve sympa (ils me trouvaient surement sympa) et me paye le plat de riz + poulet. Manger du poulet (ou n'importe quel viande) est plus rare qu'en Europe car d'une c'est assez cher, et deux, beaucoup de gens sont v&eacute;g&eacute;tariens.
 Remerciage intensif de ma part qui n'ait encore rien pay&eacute; de la journ&eacute;e; ils ne veulent rien entendre, "c'est tout a fait normal".
@@ -35,6 +38,7 @@ On reprend la route et quittons Kargil, direction Leh. Le paysage change petit a
 
 {:.image.fit}
 ![Le monast&egrave;re de Lamayuru est en vue](/medias/photos/inde/ladakh/image_4.jpg 'Le monast&egrave;re de Lamayuru est en vue')
+_Le monast&egrave;re de Lamayuru est en vue_
 
 Quelques monasteres font leurs apparitions en haut des montagnes, surplombant les villages. J'imagine d&eacute;ja la vie des moines dans ces endroit recul&eacute; de la civilisation: les poteaux &eacute;l&eacute;ctrique se font rare et la riviere s'amincit -voire parfois disparait sous terre pour r&eacute;apparaitre quelques m&egrave;tres plus loin.
 On atteindra Leh apr&egrave;s le couch&eacute; du soleil, la ville est quasi sans lumieres et sans bruits.</p>
@@ -51,87 +55,114 @@ Je suis donc rest&eacute; 2 nuits gratos chez mon conducteur -qui au passage n'a
 
 {:.image.fit}
 ![Porte d'entr&eacute; de la ville de Leh](/medias/photos/inde/ladakh/image_5.jpg 'Porte d'entr&eacute; de la ville de Leh')
+_Porte d'entr&eacute; de la ville de Leh_
 
 {:.image.fit}
 ![Une Ladakhienne tourne les roues de pri&egrave;re](/medias/photos/inde/ladakh/image_6.jpg 'Une Ladakhienne tourne les roues de pri&egrave;re')
+_Une Ladakhienne tourne les roues de pri&egrave;re_
 
 {:.image.fit}
 ![Soma Gompa &agrave; Leh](/medias/photos/inde/ladakh/image_7.jpg 'Soma Gompa &agrave; Leh')
+_Soma Gompa &agrave; Leh_
 
 {:.image.fit}
 ![Palais Royale de Leh](/medias/photos/inde/ladakh/image_8.jpg 'Palais Royale de Leh')
+_Palais Royale de Leh_
 
 {:.image.fit}
 ![Drapeaux de prieres Tib&eacute;tain surplombant la ville de Leh](/medias/photos/inde/ladakh/image_9.jpg 'Drapeaux de prieres Tib&eacute;tain surplombant la ville de Leh')
+_Drapeaux de prieres Tib&eacute;tain surplombant la ville de Leh_
 
 {:.image.fit}
 ![Drapeaux de prieres Tib&eacute;tain surplombant la ville de Leh](/medias/photos/inde/ladakh/image_10.jpg 'Drapeaux de prieres Tib&eacute;tain surplombant la ville de Leh')
+_Drapeaux de prieres Tib&eacute;tain surplombant la ville de Leh_
 
 {:.image.fit}
 ![Drapeaux de prieres Tib&eacute;tain surplombant la ville de Leh](/medias/photos/inde/ladakh/image_11.jpg 'Drapeaux de prieres Tib&eacute;tain surplombant la ville de Leh')
+_Drapeaux de prieres Tib&eacute;tain surplombant la ville de Leh_
 
 {:.image.fit}
 ![Namgyal Tsemo Gompa](/medias/photos/inde/ladakh/image_12.jpg 'Namgyal Tsemo Gompa')
+_Namgyal Tsemo Gompa_
 
 {:.image.fit}
 ![Namgyal Tsemo Gompa](/medias/photos/inde/ladakh/image_13.jpg 'Namgyal Tsemo Gompa')
+_Namgyal Tsemo Gompa_
 
 {:.image.fit}
 ![Namgyal Tsemo Gompa](/medias/photos/inde/ladakh/image_14.jpg 'Namgyal Tsemo Gompa')
+_Namgyal Tsemo Gompa_
 
 {:.image.fit}
 ![Vue sur Leh](/medias/photos/inde/ladakh/image_15.jpg 'Vue sur Leh')
+_Vue sur Leh_
 
 {:.image.fit}
 ![Shanti Stupa](/medias/photos/inde/ladakh/image_16.jpg 'Shanti Stupa')
+_Shanti Stupa_
 
 {:.image.fit}
 ![Vue sur Leh depuis le Shanti Stupa](/medias/photos/inde/ladakh/image_17.jpg 'Vue sur Leh depuis le Shanti Stupa')
+_Vue sur Leh depuis le Shanti Stupa_
 
 {:.image.fit}
 ![Shanti Stupa](/medias/photos/inde/ladakh/image_18.jpg 'Shanti Stupa')
+_Shanti Stupa_
 
 {:.image.fit}
 ![Bouddha](/medias/photos/inde/ladakh/image_19.jpg 'Bouddha')
+_Bouddha_
 
 {:.image.fit}
 ![La c&eacute;l&egrave;bre pri&egrave;re Hom Mane Padme Hum se retrouve partout, meme sur les pierres](/medias/photos/inde/ladakh/image_20.jpg 'La c&eacute;l&egrave;bre pri&egrave;re Hom Mane Padme Hum se retrouve partout, meme sur les pierres')
+_La c&eacute;l&egrave;bre pri&egrave;re Hom Mane Padme Hum se retrouve partout, meme sur les pierres_
 
 {:.image.fit}
 ![Grande roue de pri&egrave;re](/medias/photos/inde/ladakh/image_21.jpg 'Grande roue de pri&egrave;re')
+_Grande roue de pri&egrave;re_
 
 {:.image.fit}
 ![Le monast&egrave;re de Thiksey](/medias/photos/inde/ladakh/image_22.jpg 'Le monast&egrave;re de Thiksey')
+_Le monast&egrave;re de Thiksey_
 
 {:.image.fit}
 ![Couch&eacute; de soleil depuis le monast&egrave;re](/medias/photos/inde/ladakh/image_23.jpg 'Couch&eacute; de soleil depuis le monast&egrave;re')
+_Couch&eacute; de soleil depuis le monast&egrave;re_
 
 {:.image.fit}
 ![Le monast&egrave;re de Thiksey](/medias/photos/inde/ladakh/image_24.jpg 'Le monast&egrave;re de Thiksey')
+_Le monast&egrave;re de Thiksey_
 
 {:.image.fit}
 ![Le monast&egrave;re de Thiksey](/medias/photos/inde/ladakh/image_25.jpg 'Le monast&egrave;re de Thiksey')
+_Le monast&egrave;re de Thiksey_
 
 {:.image.fit}
 ![Les stupas](/medias/photos/inde/ladakh/image_26.jpg 'Les stupas')
+_Les stupas_
 
 {:.image.fit}
 ![Le monast&egrave;re de Thiksey](/medias/photos/inde/ladakh/image_27.jpg 'Le monast&egrave;re de Thiksey')
+_Le monast&egrave;re de Thiksey_
 
 {:.image.fit}
 ![Le monast&egrave;re de Thiksey de nuit](/medias/photos/inde/ladakh/image_28.jpg 'Le monast&egrave;re de Thiksey de nuit')
+_Le monast&egrave;re de Thiksey de nuit_
 
 {:.image.fit}
 ![Les stupas du monast&egrave;re de Thiksey](/medias/photos/inde/ladakh/image_29.jpg 'Les stupas du monast&egrave;re de Thiksey')
+_Les stupas du monast&egrave;re de Thiksey_
 
 {:.image.fit}
 ![De retour sur la route!](/medias/photos/inde/ladakh/image_30.jpg 'De retour sur la route!')
+_De retour sur la route!_
 
 Apres avoir visit&eacute; Leh pendant ces 2 jours, je d&eacute;cide d'aller voir le c&eacute;lebre Pangong Lake. C&eacute;lebre par ses eaux au diff&eacute;rentes tonalit&eacute; de bleues et par le fait que 25% du lac se trouve en Inde, 75% en Chine.
 Le prix du taxi &eacute;tant encore tir&eacute; par les cheveux; je d&eacute;cide de tenter ma chance a l'auto-stop.
 
 {:.image.fit}
 ![Il a fallu pousser le minivan pendant les mont&eacute;es trop difficile](/medias/photos/inde/ladakh/image_31.jpg 'Il a fallu pousser le minivan pendant les mont&eacute;es trop difficile')
+_Il a fallu pousser le minivan pendant les mont&eacute;es trop difficile_
 
 Je pense que j'ai eu pas mal de chance cette journ&eacute;e aussi: apres 30 minutes a arreter quelques voitures qui ne se rendaient pas au lac, un minivan s'arrete avec &eacute;crit sur la vitre arriere: "Pangong Lake".
 
@@ -142,6 +173,7 @@ Sourire b&eacute;at: je monte dans le minivan, direction Pangong Lake.
 
 {:.image.fit}
 ![Passage du Chang La - 5360 m&egrave;tres](/medias/photos/inde/ladakh/image_32.jpg 'Passage du Chang La - 5360 m&egrave;tres')
+_Passage du Chang La - 5360 m&egrave;tres_
 
 Ce conducteur parlais anglais beaucoup mieux que ses pr&eacute;d&eacute;cesseurs, ce qui a rendu le trajet beaucoup plus int&eacute;ressant.
 Il me parle de la r&eacute;gion, Pangong Lake, traditions Ladakhienne et tib&eacute;taine, son camping et combien de thunes il se fait en pleine saison touristique, qu'il est aussi prof de sport, et blablablabla. Puis on s'arrete dans un petit village.
@@ -153,6 +185,7 @@ Une forte dame arrive alors d'une colline -d&eacute;valant la colline par sa rap
 
 {:.image.fit}
 ![L'hospitalit&eacute; Ladakienne est imbattable!](/medias/photos/inde/ladakh/image_33.jpg 'L'hospitalit&eacute; Ladakienne est imbattable!')
+_L'hospitalit&eacute; Ladakienne est imbattable!_
 
 On commence l'hospitalit&eacute; avec du th&eacute; tib&eacute;tain (lait chaud au beurre) et des biscuits. S'ensuit du "curd" (yaourt genre fromage blanc) m&eacute;lang&eacute; a de la "sampa" (poudre de wholewheat) et c'est tout simplement bourratif!
 Je finis a peine ma tasse de th&eacute;, qu'elle m'en ressert une autre. J'accepte avec le sourire; mais au bout du 3eme ou 4eme service je lui fait comprendre que je suis blind&eacute; et que je ne peux plus boire
@@ -164,36 +197,47 @@ Hospitalit&eacute; Tib&eacute;taine, approuv&eacute; comme &eacute;tant plus que
 
 {:.image.fit}
 ![Le c&eacute;l&egrave;bre Pangong Lake](/medias/photos/inde/ladakh/image_34.jpg 'Le c&eacute;l&egrave;bre Pangong Lake')
+_Le c&eacute;l&egrave;bre Pangong Lake_
 
 {:.image.fit}
 ![Le c&eacute;l&egrave;bre Pangong Lake](/medias/photos/inde/ladakh/image_35.jpg 'Le c&eacute;l&egrave;bre Pangong Lake')
+_Le c&eacute;l&egrave;bre Pangong Lake_
 
 {:.image.fit}
 ![Le c&eacute;l&egrave;bre Pangong Lake](/medias/photos/inde/ladakh/image_36.jpg 'Le c&eacute;l&egrave;bre Pangong Lake')
+_Le c&eacute;l&egrave;bre Pangong Lake_
 
 {:.image.fit}
 ![Le c&eacute;l&egrave;bre Pangong Lake](/medias/photos/inde/ladakh/image_37.jpg 'Le c&eacute;l&egrave;bre Pangong Lake')
+_Le c&eacute;l&egrave;bre Pangong Lake_
 
 {:.image.fit}
 ![Le c&eacute;l&egrave;bre Pangong Lake](/medias/photos/inde/ladakh/image_38.jpg 'Le c&eacute;l&egrave;bre Pangong Lake')
+_Le c&eacute;l&egrave;bre Pangong Lake_
 
 {:.image.fit}
 ![Le c&eacute;l&egrave;bre Pangong Lake](/medias/photos/inde/ladakh/image_39.jpg 'Le c&eacute;l&egrave;bre Pangong Lake')
+_Le c&eacute;l&egrave;bre Pangong Lake_
 
 {:.image.fit}
 ![Le c&eacute;l&egrave;bre Pangong Lake](/medias/photos/inde/ladakh/image_40.jpg 'Le c&eacute;l&egrave;bre Pangong Lake')
+_Le c&eacute;l&egrave;bre Pangong Lake_
 
 {:.image.fit}
 ![Le c&eacute;l&egrave;bre Pangong Lake](/medias/photos/inde/ladakh/image_41.jpg 'Le c&eacute;l&egrave;bre Pangong Lake')
+_Le c&eacute;l&egrave;bre Pangong Lake_
 
 {:.image.fit}
 ![Le c&eacute;l&egrave;bre Pangong Lake](/medias/photos/inde/ladakh/image_42.jpg 'Le c&eacute;l&egrave;bre Pangong Lake')
+_Le c&eacute;l&egrave;bre Pangong Lake_
 
 {:.image.fit}
 ![Le c&eacute;l&egrave;bre Pangong Lake](/medias/photos/inde/ladakh/image_43.jpg 'Le c&eacute;l&egrave;bre Pangong Lake')
+_Le c&eacute;l&egrave;bre Pangong Lake_
 
 {:.image.fit}
 ![Et on repars direction Karu pour partir vers Manali](/medias/photos/inde/ladakh/image_44.jpg 'Et on repars direction Karu pour partir vers Manali')
+_Et on repars direction Karu pour partir vers Manali_
 
 On reprend la route direction Pangong Lake qu'on atteindra en fin d'apres-midi; apres avoir pouss&eacute; le minibus lors des passages trop difficile.
 
@@ -208,6 +252,7 @@ Mais ce fut tout de meme l'une de mes pires nuits. Mon conducteur -assez jeune- 
 
 {:.image.fit}
 ![Le camionneur fou](/medias/photos/inde/ladakh/image_45.jpg 'Le camionneur fou')
+_Le camionneur fou_
 
 Je vais devoir passer la nuit assis sur un siege de camion qui saute a droite et a gauche tous les metres (parfois a se taper la tete au plafond) et surtout je n'ai pas de couverture. Et il fait froid la nuit a ces altitudes....
 Ha, et j'avais aussi des crampes d'estomac a cause d'une nourriture trop huil&eacute;; et comme le camionneur a un horaire a respecter, il ne s'arretera pas pour moi... L'une de mes pires nuits.

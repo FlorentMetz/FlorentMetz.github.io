@@ -36,6 +36,8 @@ Les visites de temples/lieux touristiques coutent en g&eacute;n&eacute;rale entr
 
 {:.image.fit}
 ![Le buffet &agrave; Luang Prabang te laisse remplir une assiette &agrave; mort pour seulement 10 000 kips.](/medias/photos/laos/laos-vie/image_1.jpg 'Le buffet &agrave; Luang Prabang te laisse remplir une assiette &agrave; mort pour seulement 10 000 kips.')
+_Le buffet &agrave; Luang Prabang te laisse remplir une assiette &agrave; mort pour seulement 10 000 kips._
 
 {:.image.fit}
 ![Une carte de restaurant quelquonque..](/medias/photos/laos/laos-vie/image_2.jpg 'Une carte de restaurant quelquonque..')
+_Une carte de restaurant quelquonque.._

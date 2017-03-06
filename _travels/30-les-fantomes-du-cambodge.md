@@ -36,69 +36,91 @@ Il y a en tout 4 b&acirc;timents (A, B, C, D) de trois &eacute;tages, la visite 
 
 {:.image.fit}
 ![Tuol Sleng - S21 - B&acirc;timent A](/medias/photos/cambodge/killing-fields/image_1.jpg 'Tuol Sleng - S21 - B&acirc;timent A')
+_Tuol Sleng - S21 - B&acirc;timent A_
 
 {:.image.fit}
 ![Tuol Sleng - S21 - Tombes des derni&egrave;res victimes](/medias/photos/cambodge/killing-fields/image_3.jpg 'Tuol Sleng - S21 - Tombes des derni&egrave;res victimes')
+_Tuol Sleng - S21 - Tombes des derni&egrave;res victimes_
 
 {:.image.fit}
 ![Tuol Sleng - S21 - Le fameux r&egrave;glement des agents de s&eacute;curit&eacute;](/medias/photos/cambodge/killing-fields/image_4.jpg 'Tuol Sleng - S21 - Le fameux r&egrave;glement des agents de s&eacute;curit&eacute;')
+_Tuol Sleng - S21 - Le fameux r&egrave;glement des agents de s&eacute;curit&eacute;_
 
 {:.image.fit}
 ![Tuol Sleng - S21 - Salle de torture](/medias/photos/cambodge/killing-fields/image_5.jpg 'Tuol Sleng - S21 - Salle de torture')
+_Tuol Sleng - S21 - Salle de torture_
 
 {:.image.fit}
 ![Tuol Sleng - S21 - Salle d'int&eacute;rrogations](/medias/photos/cambodge/killing-fields/image_6.jpg 'Tuol Sleng - S21 - Salle d'int&eacute;rrogations')
+_Tuol Sleng - S21 - Salle d'int&eacute;rrogations_
 
 {:.image.fit}
 ![Tuol Sleng - S21 - Les prisonniers &eacute;taient pendus par les pieds et noy&eacute dans l'eau d&eacute;guelasse des jarres](/medias/photos/cambodge/killing-fields/image_8.jpg 'Tuol Sleng - S21 - Les prisonniers &eacute;taient pendus par les pieds et noy&eacute dans l'eau d&eacute;guelasse des jarres')
+_Tuol Sleng - S21 - Les prisonniers &eacute;taient pendus par les pieds et noy&eacute dans l'eau d&eacute;guelasse des jarres_
 
 {:.image.fit}
 ![Tuol Sleng - S21 - V&ecirc;tements des d&eacute;tenus](/medias/photos/cambodge/killing-fields/image_9.jpg 'Tuol Sleng - S21 - V&ecirc;tements des d&eacute;tenus')
+_Tuol Sleng - S21 - V&ecirc;tements des d&eacute;tenus_
 
 {:.image.fit}
 ![Tuol Sleng - S21 - Certains voyaient la mort avec le sourire!](/medias/photos/cambodge/killing-fields/image_10.jpg 'Tuol Sleng - S21 - Certains voyaient la mort avec le sourire!')
+_Tuol Sleng - S21 - Certains voyaient la mort avec le sourire!_
 
 {:.image.fit}
 ![Tuol Sleng - S21 - Les cr&acirc;nes retrouv&eacute;s lors des excavations des Champs de mort](/medias/photos/cambodge/killing-fields/image_11.jpg 'Tuol Sleng - S21 - Les cr&acirc;nes retrouv&eacute;s lors des excavations des Champs de mort')
+_Tuol Sleng - S21 - Les cr&acirc;nes retrouv&eacute;s lors des excavations des Champs de mort_
 
 {:.image.fit}
 ![Tuol Sleng - S21 - Salle de torture](/medias/photos/cambodge/killing-fields/image_13.jpg 'Tuol Sleng - S21 - Salle de torture')
+_Tuol Sleng - S21 - Salle de torture_
 
 {:.image.fit}
 ![Tuol Sleng - S21 - B&acirc;timent A](/medias/photos/cambodge/killing-fields/image_14.jpg 'Tuol Sleng - S21 - B&acirc;timent A')
+_Tuol Sleng - S21 - B&acirc;timent A_
 
 {:.image.fit}
 ![Tuol Sleng - S21 - Il a pas tenu le coup.](/medias/photos/cambodge/killing-fields/image_15.jpg 'Tuol Sleng - S21 - Il a pas tenu le coup.')
+_Tuol Sleng - S21 - Il a pas tenu le coup._
 
 {:.image.fit}
 ![Tuol Sleng - S21 - B&acirc;timent C](/medias/photos/cambodge/killing-fields/image_16.jpg 'Tuol Sleng - S21 - B&acirc;timent C')
+_Tuol Sleng - S21 - B&acirc;timent C_
 
 {:.image.fit}
 ![Tuol Sleng - S21 - B&acirc;timent C](/medias/photos/cambodge/killing-fields/image_17.jpg 'Tuol Sleng - S21 - B&acirc;timent C')
+_Tuol Sleng - S21 - B&acirc;timent C_
 
 {:.image.fit}
 ![Tuol Sleng - S21 - B&acirc;timent C](/medias/photos/cambodge/killing-fields/image_18.jpg 'Tuol Sleng - S21 - B&acirc;timent C')
+_Tuol Sleng - S21 - B&acirc;timent C_
 
 {:.image.fit}
 ![Tuol Sleng - S21 - Les chambres n'&eacute;taient pas top..](/medias/photos/cambodge/killing-fields/image_19.jpg 'Tuol Sleng - S21 - Les chambres n'&eacute;taient pas top..')
+_Tuol Sleng - S21 - Les chambres n'&eacute;taient pas top.._
 
 {:.image.fit}
 ![Tuol Sleng - S21 - Chambres des d&eacute;tenus](/medias/photos/cambodge/killing-fields/image_20.jpg 'Tuol Sleng - S21 - Chambres des d&eacute;tenus')
+_Tuol Sleng - S21 - Chambres des d&eacute;tenus_
 
 {:.image.fit}
 ![Tuol Sleng - S21 - Chambres en bois](/medias/photos/cambodge/killing-fields/image_23.jpg 'Tuol Sleng - S21 - Chambres en bois')
+_Tuol Sleng - S21 - Chambres en bois_
 
 {:.image.fit}
 ![Tuol Sleng - S21 - Machine &agrave; torturer](/medias/photos/cambodge/killing-fields/image_24.jpg 'Tuol Sleng - S21 - Machine &agrave; torturer')
+_Tuol Sleng - S21 - Machine &agrave; torturer_
 
 {:.image.fit}
 ![Tuol Sleng - S21 - Des restes humains](/medias/photos/cambodge/killing-fields/image_25.jpg 'Tuol Sleng - S21 - Des restes humains')
+_Tuol Sleng - S21 - Des restes humains_
 
 {:.image.fit}
 ![Tuol Sleng - S21 - Peinture d'un d&eacute;tenu qui montre comment les b&eacute;b&eacute;s &eacute;taient tu&eacute;s contre un arbre.](/medias/photos/cambodge/killing-fields/image_26.jpg 'Tuol Sleng - S21 - Peinture d'un d&eacute;tenu qui montre comment les b&eacute;b&eacute;s &eacute;taient tu&eacute;s contre un arbre.')
+_Tuol Sleng - S21 - Peinture d'un d&eacute;tenu qui montre comment les b&eacute;b&eacute;s &eacute;taient tu&eacute;s contre un arbre._
 
 {:.image.fit}
 ![Tuol Sleng - S21 - Des cr&acirc;nes d&eacute;fonc&eacute;s](/medias/photos/cambodge/killing-fields/image_27.jpg 'Tuol Sleng - S21 - Des cr&acirc;nes d&eacute;fonc&eacute;s')
+_Tuol Sleng - S21 - Des cr&acirc;nes d&eacute;fonc&eacute;s_
 
 Pis comme si ce mus&eacute;e ne suffisait pas, il y a aussi les Champs d'extermination (Killing Fields) &agrave; visiter!
 
@@ -106,24 +128,31 @@ En gros, quand les Khmers n'avaient plus de place pour tuer et stocker les corps
 
 {:.image.fit}
 ![Monument aux morts de la Prison S-21 et du camp](/medias/photos/cambodge/killing-fields/image_29.jpg 'Monument aux morts de la Prison S-21 et du camp')
+_Monument aux morts de la Prison S-21 et du camp_
 
 {:.image.fit}
 ![Des os et des dents ressortent parfois de sous la terre &agrave; cause des fortes pluies](/medias/photos/cambodge/killing-fields/image_30.jpg 'Des os et des dents ressortent parfois de sous la terre &agrave; cause des fortes pluies')
+_Des os et des dents ressortent parfois de sous la terre &agrave; cause des fortes pluies_
 
 {:.image.fit}
 ![Tombe de 166 personnes d&eacute;capit&eacute;s](/medias/photos/cambodge/killing-fields/image_31.jpg 'Tombe de 166 personnes d&eacute;capit&eacute;s')
+_Tombe de 166 personnes d&eacute;capit&eacute;s_
 
 {:.image.fit}
 ![L'arbre qui servit &agrave; &eacute;x&eacute;cuter les b&eacute;b&eacute;s](/medias/photos/cambodge/killing-fields/image_32.jpg 'L'arbre qui servit &agrave; &eacute;x&eacute;cuter les b&eacute;b&eacute;s')
+_L'arbre qui servit &agrave; &eacute;x&eacute;cuter les b&eacute;b&eacute;s_
 
 {:.image.fit}
 ![Des haut-parleurs &eacute;taient plac&eacute;s dans les branche pour couvrir le bruits d'agonies...](/medias/photos/cambodge/killing-fields/image_33.jpg 'Des haut-parleurs &eacute;taient plac&eacute;s dans les branche pour couvrir le bruits d'agonies...')
+_Des haut-parleurs &eacute;taient plac&eacute;s dans les branche pour couvrir le bruits d'agonies..._
 
 {:.image.fit}
 ![L'int&eacute;rieur du monument aux morts](/medias/photos/cambodge/killing-fields/image_34.jpg 'L'int&eacute;rieur du monument aux morts')
+_L'int&eacute;rieur du monument aux morts_
 
 {:.image.fit}
 ![Habit des Khmers Rouge](/medias/photos/cambodge/killing-fields/image_35.jpg 'Habit des Khmers Rouge')
+_Habit des Khmers Rouge_
 
 L'entr&eacute;e au Killing Fields est de 2$ -5$ pour le guide audio.
 

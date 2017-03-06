@@ -37,9 +37,11 @@ Bref, je fait mes photocopies, falsifie mon assurance sant&eacute; (expir&eacute
 
 {:.image.fit}
 ![Horaires d'ouverture: 9:00 - 11:30/15:00 - 16:00](/medias/photos/thailande/visa-chinois-bangkok/image_1.jpg 'Horaires d'ouverture: 9:00 - 11:30/15:00 - 16:00')
+_Horaires d'ouverture: 9:00 - 11:30/15:00 - 16:00_
 
 {:.image.fit}
 ![Les tarifs des diff&eacute;rents visas](/medias/photos/thailande/visa-chinois-bangkok/image_2.jpg 'Les tarifs des diff&eacute;rents visas')
+_Les tarifs des diff&eacute;rents visas_
 
 Apr&egrave;s un premier essais &agrave; me lever &agrave; l'arrache, me foirer dans les bus pour arriver &agrave; la quasi fermeture des visas, je tente le lendemain en arrivant 15 minutes avant l'ouverture des portes du service des visas. Le service des visas &eacute;tant ouvert (seulement) entre 9h et 11h30 du matin.
 

@@ -18,33 +18,43 @@ L'entr&eacute;e &agrave; la muraille est de 45 yuans mais tu peux facilement gri
 
 {:.image.fit}
 ![La section de Badaling de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_1.jpg 'La section de Badaling de la Grande Muraille de Chine')
+_La section de Badaling de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![La section de Badaling de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_2.jpg 'La section de Badaling de la Grande Muraille de Chine')
+_La section de Badaling de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![La section de Badaling de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_3.jpg 'La section de Badaling de la Grande Muraille de Chine')
+_La section de Badaling de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![La section de Badaling de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_4.jpg 'La section de Badaling de la Grande Muraille de Chine')
+_La section de Badaling de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![La section de Badaling de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_5.jpg 'La section de Badaling de la Grande Muraille de Chine')
+_La section de Badaling de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![La section de Badaling de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_6.jpg 'La section de Badaling de la Grande Muraille de Chine')
+_La section de Badaling de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![La section de Badaling de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_7.jpg 'La section de Badaling de la Grande Muraille de Chine')
+_La section de Badaling de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![La section de Badaling de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_8.jpg 'La section de Badaling de la Grande Muraille de Chine')
+_La section de Badaling de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![La section de Badaling de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_9.jpg 'La section de Badaling de la Grande Muraille de Chine')
+_La section de Badaling de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![La section de Badaling de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_10.jpg 'La section de Badaling de la Grande Muraille de Chine')
+_La section de Badaling de la Grande Muraille de Chine_
 
 ## Gubeikou
 
@@ -61,66 +71,87 @@ Vu que cette section est ferm&eacute;e, il n'y a strictement personne: les seule
 
 {:.image.fit}
 ![La section de Gubeikou de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_11.jpg 'La section de Gubeikou de la Grande Muraille de Chine')
+_La section de Gubeikou de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![La section de Gubeikou de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_12.jpg 'La section de Gubeikou de la Grande Muraille de Chine')
+_La section de Gubeikou de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![La section de Gubeikou de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_13.jpg 'La section de Gubeikou de la Grande Muraille de Chine')
+_La section de Gubeikou de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![La section de Gubeikou de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_14.jpg 'La section de Gubeikou de la Grande Muraille de Chine')
+_La section de Gubeikou de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![La section de Gubeikou de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_15.jpg 'La section de Gubeikou de la Grande Muraille de Chine')
+_La section de Gubeikou de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![La section de Gubeikou de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_16.jpg 'La section de Gubeikou de la Grande Muraille de Chine')
+_La section de Gubeikou de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![La section de Gubeikou de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_17.jpg 'La section de Gubeikou de la Grande Muraille de Chine')
+_La section de Gubeikou de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![La section de Gubeikou de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_18.jpg 'La section de Gubeikou de la Grande Muraille de Chine')
+_La section de Gubeikou de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![La section de Gubeikou de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_19.jpg 'La section de Gubeikou de la Grande Muraille de Chine')
+_La section de Gubeikou de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![La section de Gubeikou de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_20.jpg 'La section de Gubeikou de la Grande Muraille de Chine')
+_La section de Gubeikou de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![La section de Gubeikou de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_21.jpg 'La section de Gubeikou de la Grande Muraille de Chine')
+_La section de Gubeikou de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![Mon lit pour la nuit](/medias/photos/chine/grande-muraille/image_22.jpg 'Mon lit pour la nuit')
+_Mon lit pour la nuit_
 
 {:.image.fit}
 ![La section de Gubeikou de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_23.jpg 'La section de Gubeikou de la Grande Muraille de Chine')
+_La section de Gubeikou de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![La section de Gubeikou de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_24.jpg 'La section de Gubeikou de la Grande Muraille de Chine')
+_La section de Gubeikou de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![Traces de je-sais-pas-quoi](/medias/photos/chine/grande-muraille/image_26.jpg 'Traces de je-sais-pas-quoi')
+_Traces de je-sais-pas-quoi_
 
 {:.image.fit}
 ![La section de Gubeikou de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_27.jpg 'La section de Gubeikou de la Grande Muraille de Chine')
+_La section de Gubeikou de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![La section de Gubeikou de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_28.jpg 'La section de Gubeikou de la Grande Muraille de Chine')
+_La section de Gubeikou de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![La section de Gubeikou de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_29.jpg 'La section de Gubeikou de la Grande Muraille de Chine')
+_La section de Gubeikou de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![La section de Gubeikou de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_30.jpg 'La section de Gubeikou de la Grande Muraille de Chine')
+_La section de Gubeikou de la Grande Muraille de Chine_
 
 {:.image.fit}
 ![Les barbel&eacute;s &agrave; traverser](/medias/photos/chine/grande-muraille/image_31.jpg 'Les barbel&eacute;s &agrave; traverser')
+_Les barbel&eacute;s &agrave; traverser_
 
 {:.image.fit}
 ![La section de Gubeikou de la Grande Muraille de Chine](/medias/photos/chine/grande-muraille/image_32.jpg 'La section de Gubeikou de la Grande Muraille de Chine')
+_La section de Gubeikou de la Grande Muraille de Chine_
 
 <div class="embed-container">
   <iframe src="http://player.vimeo.com/video/56730742" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>

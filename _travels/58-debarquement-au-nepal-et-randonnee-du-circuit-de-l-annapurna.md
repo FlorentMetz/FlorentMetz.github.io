@@ -26,6 +26,7 @@ Je me suis donn&eacute; un budget de 1000 roupies par jours plus un extra pour l
 
 {:.image.fit}
 ![Il va falloir te trimballer un petit paquet de thunes.](/medias/photos/nepal/annapurna/image_1.jpg 'Il va falloir te trimballer un petit paquet de thunes.')
+_Il va falloir te trimballer un petit paquet de thunes._
 
 Mon trajet initial (d'apr&egrave;s le livre-guide que j'avais achet&eacute;) &eacute;tait:
 
@@ -55,81 +56,104 @@ Le premier jour &agrave; donc commenc&eacute; avec un trajet en bus d'environ 8h
 
 {:.image.fit}
 ![Portrait d'un N&eacute;palis](/medias/photos/nepal/annapurna/image_2.jpg 'Portrait d'un N&eacute;palis')
+_Portrait d'un N&eacute;palis_
 
 {:.image.fit}
 ![Pont &agrave; traverser](/medias/photos/nepal/annapurna/image_3.jpg 'Pont &agrave; traverser')
+_Pont &agrave; traverser_
 
 ### Jour 2: Bhulbule -> Jagat
 
 
 {:.image.fit}
 ![Pont &agrave; traverser](/medias/photos/nepal/annapurna/image_4.jpg 'Pont &agrave; traverser')
+_Pont &agrave; traverser_
 
 {:.image.fit}
 ![Vall&eacute;e de Jagat](/medias/photos/nepal/annapurna/image_5.jpg 'Vall&eacute;e de Jagat')
+_Vall&eacute;e de Jagat_
 
 ### Jour 3: Jagat -> Timang
 
 
 {:.image.fit}
 ![Trek de Jagat &agrave; Timang](/medias/photos/nepal/annapurna/image_6.jpg 'Trek de Jagat &agrave; Timang')
+_Trek de Jagat &agrave; Timang_
 
 {:.image.fit}
 ![Trek de Jagat &agrave; Timang](/medias/photos/nepal/annapurna/image_7.jpg 'Trek de Jagat &agrave; Timang')
+_Trek de Jagat &agrave; Timang_
 
 {:.image.fit}
 ![Trek de Jagat &agrave; Timang](/medias/photos/nepal/annapurna/image_8.jpg 'Trek de Jagat &agrave; Timang')
+_Trek de Jagat &agrave; Timang_
 
 {:.image.fit}
 ![Trek de Jagat &agrave; Timang](/medias/photos/nepal/annapurna/image_9.jpg 'Trek de Jagat &agrave; Timang')
+_Trek de Jagat &agrave; Timang_
 
 {:.image.fit}
 ![Dal Bhat](/medias/photos/nepal/annapurna/image_10.jpg 'Dal Bhat')
+_Dal Bhat_
 
 ### Jour 4: Timang -> Upper Pisang
 
 
 {:.image.fit}
 ![Trek de Timang &agrave; Pisang](/medias/photos/nepal/annapurna/image_11.jpg 'Trek de Timang &agrave; Pisang')
+_Trek de Timang &agrave; Pisang_
 
 {:.image.fit}
 ![Trek de Timang &agrave; Pisang](/medias/photos/nepal/annapurna/image_12.jpg 'Trek de Timang &agrave; Pisang')
+_Trek de Timang &agrave; Pisang_
 
 {:.image.fit}
 ![Trek de Timang &agrave; Pisang](/medias/photos/nepal/annapurna/image_13.jpg 'Trek de Timang &agrave; Pisang')
+_Trek de Timang &agrave; Pisang_
 
 {:.image.fit}
 ![Trek de Timang &agrave; Pisang](/medias/photos/nepal/annapurna/image_14.jpg 'Trek de Timang &agrave; Pisang')
+_Trek de Timang &agrave; Pisang_
 
 {:.image.fit}
 ![Trek de Timang &agrave; Pisang](/medias/photos/nepal/annapurna/image_15.jpg 'Trek de Timang &agrave; Pisang')
+_Trek de Timang &agrave; Pisang_
 
 {:.image.fit}
 ![Trek de Timang &agrave; Pisang](/medias/photos/nepal/annapurna/image_16.jpg 'Trek de Timang &agrave; Pisang')
+_Trek de Timang &agrave; Pisang_
 
 {:.image.fit}
 ![Trek de Timang &agrave; Pisang](/medias/photos/nepal/annapurna/image_17.jpg 'Trek de Timang &agrave; Pisang')
+_Trek de Timang &agrave; Pisang_
 
 {:.image.fit}
 ![Trek de Timang &agrave; Pisang](/medias/photos/nepal/annapurna/image_18.jpg 'Trek de Timang &agrave; Pisang')
+_Trek de Timang &agrave; Pisang_
 
 {:.image.fit}
 ![Trek de Timang &agrave; Pisang](/medias/photos/nepal/annapurna/image_19.jpg 'Trek de Timang &agrave; Pisang')
+_Trek de Timang &agrave; Pisang_
 
 {:.image.fit}
 ![Trek de Timang &agrave; Pisang](/medias/photos/nepal/annapurna/image_20.jpg 'Trek de Timang &agrave; Pisang')
+_Trek de Timang &agrave; Pisang_
 
 {:.image.fit}
 ![Trek de Timang &agrave; Pisang](/medias/photos/nepal/annapurna/image_21.jpg 'Trek de Timang &agrave; Pisang')
+_Trek de Timang &agrave; Pisang_
 
 {:.image.fit}
 ![Trek de Timang &agrave; Pisang](/medias/photos/nepal/annapurna/image_22.jpg 'Trek de Timang &agrave; Pisang')
+_Trek de Timang &agrave; Pisang_
 
 {:.image.fit}
 ![Trek de Timang &agrave; Pisang](/medias/photos/nepal/annapurna/image_23.jpg 'Trek de Timang &agrave; Pisang')
+_Trek de Timang &agrave; Pisang_
 
 {:.image.fit}
 ![Trek de Timang &agrave; Pisang](/medias/photos/nepal/annapurna/image_24.jpg 'Trek de Timang &agrave; Pisang')
+_Trek de Timang &agrave; Pisang_
 
 ### Jour 5: Upper Pisang -> Manang
 
@@ -137,24 +161,31 @@ Ce trajet s'est fait principalement dans la neige. C'&eacute;tait magnifique de 
 
 {:.image.fit}
 ![Trek de Pisang &agrave; Manang](/medias/photos/nepal/annapurna/image_25.jpg 'Trek de Pisang &agrave; Manang')
+_Trek de Pisang &agrave; Manang_
 
 {:.image.fit}
 ![Trek de Pisang &agrave; Manang](/medias/photos/nepal/annapurna/image_26.jpg 'Trek de Pisang &agrave; Manang')
+_Trek de Pisang &agrave; Manang_
 
 {:.image.fit}
 ![Trek de Pisang &agrave; Manang](/medias/photos/nepal/annapurna/image_27.jpg 'Trek de Pisang &agrave; Manang')
+_Trek de Pisang &agrave; Manang_
 
 {:.image.fit}
 ![Trek de Pisang &agrave; Manang](/medias/photos/nepal/annapurna/image_28.jpg 'Trek de Pisang &agrave; Manang')
+_Trek de Pisang &agrave; Manang_
 
 {:.image.fit}
 ![Trek de Pisang &agrave; Manang](/medias/photos/nepal/annapurna/image_29.jpg 'Trek de Pisang &agrave; Manang')
+_Trek de Pisang &agrave; Manang_
 
 {:.image.fit}
 ![Trek de Pisang &agrave; Manang](/medias/photos/nepal/annapurna/image_30.jpg 'Trek de Pisang &agrave; Manang')
+_Trek de Pisang &agrave; Manang_
 
 {:.image.fit}
 ![Trek de Pisang &agrave; Manang](/medias/photos/nepal/annapurna/image_31.jpg 'Trek de Pisang &agrave; Manang')
+_Trek de Pisang &agrave; Manang_
 
 ### Jour 6: Repos &agrave; Manang
 
@@ -162,6 +193,7 @@ Il est recommand&eacute; de rester une journ&eacute;e &agrave; Manang pour bien 
 
 {:.image.fit}
 ![Drapeaux de pri&egrave;res tib&eacute;tain](/medias/photos/nepal/annapurna/image_32.jpg 'Drapeaux de pri&egrave;res tib&eacute;tain')
+_Drapeaux de pri&egrave;res tib&eacute;tain_
 
 ### Jour 7: Manang -> Letdar
 
@@ -169,20 +201,25 @@ Letdar se trouve &agrave; 4200 m&egrave;tres.
 
 {:.image.fit}
 ![Trek de Manang &agrave; Letdar](/medias/photos/nepal/annapurna/image_33.jpg 'Trek de Manang &agrave; Letdar')
+_Trek de Manang &agrave; Letdar_
 
 {:.image.fit}
 ![Trek de Manang &agrave; Letdar](/medias/photos/nepal/annapurna/image_34.jpg 'Trek de Manang &agrave; Letdar')
+_Trek de Manang &agrave; Letdar_
 
 {:.image.fit}
 ![Trek de Manang &agrave; Letdar](/medias/photos/nepal/annapurna/image_35.jpg 'Trek de Manang &agrave; Letdar')
+_Trek de Manang &agrave; Letdar_
 
 ### Jour 8: Letdar -> Thorung Phedi
 
 {:.image.fit}
 ![Trek de Letdar &agrave; Thorung Phedi](/medias/photos/nepal/annapurna/image_36.jpg 'Trek de Letdar &agrave; Thorung Phedi')
+_Trek de Letdar &agrave; Thorung Phedi_
 
 {:.image.fit}
 ![Trek de Letdar &agrave; Thorung Phedi](/medias/photos/nepal/annapurna/image_37.jpg 'Trek de Letdar &agrave; Thorung Phedi')
+_Trek de Letdar &agrave; Thorung Phedi_
 Thorung Phedi se trouve &agrave; 4450 m&egrave;tres et est atteignable assez rapidement depuis Letdar. Il faut savoir qu'il y a Thorung Phedi, puis Thorung Phedi High Camp qui est le dernier endroit pour se reposer avant la travers&eacute;e du col Thorong La. Ce qu'il faut aussi savoir c'est qu'il n'y a QUE une heure de marche entre Thorung Phedi et le High Camp MAIS c'est une heure de marche avec un d&eacute;nivell&eacute; de 200 m&egrave;tres qui monte RAIDE. Donc beaucoup de personnes pr&eacute;f&egrave;rent monter jusqu'au High Camp pour avoir une journ&eacute;e plus facile le lendemain avec le col de Thorong La. Comme je suis con et que je veux en chier, je me r&eacute;serve le d&eacute;nivell&eacute; pour demain matin. Mais comme je suis tr&egrave;&egrave;&egrave;&egrave;s con, je monte quand m&ecirc;me au High Camp l'apr&egrave;s-midi pour voir si c'est VRAIMENT raide.
 Et &ccedil;a l'&eacute;tait! Je suis donc mont&eacute; au High Camp, ai rest&eacute; un heure pour m'acclimatiser (et prendre un th&eacute; bien m&eacute;rit&eacute;) puis redescendu &agrave; Thorung Phedi. Comme il commen&ccedil;ait &agrave; se faire tard/froid/nuit, je trotte la descente et finis limite par la courir. Grosse erreur, car mes jambes se sont refroidies et je me cro&ucirc;te lamentablement par terre. J'y reste 30 minutes et impossible de bouger mon genou gauche d'un poil car la douleur est trop intense! Merde je me suis fait un claquage ou quoi? Putain je peux pas rester l&agrave; je vais me faire bouffer par un y&eacute;ti! J'essaye de me relever mais mon genou me fait grave trop mal. Je poireaute un quart d'heure de plus mais la nuit tombe et je suis tout seul sur ce d&eacute;nivell&eacute; de merde! Bon allez, je me motive, oublie la douleur et descend &agrave; cloche-pieds me crachant des injures. J'arrive tant bien que mal &agrave; l'auberge de Thorung Phedi, prend un gros repas et prie le dieu du Genou de me r&eacute;tablir pour ma dure journ&eacute;e de demain.
 
@@ -198,24 +235,31 @@ Apr&egrave;s le travers&eacute;e du col, j'ai rejoins les groupes de randonneurs
 
 {:.image.fit}
 ![Trek de Thorung Phedi &agrave; Muktinath](/medias/photos/nepal/annapurna/image_38.jpg 'Trek de Thorung Phedi &agrave; Muktinath')
+_Trek de Thorung Phedi &agrave; Muktinath_
 
 {:.image.fit}
 ![Trek de Thorung Phedi &agrave; Muktinath](/medias/photos/nepal/annapurna/image_39.jpg 'Trek de Thorung Phedi &agrave; Muktinath')
+_Trek de Thorung Phedi &agrave; Muktinath_
 
 {:.image.fit}
 ![Trek de Thorung Phedi &agrave; Muktinath](/medias/photos/nepal/annapurna/image_40.jpg 'Trek de Thorung Phedi &agrave; Muktinath')
+_Trek de Thorung Phedi &agrave; Muktinath_
 
 {:.image.fit}
 ![Trek de Thorung Phedi &agrave; Muktinath](/medias/photos/nepal/annapurna/image_41.jpg 'Trek de Thorung Phedi &agrave; Muktinath')
+_Trek de Thorung Phedi &agrave; Muktinath_
 
 {:.image.fit}
 ![Trek de Thorung Phedi &agrave; Muktinath - Journ&eacute;e de malade](/medias/photos/nepal/annapurna/image_42.jpg 'Trek de Thorung Phedi &agrave; Muktinath - Journ&eacute;e de malade')
+_Trek de Thorung Phedi &agrave; Muktinath - Journ&eacute;e de malade_
 
 {:.image.fit}
 ![Trek de Thorung Phedi &agrave; Muktinath](/medias/photos/nepal/annapurna/image_43.jpg 'Trek de Thorung Phedi &agrave; Muktinath')
+_Trek de Thorung Phedi &agrave; Muktinath_
 
 {:.image.fit}
 ![Trek de Thorung Phedi &agrave; Muktinath](/medias/photos/nepal/annapurna/image_44.jpg 'Trek de Thorung Phedi &agrave; Muktinath')
+_Trek de Thorung Phedi &agrave; Muktinath_
 
 ### Jour 10: Muktinath
 
@@ -229,44 +273,58 @@ Je reprend donc mon sac et me dirige vers Kagbeni où se trouve un Yak Donald, r
 
 {:.image.fit}
 ![Trek de Muktinath &agrave; Jomsom](/medias/photos/nepal/annapurna/image_45.jpg 'Trek de Muktinath &agrave; Jomsom')
+_Trek de Muktinath &agrave; Jomsom_
 
 {:.image.fit}
 ![Trek de Muktinath &agrave; Jomsom](/medias/photos/nepal/annapurna/image_46.jpg 'Trek de Muktinath &agrave; Jomsom')
+_Trek de Muktinath &agrave; Jomsom_
 
 {:.image.fit}
 ![Trek de Muktinath &agrave; Jomsom](/medias/photos/nepal/annapurna/image_47.jpg 'Trek de Muktinath &agrave; Jomsom')
+_Trek de Muktinath &agrave; Jomsom_
 
 {:.image.fit}
 ![Trek de Muktinath &agrave; Jomsom](/medias/photos/nepal/annapurna/image_48.jpg 'Trek de Muktinath &agrave; Jomsom')
+_Trek de Muktinath &agrave; Jomsom_
 
 {:.image.fit}
 ![Trek de Muktinath &agrave; Jomsom](/medias/photos/nepal/annapurna/image_49.jpg 'Trek de Muktinath &agrave; Jomsom')
+_Trek de Muktinath &agrave; Jomsom_
 
 {:.image.fit}
 ![Trek de Muktinath &agrave; Jomsom](/medias/photos/nepal/annapurna/image_50.jpg 'Trek de Muktinath &agrave; Jomsom')
+_Trek de Muktinath &agrave; Jomsom_
 
 {:.image.fit}
 ![Trek de Muktinath &agrave; Jomsom](/medias/photos/nepal/annapurna/image_51.jpg 'Trek de Muktinath &agrave; Jomsom')
+_Trek de Muktinath &agrave; Jomsom_
 
 {:.image.fit}
 ![Trek de Muktinath &agrave; Jomsom](/medias/photos/nepal/annapurna/image_52.jpg 'Trek de Muktinath &agrave; Jomsom')
+_Trek de Muktinath &agrave; Jomsom_
 
 {:.image.fit}
 ![Trek de Muktinath &agrave; Jomsom](/medias/photos/nepal/annapurna/image_53.jpg 'Trek de Muktinath &agrave; Jomsom')
+_Trek de Muktinath &agrave; Jomsom_
 
 {:.image.fit}
 ![Trek de Muktinath &agrave; Jomsom](/medias/photos/nepal/annapurna/image_54.jpg 'Trek de Muktinath &agrave; Jomsom')
+_Trek de Muktinath &agrave; Jomsom_
 
 {:.image.fit}
 ![Trek de Muktinath &agrave; Jomsom](/medias/photos/nepal/annapurna/image_55.jpg 'Trek de Muktinath &agrave; Jomsom')
+_Trek de Muktinath &agrave; Jomsom_
 
 {:.image.fit}
 ![Trek de Muktinath &agrave; Jomsom](/medias/photos/nepal/annapurna/image_56.jpg 'Trek de Muktinath &agrave; Jomsom')
+_Trek de Muktinath &agrave; Jomsom_
 
 {:.image.fit}
 ![Trek de Muktinath &agrave; Jomsom](/medias/photos/nepal/annapurna/image_57.jpg 'Trek de Muktinath &agrave; Jomsom')
+_Trek de Muktinath &agrave; Jomsom_
 
 {:.image.fit}
 ![Trek de Muktinath &agrave; Jomsom](/medias/photos/nepal/annapurna/image_58.jpg 'Trek de Muktinath &agrave; Jomsom')
+_Trek de Muktinath &agrave; Jomsom_
 
 Suite au prochain &eacute;pisode!

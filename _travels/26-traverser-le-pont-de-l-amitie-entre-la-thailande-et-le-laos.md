@@ -20,15 +20,20 @@ Bienvenue au Laos!
 
 {:.image.fit}
 ![Bureau pour faire son visa Laos](/medias/photos/laos/frontiere-thailande-laos/image_1.jpg 'Bureau pour faire son visa Laos')
+_Bureau pour faire son visa Laos_
 
 {:.image.fit}
 ![Bureau d'immigration d'entr&eacute;e au Laos](/medias/photos/laos/frontiere-thailande-laos/image_2.jpg 'Bureau d'immigration d'entr&eacute;e au Laos')
+_Bureau d'immigration d'entr&eacute;e au Laos_
 
 {:.image.fit}
 ![Arriv&eacute; a Vientiane pour une visite des temples locaux](/medias/photos/laos/frontiere-thailande-laos/image_3.jpg 'Arriv&eacute; a Vientiane pour une visite des temples locaux')
+_Arriv&eacute; a Vientiane pour une visite des temples locaux_
 
 {:.image.fit}
 ![Pha That Luang, c&eacute;l&egrave;bre stupa de Vientiane.](/medias/photos/laos/frontiere-thailande-laos/image_4.jpg 'Pha That Luang, c&eacute;l&egrave;bre stupa de Vientiane.')
+_Pha That Luang, c&eacute;l&egrave;bre stupa de Vientiane._
 
 {:.image.fit}
 ![Tu pourras te restaurer en fromage au Laos!](/medias/photos/laos/frontiere-thailande-laos/image_5.jpg 'Tu pourras te restaurer en fromage au Laos!')
+_Tu pourras te restaurer en fromage au Laos!_
