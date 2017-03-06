@@ -22,4 +22,4 @@
 	sudo docker rm $(docker ps -qa)
 
 	# remove all images
-	sudo docker rmi $(docker ps -q)
+	sudo docker rmi $(docker images -q)

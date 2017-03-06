@@ -59,6 +59,7 @@ DEPENDENCIES
   jekyll-sitemap
   kramdown
   rdiscount
+  rouge
 
 BUNDLED WITH
-   1.14.5
+   1.14.6
