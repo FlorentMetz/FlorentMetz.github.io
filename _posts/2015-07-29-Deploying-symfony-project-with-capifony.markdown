@@ -3,9 +3,8 @@ layout: post
 title:  "Deploying a Symfony project with Capifony"
 date:   2015-07-29 14:50:00
 categories: symfony capifony
+excerpt: I have been working with Symfony2 for a while now and recently I have been looking at deploying symfony projects on remote servers (in my case, [AWS]) without having to SSH and manually run whatever commands the projects need to be run.
 ---
-
-I have been working with Symfony2 for a while now and recently I have been looking at deploying symfony projects on remote servers (in my case, [AWS]) without having to SSH and manually run whatever commands the projects need to be run.
 
 [Capifony] is what I am playing with at the moment.
 
@@ -165,7 +164,9 @@ cap production deploy
 
 If you change the `logger.level` to `Logger::IMPORTANT`, the output of your capifony deployment will look a bit sexier than the other levels
 
-![Capifony deployment in IMPORTANT level]({{ site.url }}/images/posts/capifony-deployment.png)
+{:.image.fit}
+![Capifony deployment in IMPORTANT level](/images/posts/capifony-deployment.png)
+_Capifony deployment in IMPORTANT level_
 
 [AWS]: http://aws.amazon.com/
 [Capifony]: http://capifony.org/

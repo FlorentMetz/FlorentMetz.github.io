@@ -3,9 +3,8 @@ layout: post
 title:  "Running a PHP script forever with Supervisor"
 date:   2015-08-18 11:30:00
 categories: script php
+excerpt: "Let's say you want to run a script forever (like a job queuing system that needs to constantly listen to incoming jobs) you could just start the process with a `php my-script.php` and be done with it (HAHA jk) but then how do you make sure it always run? And what if you want to monitor it?"
 ---
-
-Let's say you want to run a script forever (like a job queuing system that needs to constantly listen to incoming jobs) you could just start the process with a `php my-script.php` and be done with it (HAHA jk) but then how do you make sure it always run? And what if you want to monitor it?
 
 I saw in the past people relying on crontabs (@reboot) and doing a [screen] of their scripts. the problem with this approach is that your script might die for whatever reason and won't restart.
 
@@ -82,7 +81,9 @@ password = YourPasswordHere
 
 Restart supervisor and now if you have a http server (restart it as well) you can go on [http://localhost:9001] fill in username/password and access the supervisord web interface.
 
-[![Supervisor web interface](/images/posts/supervisor-webinterface.png)](/images/posts/supervisor-webinterface.png)
+{:.image.fit}
+![Supervisor web interface](/images/posts/supervisor-webinterface.png)
+_Supervisor web interface_
 
 [Supervisor]: http://supervisord.org/
 [screen]: http://www.gnu.org/software/screen/manual/screen.html

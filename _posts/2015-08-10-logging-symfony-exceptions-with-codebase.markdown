@@ -3,9 +3,8 @@ layout: post
 title:  "Logging your symfony exceptions with Codebase"
 date:   2015-08-10 17:30:00
 categories: symfony codebase
+excerpt: We previously saw how to log your deployments with [codebase](https://www.codebasehq.com/), I am now going to show you how to log the exceptions from a symfony project (2.3+) in your codebase!
 ---
-
-We previously saw how to log your deployments with [codebase], I am now going to show you how to log the exceptions from a symfony project (2.3+) in your codebase!
 
 If you look at your codebase project, you'll see an "Exceptions" tab with some instructions about logging them. Find your codebase API key and create a listener in your symfony project to log the exceptions.
 
@@ -84,6 +83,8 @@ And from your terminal, run a `composer update` - which will update your vendors
 
 And now, once you have deployed this code on your server and anything goes wrong - codebase will notify you and log it in the "Exceptions" tab.
 
-[![An exception logged by codebase](/images/posts/exception-in-codebase.png)](/images/posts/exception-in-codebase.png)
+{:.image.fit}
+![An exception logged by codebase](/images/posts/exception-in-codebase.png)
+_An exception logged by codebase_
 
 [codebase]: https://www.codebasehq.com/

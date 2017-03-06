@@ -3,9 +3,8 @@ layout: post
 title:  "How to log your deployments with codebase"
 date:   2015-08-01 15:30:00
 categories: capifony codebase
+excerpt: I use [codebase](https://www.codebasehq.com/) at work for hosting our projects using git. I discovered recently that I could also log every deployment I make with capifony on either our staging or production environment (or both).
 ---
-
-I use [codebase] at work for hosting our projects using git. I discovered recently that I could also log every deployment I make with capifony on either our staging or production environment (or both).
 
 It is quite straightforward to setup, and codebase explain every step to follow in their "Show Setup Instructions":
 
@@ -62,7 +61,9 @@ And now, after each `cap:deploy`, `custom:log:codebase` will be triggered and lo
 
 If everything goes well, you should see the list of your deployments in the "Deployments" tab of your projects:
 
-[![a few deployments logged](/images/posts/deployments-on-codebase.png)](/images/posts/deployments-on-codebase.png)
+{:.image.fit}
+![a few deployments logged](/images/posts/deployments-on-codebase.png)
+_a few deployments logged_
 
 P.S: [Codebase] offers a free plan which gives you one project, 100MB disk space and 2 users.
 

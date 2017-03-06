@@ -3,8 +3,8 @@ layout: post
 title:  "Manage your hostnames with SSH Config"
 date:   2015-07-28 21:20:00
 categories: linux
+excerpt: Logging into a remote server from your terminal could be a pain if you use the ssh command with the options of your private key, username and stuff. Fortunately, you can create a config file for your hostnames.
 ---
-Logging into a remote server from your terminal could be a pain if you use the ssh command with the options of your private key, username and stuff. Fortunately, you can create a config file for your hostnames.
 
 Let's say that I want to log on a remote server called dummy.com with the username flotz and a private key found in ~/.ssh/private.key.
 The SSH command would be:
