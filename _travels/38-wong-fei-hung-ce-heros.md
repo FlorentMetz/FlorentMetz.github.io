@@ -10,7 +10,7 @@ date: 2012-10-26
 
 
 {:.image.fit}
-![Le Maitre Chinois - Jackie Chan - Wong Fei Hung](/medias/photos/chine/foshan/thumbs/image_9.jpg 'Le Maitre Chinois - Jackie Chan - Wong Fei Hung')
+![Le Maitre Chinois - Jackie Chan - Wong Fei Hung](/medias/photos/chine/foshan/image_9.jpg 'Le Maitre Chinois - Jackie Chan - Wong Fei Hung')
 
 Bon d'abord, un petit passage sur wikip&eacute;dia pour voir qui &eacute;tais vraiment ce [Wong Fei Hung](http://fr.wikipedia.org/wiki/Wong_Fei-hung):
 

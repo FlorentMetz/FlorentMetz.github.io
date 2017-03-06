@@ -25,7 +25,9 @@ Merci Wikip&eacute;dia.
 
 Je me suis donc rendu sur les lieux pour jeter un coup d'oeil &agrave; cette &eacute;cole:
 
-<iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=tuol+sleng&amp;oe=utf-8&amp;aq=t&amp;client=firefox-a&amp;ie=UTF8&amp;hl=fr&amp;hq=tuol+sleng&amp;hnear=&amp;t=m&amp;ll=11.5494,104.917603&amp;spn=0.006295,0.006295&amp;output=embed"></iframe>
+<div class="embed-container">
+    <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=tuol+sleng&amp;oe=utf-8&amp;aq=t&amp;client=firefox-a&amp;ie=UTF8&amp;hl=fr&amp;hq=tuol+sleng&amp;hnear=&amp;t=m&amp;ll=11.5494,104.917603&amp;spn=0.006295,0.006295&amp;output=embed"></iframe>
+</div>
 
 Je paie l'entr&eacute;e de 2$ (8000 riels) et arrive dans la cour de l'ancienne &eacute;cole.
 
