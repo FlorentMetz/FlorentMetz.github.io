@@ -61,7 +61,9 @@ And now, after each `cap:deploy`, `custom:log:codebase` will be triggered and lo
 
 If everything goes well, you should see the list of your deployments in the "Deployments" tab of your projects:
 
-[![a few deployments logged](/images/posts/deployments-on-codebase.png)](/images/posts/deployments-on-codebase.png)
+{:.image.fit}
+![a few deployments logged](/images/posts/deployments-on-codebase.png)
+_a few deployments logged_
 
 P.S: [Codebase] offers a free plan which gives you one project, 100MB disk space and 2 users.
 

@@ -164,8 +164,9 @@ cap production deploy
 
 If you change the `logger.level` to `Logger::IMPORTANT`, the output of your capifony deployment will look a bit sexier than the other levels
 
-{:.center}
+{:.image.fit}
 ![Capifony deployment in IMPORTANT level](/images/posts/capifony-deployment.png)
+_Capifony deployment in IMPORTANT level_
 
 [AWS]: http://aws.amazon.com/
 [Capifony]: http://capifony.org/

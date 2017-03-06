@@ -83,6 +83,8 @@ And from your terminal, run a `composer update` - which will update your vendors
 
 And now, once you have deployed this code on your server and anything goes wrong - codebase will notify you and log it in the "Exceptions" tab.
 
-[![An exception logged by codebase](/images/posts/exception-in-codebase.png)](/images/posts/exception-in-codebase.png)
+{:.image.fit}
+![An exception logged by codebase](/images/posts/exception-in-codebase.png)
+_An exception logged by codebase_
 
 [codebase]: https://www.codebasehq.com/

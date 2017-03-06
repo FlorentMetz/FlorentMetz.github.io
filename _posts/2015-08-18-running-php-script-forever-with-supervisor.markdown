@@ -83,6 +83,7 @@ Restart supervisor and now if you have a http server (restart it as well) you ca
 
 {:.image.fit}
 ![Supervisor web interface](/images/posts/supervisor-webinterface.png)
+_Supervisor web interface_
 
 [Supervisor]: http://supervisord.org/
 [screen]: http://www.gnu.org/software/screen/manual/screen.html
