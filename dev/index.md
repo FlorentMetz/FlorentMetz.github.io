@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog
+title: Web Development Log
 permalink: /dev
 ---
 

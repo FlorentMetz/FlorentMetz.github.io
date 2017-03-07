@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Yet another web log of another random dude
 ---
 
 <div id="main">

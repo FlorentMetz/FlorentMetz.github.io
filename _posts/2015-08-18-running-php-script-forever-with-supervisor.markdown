@@ -16,7 +16,7 @@ I stumbled upon a nice process control system called [Supervisor] which will mak
 sudo apt-get install supervisor
 {% endhighlight %}
 
-The below command will install the supervisor service in your `/etc/` that you can start, stop, restart, force-reload, status, force-stop.
+The above command will install the supervisor service in your `/etc/` that you can start, stop, restart, force-reload, status, force-stop.
 
 If you look at the `/etc/supervisor/supervisord.conf` config file, you'll see that supervisor includes config files in `/etc/supervisor/conf.d/*.conf`. Let's create one for our forever running php script.
 
