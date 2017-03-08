@@ -3,10 +3,11 @@ layout: default
 ---
 
 <div id="main">
+  {% assign lengthCateogries = page.categories | size %}
   <article>
     <header>
       <h1 class="post-title">{{ page.title }}</h1>
-      <p class="post-meta">Written around {{ page.date | date: "%b %-d, %Y" }}{% if page.categories != '' %} • tags: {{ page.categories | array_to_sentence_string }}{% endif %}</p>
+      <p class="post-meta">Written around {{ page.date | date: "%b %-d, %Y" }}{% if lengthCateogries != 0 %} - tags: {{ page.categories | array_to_sentence_string }}{% endif %}</p>
     </header>
 
     <section>

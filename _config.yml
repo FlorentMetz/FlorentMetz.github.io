@@ -1,19 +1,23 @@
-# Site settings
-title: Flotz Blog
+# Common settings
 timezone: Europe/London
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://florentmetz.github.io" # the base hostname & protocol for your site
 
-collections:
-  travels:
-    output: true
-    permalink: /voyages-:slug/
-
 # Build settings
 markdown: kramdown
-
 highlighter: rouge
 
 gems:
   - jekyll-seo-tag
   - jekyll-feed
+
+# Data settings
+collections:
+  travels:
+    output: true
+    permalink: /voyages-:slug/
+
+# SEO settings
+title: Flotz Chronicles
+description: A bit of everything, from English technical articles about Web Development to French journeys in Nepal
+#logo: /todo.png

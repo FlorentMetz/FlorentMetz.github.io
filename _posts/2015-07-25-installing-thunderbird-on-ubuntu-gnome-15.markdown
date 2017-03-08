@@ -15,7 +15,7 @@ sudo mv thunderbird /opt/thunderbird
 sudo ln -sf /opt/thunderbird/thunderbird /usr/bin/thunderbird
 {% endhighlight %}
 
-You can now open thunderbird from your terminal and typing `thunderbird`.
+You can now open thunderbird from your terminal by typing `thunderbird`.
 If you want to access thunderbird from your dash, you might have to create a thunderbird.desktop.
 
 {% highlight bash %}

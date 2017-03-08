@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mes voyages içi et ailleurs
+title: Mes voyages d'içi et ailleurs
 permalink: /voyages
 ---
 
@@ -29,7 +29,7 @@ permalink: /voyages
           <section>{{ travel.excerpt | markdownify }}</section>
           <footer>
             <ul class="actions">
-              <li><a href="{{ travel.url }}" class="button">Do you want to know more?</a></li>
+              <li><a href="{{ travel.url }}" class="button">Veux-tu en savoir plus?</a></li>
             </ul>
           </footer>
           {% endif %}
