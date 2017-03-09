@@ -1,5 +1,6 @@
 ---
 layout: post
+locale: en
 title:  "Here goes nothing!"
 date:   2015-07-25 16:00:43
 excerpt: Hello everybody (well, at least you reader)!

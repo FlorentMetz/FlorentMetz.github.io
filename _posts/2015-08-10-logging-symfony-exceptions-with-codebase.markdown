@@ -1,5 +1,6 @@
 ---
 layout: post
+locale: en
 title:  "Logging your symfony exceptions with Codebase"
 date:   2015-08-10 17:30:00
 categories: symfony codebase

@@ -1,5 +1,6 @@
 ---
 layout: post
+locale: en
 title:  "How to log your deployments with codebase"
 date:   2015-08-01 15:30:00
 categories: capifony codebase

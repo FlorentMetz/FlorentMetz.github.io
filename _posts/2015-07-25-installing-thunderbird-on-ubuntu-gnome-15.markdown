@@ -1,5 +1,6 @@
 ---
 layout: post
+locale: en
 title:  "Installing Thunderbird on Ubuntu 15.04"
 date:   2015-07-25 17:04:43
 meta: How to install the lastest version of Thunderbird on your Ubuntu

@@ -1,5 +1,6 @@
 ---
 layout: post
+locale: en
 title:  "Get some git aliases"
 date:   2015-07-26 11:37:00
 excerpt: Here is my `~/.gitconfig` for aliases - which could probably be improved.

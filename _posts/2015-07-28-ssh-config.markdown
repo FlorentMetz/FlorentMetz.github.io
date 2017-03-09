@@ -1,5 +1,6 @@
 ---
 layout: post
+locale: en
 title:  "Manage your hostnames with SSH Config"
 date:   2015-07-28 21:20:00
 categories: linux

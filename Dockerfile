@@ -6,4 +6,4 @@ WORKDIR /jekyll-blog
 EXPOSE 4000
 
 RUN bundler install
-ENTRYPOINT jekyll serve -H 0.0.0.0 -P 4000
+ENTRYPOINT jekyll serve -w -H 0.0.0.0 -P 4000

@@ -1,5 +1,6 @@
 ---
 layout: post
+locale: en
 title:  "Deploying a Symfony project with Capifony"
 date:   2015-07-29 14:50:00
 categories: symfony capifony

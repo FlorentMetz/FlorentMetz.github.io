@@ -23,3 +23,7 @@
 
 	# remove all images
 	sudo docker rmi $(docker images -q)
+
+### Access the blog
+
+Once the Docker container is running, go to [localhost:1234](http://127.0.0.1:1234/)

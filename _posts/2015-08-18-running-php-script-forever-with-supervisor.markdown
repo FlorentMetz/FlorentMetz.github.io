@@ -1,5 +1,6 @@
 ---
 layout: post
+locale: en
 title:  "Running a PHP script forever with Supervisor"
 date:   2015-08-18 11:30:00
 categories: script php
