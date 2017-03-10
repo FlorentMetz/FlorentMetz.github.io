@@ -20,7 +20,7 @@ The Dockerfile is to docker what wheels are to a car: you won't go far without i
 
 Here is the one I came up with, and I'll explain what it does.
 
-{% highlight ruby linenos %}
+{% highlight bash linenos %}
 FROM ruby:2.3
 
 COPY . /jekyll-blog

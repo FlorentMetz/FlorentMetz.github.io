@@ -8,6 +8,9 @@ locale: "en-GB"
 markdown: kramdown
 highlighter: rouge
 
+sass:
+  style: compressed
+
 gems:
   - jekyll-seo-tag
   - jekyll-feed
