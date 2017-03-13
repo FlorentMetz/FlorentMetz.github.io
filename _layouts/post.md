@@ -2,6 +2,12 @@
 layout: default
 ---
 
+{% capture know_more %}
+  {% if locale == 'fr' %}Veux-tu en savoir plus
+  {% else %}Do you want to know more
+  {% endif %}?
+{% endcapture %}
+
 <div id="main">
   {% assign lengthCateogries = page.categories | size %}
   <article>
@@ -27,7 +33,7 @@ layout: default
           <section>{{ page.previous.excerpt | markdownify }}</section>
           <footer>
             <ul class="actions">
-              <li><a href="{{ page.previous.url }}" class="button">Veux-tu en savoir plus?</a></li>
+              <li><a href="{{ page.previous.url }}" class="button">{{ know_more }}</a></li>
             </ul>
           </footer>
         </article>
@@ -41,7 +47,7 @@ layout: default
           <section>{{ page.next.excerpt | markdownify }}</section>
           <footer>
             <ul class="actions">
-              <li><a href="{{ page.next.url }}" class="button">Veux-tu en savoir plus?</a></li>
+              <li><a href="{{ page.next.url }}" class="button">{{ know_more }}</a></li>
             </ul>
           </footer>
         </article>

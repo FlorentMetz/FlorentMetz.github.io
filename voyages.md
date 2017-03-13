@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Mes voyages d'içi et ailleurs
-permalink: /voyages
+permalink: /voyages.html
+locale: fr
 ---
 
 <div id="main">

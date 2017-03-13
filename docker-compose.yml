@@ -1,0 +1,8 @@
+version: '3'
+services:
+  jekyll:
+    build: .
+    ports:
+        - "1234:4000"
+    volumes:
+        - .:/jekyll-blog

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Web Development
-permalink: /dev
+permalink: /dev.html
 ---
 
 <div id="main">

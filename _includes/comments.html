@@ -1,3 +1,4 @@
+{% if true != page.disable_comments %}
 <div id="disqus_thread"></div>
 <script>
 /**
@@ -16,3 +17,4 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 </script>
+{% endif %}

@@ -2,7 +2,9 @@
 timezone: Europe/London
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://flotz-chronicles.com" # the base hostname & protocol for your site
-locale: "en-GB"
+locale: "en"
+# simple flag used to turn comments on or off
+disable_comments: false
 
 # Build settings
 markdown: kramdown
@@ -20,7 +22,7 @@ gems:
 collections:
   travels:
     output: true
-    permalink: /voyages-:slug.html
+    permalink: /voyages/:slug.html
 
 # SEO settings
 title: Flotz Chronicles
