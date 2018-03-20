@@ -25,4 +25,10 @@ layout: default
         </article>
     </div>
   </section>
+  <section>
+    <div class="row">
+      <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script>
+      <iframe src="//lightwidget.com/widgets/5a57fe4f4d145f8daa558c10d3cbd0f1.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+    </div>
+  </section>
 </div>
