@@ -1,4 +1,5 @@
 ---
+layout: page
 title: My Resume
 permalink: /resume
 disable_comments: true
