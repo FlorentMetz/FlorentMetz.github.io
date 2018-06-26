@@ -1,6 +1,8 @@
 ---
 title: My Resume
 permalink: /resume
+disable_comments: true
+sitemap: false
 ---
 
 # First
