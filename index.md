@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <div id="main">
   <section>
     <div class="row">
@@ -27,8 +28,20 @@ layout: default
   </section>
   <section>
     <div class="row">
-      <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script>
-      <iframe src="//lightwidget.com/widgets/5a57fe4f4d145f8daa558c10d3cbd0f1.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
-    </div>
+      <article>
+        <header>
+          <h2>Latest Instagram Posts</h2>
+        </header>
+      </article>
+      <div id="instafeed" class="row"></div>
   </section>
 </div>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $.get('https://api.instagram.com/v1/users/self/media/recent/?count=12&access_token=2074401603.30e0ccb.1bab7b868b99480dbf33a04b9c4dbf14', function(apiReturn) {
+      $.each(apiReturn.data, function(i, value) {
+        $('#instafeed').append('<article><section><a target="_blank" href="'+value.link+'"><img src="'+value.images.thumbnail.url+'" title="'+value.caption.text+'" /></a></section></article>');
+      });
+    });
+  });
+</script>
