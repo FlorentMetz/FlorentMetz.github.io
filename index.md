@@ -34,6 +34,7 @@ layout: default
         </header>
       </article>
       <div id="instafeed" class="row"></div>
+    </div>
   </section>
 </div>
 <script type="text/javascript">
