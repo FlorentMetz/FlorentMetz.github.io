@@ -124,7 +124,7 @@ _Tuol Sleng - S21 - Des cr&acirc;nes d&eacute;fonc&eacute;s_
 
 Pis comme si ce mus&eacute;e ne suffisait pas, il y a aussi les Champs d'extermination (Killing Fields) &agrave; visiter!
 
-En gros, quand les Khmers n'avaient plus de place pour tuer et stocker les corps dans la Prison S-21, ils d&eacute;portaient les d&eacute;tenus &agrave; 15 km de l&agrave; - Choeung Ek - pour les &eacute;x&eacute;cuter tranquillement...</p>
+En gros, quand les Khmers n'avaient plus de place pour tuer et stocker les corps dans la Prison S-21, ils d&eacute;portaient les d&eacute;tenus &agrave; 15 km de l&agrave; - Choeung Ek - pour les &eacute;x&eacute;cuter tranquillement...
 
 {:.image.fit}
 ![Monument aux morts de la Prison S-21 et du camp](/medias/photos/cambodge/killing-fields/image_29.jpg 'Monument aux morts de la Prison S-21 et du camp')
