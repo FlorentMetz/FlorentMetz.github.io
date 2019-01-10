@@ -4,10 +4,10 @@ locale: en
 title:  "Bash and Pieces"
 date:   2018-01-10 13:30:00
 categories: bash linux
-excerpt: "Here is a list of &quote;useful&quote; bash commands that I always seem to forget ..."
+excerpt: 'Here is a list of "useful" bash commands that I always seem to forget ...'
 ---
 
-### Get CPU percentage
+## Get CPU percentage
 
 ```
 top -bn 2 -d 0.1 | grep -E '^(%)?Cpu' | tail -n 1 | awk '{print $2+$4+$6}'
@@ -20,7 +20,7 @@ top -bn 2 -d 0.1 | grep -E '^(%)?Cpu' | tail -n 1 | awk '{print $2+$4+$6}'
 # awk           to add numbers up
 ```
 
-### Get Memory percentage
+## Get Memory percentage
 
 ```
 free -t | grep 'Total' | awk '{print ($3 * 100) / $2 }'
@@ -30,7 +30,7 @@ free -t | grep 'Total' | awk '{print ($3 * 100) / $2 }'
 # awk           to make a percentage
 ```
 
-### Count the total number of docker containers
+## Count the total number of docker containers
 
 ```
 docker ps -aq | wc -l
@@ -39,7 +39,7 @@ docker ps -aq | wc -l
 # wc -l         counts the total of line
 ```
 
-### Get a timestamp in seconds
+## Get a timestamp in seconds
 
 ```
 date +%s%N | cut -b1-13
@@ -47,7 +47,7 @@ date +%s%N | cut -b1-13
 # cut -b1-13    will keep the 13 first digits which is what we want because the date will return the nano seconds
 ```
 
-### Prompt for user input with a timeout
+## Prompt for user input with a timeout
 
 Sometimes people fall asleep in front of their screen so a simple `read -p "your question:" $value;` will be prompted for ever... Add a timeout!
 
