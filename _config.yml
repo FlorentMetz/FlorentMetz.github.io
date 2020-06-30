@@ -1,7 +1,7 @@
 # Common settings
 timezone: Europe/London
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://flotz-chronicles.com" # the base hostname & protocol for your site
+url: "https://florentmetz.github.io" # the base hostname & protocol for your site
 locale: "en"
 # simple flag used to turn comments on or off
 disable_comments: false
